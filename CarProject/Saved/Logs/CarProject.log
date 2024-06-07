@@ -1521,3 +1521,500 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2024.06.06-23.35.17:149][402]AssetCheck: New page: Asset Save: multiple assets
 [2024.06.06-23.35.17:149][402]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
 [2024.06.06-23.35.17:149][402]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2024.06.06-23.45.17:380][409]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2024.06.06-23.45.17:383][409]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.015
+[2024.06.06-23.45.17:385][409]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Engine/BasicShapes/Plane] ([1] browsable assets)...
+[2024.06.06-23.45.17:432][409]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Engine/BasicShapes/Plane.Plane]
+[2024.06.06-23.45.17:432][409]OBJ SavePackage: Finished generating thumbnails for package [/Engine/BasicShapes/Plane]
+[2024.06.06-23.45.17:432][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/BasicShapes/Plane" FILE="G:/project/university/game/car/CarProject/Saved/Autosaves/Engine/BasicShapes/Plane_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2024.06.06-23.45.17:443][409]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/Plane_Auto140BD557D43697EBA9E4ED8BACD1488D0.tmp' to 'G:/project/university/game/car/CarProject/Saved/Autosaves/Engine/BasicShapes/Plane_Auto1.uasset'
+[2024.06.06-23.45.17:444][409]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Car1_final] ([1] browsable assets)...
+[2024.06.06-23.45.17:477][409]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Car1_final.Car1_final]
+[2024.06.06-23.45.17:477][409]OBJ SavePackage: Finished generating thumbnails for package [/Game/Car1_final]
+[2024.06.06-23.45.17:477][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Car1_final" FILE="G:/project/university/game/car/CarProject/Saved/Autosaves/Game/Car1_final_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2024.06.06-23.45.17:568][409]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/Car1_final_Auto19F749ED2406FC3D40AC0299FF86B0D2D.tmp' to 'G:/project/university/game/car/CarProject/Saved/Autosaves/Game/Car1_final_Auto1.uasset'
+[2024.06.06-23.45.17:570][409]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Car1_final_Skeleton] ([1] browsable assets)...
+[2024.06.06-23.45.17:570][409]OBJ SavePackage: Finished generating thumbnails for package [/Game/Car1_final_Skeleton]
+[2024.06.06-23.45.17:570][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Car1_final_Skeleton" FILE="G:/project/university/game/car/CarProject/Saved/Autosaves/Game/Car1_final_Skeleton_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2024.06.06-23.45.17:572][409]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/Car1_final_Skeleton_Auto19B297D5643E359B01A5542AD23669A03.tmp' to 'G:/project/university/game/car/CarProject/Saved/Autosaves/Game/Car1_final_Skeleton_Auto1.uasset'
+[2024.06.06-23.45.17:573][409]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Car1_final_PhysicsAsset] ([1] browsable assets)...
+[2024.06.06-23.45.17:602][409]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Car1_final_PhysicsAsset.Car1_final_PhysicsAsset]
+[2024.06.06-23.45.17:602][409]OBJ SavePackage: Finished generating thumbnails for package [/Game/Car1_final_PhysicsAsset]
+[2024.06.06-23.45.17:602][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Car1_final_PhysicsAsset" FILE="G:/project/university/game/car/CarProject/Saved/Autosaves/Game/Car1_final_PhysicsAsset_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2024.06.06-23.45.17:619][409]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/Car1_final_PhysicsAsset_Auto1D109361244BB0DC73B9AA4B632BD7C3E.tmp' to 'G:/project/university/game/car/CarProject/Saved/Autosaves/Game/Car1_final_PhysicsAsset_Auto1.uasset'
+[2024.06.06-23.45.17:620][409]LogFileHelpers: Auto-saving content packages took 0.236
+[2024.06.07-00.00.46:888][843]LogContentBrowser: Attempting asset rename: fronttaillights -> fronttaillights
+[2024.06.07-00.00.50:132][934]LogContentBrowser: Attempting asset rename: fronttaillights -> fronttaillights
+[2024.06.07-00.01.40:945][965]LogContentBrowser: Attempting asset rename: fronttaillights -> M_Front_And_Tail_Lights
+[2024.06.07-00.01.41:153][965]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/M_Front_And_Tail_Lights" FILE="G:/project/university/game/car/CarProject/Content/M_Front_And_Tail_Lights.uasset" SILENT=true
+[2024.06.07-00.01.41:164][965]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/M_Front_And_Tail_Lights956B81B1480D4622F7DE82B56FB9E710.tmp' to 'G:/project/university/game/car/CarProject/Content/M_Front_And_Tail_Lights.uasset'
+[2024.06.07-00.01.41:277][965]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.06.07-00.01.41:303][965]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.06.07-00.01.41:313][965]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.06.07-00.01.41:351][965]AssetCheck: New page: Asset Save: M_Front_And_Tail_Lights
+[2024.06.07-00.01.41:351][965]LogContentValidation: Display: Validating Material /Game/M_Front_And_Tail_Lights.M_Front_And_Tail_Lights
+[2024.06.07-00.02.06:951][345]LogContentBrowser: Attempting asset rename: speedmeter -> M_Speedmeter
+[2024.06.07-00.02.07:139][345]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/M_Speedmeter" FILE="G:/project/university/game/car/CarProject/Content/M_Speedmeter.uasset" SILENT=true
+[2024.06.07-00.02.07:149][345]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/M_Speedmeter70042A2D40D458B43609328C0E91A5A6.tmp' to 'G:/project/university/game/car/CarProject/Content/M_Speedmeter.uasset'
+[2024.06.07-00.02.07:247][345]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.06.07-00.02.07:267][345]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.06.07-00.02.07:277][345]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.06.07-00.02.07:311][345]AssetCheck: New page: Asset Save: M_Speedmeter
+[2024.06.07-00.02.07:311][345]LogContentValidation: Display: Validating Material /Game/M_Speedmeter.M_Speedmeter
+[2024.06.07-00.02.23:873][695]LogContentBrowser: Attempting asset rename: tachometer -> M_Tachometer
+[2024.06.07-00.02.24:114][695]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/M_Tachometer" FILE="G:/project/university/game/car/CarProject/Content/M_Tachometer.uasset" SILENT=true
+[2024.06.07-00.02.24:137][695]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/M_Tachometer22FB82C940059AA64D77718BE32E4817.tmp' to 'G:/project/university/game/car/CarProject/Content/M_Tachometer.uasset'
+[2024.06.07-00.02.24:268][695]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.06.07-00.02.24:289][695]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.06.07-00.02.24:299][695]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.06.07-00.02.24:332][695]AssetCheck: New page: Asset Save: M_Tachometer
+[2024.06.07-00.02.24:332][695]LogContentValidation: Display: Validating Material /Game/M_Tachometer.M_Tachometer
+[2024.06.07-00.03.32:433][704]LogContentBrowser: Attempting asset rename: Car1_final -> SM_Vehiclemodel
+[2024.06.07-00.03.32:621][704]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SM_Vehiclemodel" FILE="G:/project/university/game/car/CarProject/Content/SM_Vehiclemodel.uasset" SILENT=true
+[2024.06.07-00.03.32:701][704]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/SM_VehiclemodelC241786F4BDAF742602679A70DF6DF6F.tmp' to 'G:/project/university/game/car/CarProject/Content/SM_Vehiclemodel.uasset'
+[2024.06.07-00.03.32:810][704]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.06.07-00.03.32:833][704]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.06.07-00.03.32:842][704]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.06.07-00.03.32:878][704]AssetCheck: New page: Asset Save: SM_Vehiclemodel
+[2024.06.07-00.03.32:878][704]LogContentValidation: Display: Validating SkeletalMesh /Game/SM_Vehiclemodel.SM_Vehiclemodel
+[2024.06.07-00.04.02:076][ 74]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetTileView [SAssetView.cpp(1563)].
+[2024.06.07-00.04.02:076][ 74]LogContentBrowser: Attempting asset rename: turnsignalright -> turnsignalright
+[2024.06.07-00.04.02:105][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.06.07-00.04.02:108][ 74]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.013
+[2024.06.07-00.04.02:109][ 74]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Car1_final_PhysicsAsset] ([1] browsable assets)...
+[2024.06.07-00.04.02:109][ 74]OBJ SavePackage: Finished generating thumbnails for package [/Game/Car1_final_PhysicsAsset]
+[2024.06.07-00.04.02:109][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Car1_final_PhysicsAsset" FILE="G:/project/university/game/car/CarProject/Saved/Autosaves/Game/Car1_final_PhysicsAsset_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2024.06.07-00.04.02:118][ 74]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/Car1_final_PhysicsAsset_Auto27C20338E454B1268CAEB3C9C1D232EA8.tmp' to 'G:/project/university/game/car/CarProject/Saved/Autosaves/Game/Car1_final_PhysicsAsset_Auto2.uasset'
+[2024.06.07-00.04.02:118][ 74]LogFileHelpers: Auto-saving content packages took 0.010
+[2024.06.07-00.04.17:238][398]LogContentBrowser: Attempting asset rename: turnsignalright -> M_Turnsignalright
+[2024.06.07-00.04.17:414][398]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/M_Turnsignalright" FILE="G:/project/university/game/car/CarProject/Content/M_Turnsignalright.uasset" SILENT=true
+[2024.06.07-00.04.17:424][398]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/M_Turnsignalright0450EA284CF78D03C5DB9FA81A93D69B.tmp' to 'G:/project/university/game/car/CarProject/Content/M_Turnsignalright.uasset'
+[2024.06.07-00.04.17:527][398]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.06.07-00.04.17:549][398]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.06.07-00.04.17:559][398]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.06.07-00.04.17:603][398]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SM_Vehiclemodel" FILE="G:/project/university/game/car/CarProject/Content/SM_Vehiclemodel.uasset" SILENT=true
+[2024.06.07-00.04.17:675][398]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/SM_Vehiclemodel00F7624C440146AA4608438EE2B47D97.tmp' to 'G:/project/university/game/car/CarProject/Content/SM_Vehiclemodel.uasset'
+[2024.06.07-00.04.17:720][398]AssetCheck: New page: Asset Save: multiple assets
+[2024.06.07-00.04.17:720][398]LogContentValidation: Display: Validating Material /Game/M_Turnsignalright.M_Turnsignalright
+[2024.06.07-00.04.17:720][398]LogContentValidation: Display: Validating SkeletalMesh /Game/SM_Vehiclemodel.SM_Vehiclemodel
+[2024.06.07-00.04.52:126][215]LogContentBrowser: Attempting asset rename: Car1_final_PhysicsAsset -> PHYS_Vehicle
+[2024.06.07-00.04.52:273][215]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PHYS_Vehicle" FILE="G:/project/university/game/car/CarProject/Content/PHYS_Vehicle.uasset" SILENT=true
+[2024.06.07-00.04.52:290][215]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/PHYS_Vehicle15F6F94B40AAE9F74F5CA7A3CB4B5231.tmp' to 'G:/project/university/game/car/CarProject/Content/PHYS_Vehicle.uasset'
+[2024.06.07-00.04.52:393][215]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.06.07-00.04.52:424][215]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.06.07-00.04.52:434][215]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.06.07-00.04.52:471][215]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SM_Vehiclemodel" FILE="G:/project/university/game/car/CarProject/Content/SM_Vehiclemodel.uasset" SILENT=true
+[2024.06.07-00.04.52:544][215]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/SM_Vehiclemodel4E0A4C8F4F700CCEAAC9EBB260EA04E7.tmp' to 'G:/project/university/game/car/CarProject/Content/SM_Vehiclemodel.uasset'
+[2024.06.07-00.04.52:589][215]AssetCheck: New page: Asset Save: multiple assets
+[2024.06.07-00.04.52:589][215]LogContentValidation: Display: Validating PhysicsAsset /Game/PHYS_Vehicle.PHYS_Vehicle
+[2024.06.07-00.04.52:590][215]LogContentValidation: Display: Validating SkeletalMesh /Game/SM_Vehiclemodel.SM_Vehiclemodel
+[2024.06.07-00.05.21:052][777]LogContentBrowser: Attempting asset rename: TextureMaterial -> M_TextureMaterial
+[2024.06.07-00.05.21:204][777]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/M_TextureMaterial" FILE="G:/project/university/game/car/CarProject/Content/M_TextureMaterial.uasset" SILENT=true
+[2024.06.07-00.05.21:215][777]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/M_TextureMaterial06CA894C45162FBCEFB784AA388DBFB5.tmp' to 'G:/project/university/game/car/CarProject/Content/M_TextureMaterial.uasset'
+[2024.06.07-00.05.21:326][777]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.06.07-00.05.21:348][777]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.06.07-00.05.21:357][777]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.06.07-00.05.21:405][777]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SM_Vehiclemodel" FILE="G:/project/university/game/car/CarProject/Content/SM_Vehiclemodel.uasset" SILENT=true
+[2024.06.07-00.05.21:491][777]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/SM_Vehiclemodel6456052149CCF0D89EC998ACEBD26C07.tmp' to 'G:/project/university/game/car/CarProject/Content/SM_Vehiclemodel.uasset'
+[2024.06.07-00.05.21:540][777]AssetCheck: New page: Asset Save: multiple assets
+[2024.06.07-00.05.21:540][777]LogContentValidation: Display: Validating Material /Game/M_TextureMaterial.M_TextureMaterial
+[2024.06.07-00.05.21:540][777]LogContentValidation: Display: Validating SkeletalMesh /Game/SM_Vehiclemodel.SM_Vehiclemodel
+[2024.06.07-00.05.45:825][291]LogContentBrowser: Attempting asset rename: Car1_final_Skeleton -> SKEL_Vehicle
+[2024.06.07-00.05.45:954][291]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SKEL_Vehicle" FILE="G:/project/university/game/car/CarProject/Content/SKEL_Vehicle.uasset" SILENT=true
+[2024.06.07-00.05.45:956][291]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/SKEL_Vehicle7D109C234A730CED1FEA5894D8AE0ED3.tmp' to 'G:/project/university/game/car/CarProject/Content/SKEL_Vehicle.uasset'
+[2024.06.07-00.05.46:058][291]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.06.07-00.05.46:079][291]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.06.07-00.05.46:089][291]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.06.07-00.05.46:120][291]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SM_Vehiclemodel" FILE="G:/project/university/game/car/CarProject/Content/SM_Vehiclemodel.uasset" SILENT=true
+[2024.06.07-00.05.46:191][291]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/SM_Vehiclemodel5621AB1E4D1425A2238648ACBF0B063A.tmp' to 'G:/project/university/game/car/CarProject/Content/SM_Vehiclemodel.uasset'
+[2024.06.07-00.05.46:236][291]AssetCheck: New page: Asset Save: multiple assets
+[2024.06.07-00.05.46:236][291]LogContentValidation: Display: Validating Skeleton /Game/SKEL_Vehicle.SKEL_Vehicle
+[2024.06.07-00.05.46:236][291]LogContentValidation: Display: Validating SkeletalMesh /Game/SM_Vehiclemodel.SM_Vehiclemodel
+[2024.06.07-00.07.10:592][154]LogContentBrowser: Attempting asset rename: download -> T_VehicleColorPalette
+[2024.06.07-00.07.10:760][154]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/T_VehicleColorPalette" FILE="G:/project/university/game/car/CarProject/Content/T_VehicleColorPalette.uasset" SILENT=true
+[2024.06.07-00.07.10:767][154]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/T_VehicleColorPalette45A1CB6D4374ADAC477835A4DDEB68A1.tmp' to 'G:/project/university/game/car/CarProject/Content/T_VehicleColorPalette.uasset'
+[2024.06.07-00.07.10:876][154]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.06.07-00.07.10:908][154]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.06.07-00.07.10:918][154]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.06.07-00.07.10:950][154]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/M_TextureMaterial" FILE="G:/project/university/game/car/CarProject/Content/M_TextureMaterial.uasset" SILENT=true
+[2024.06.07-00.07.10:953][154]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/M_TextureMaterial97C83FC64E063DC7F4B140AEF8C0AD01.tmp' to 'G:/project/university/game/car/CarProject/Content/M_TextureMaterial.uasset'
+[2024.06.07-00.07.10:997][154]AssetCheck: New page: Asset Save: multiple assets
+[2024.06.07-00.07.10:997][154]LogContentValidation: Display: Validating Texture2D /Game/T_VehicleColorPalette.T_VehicleColorPalette
+[2024.06.07-00.07.10:997][154]LogContentValidation: Display: Validating Material /Game/M_TextureMaterial.M_TextureMaterial
+[2024.06.07-00.32.41:611][798]LogHttp: Warning: 000001A9EAEDEB00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE27E4D3D-461F-E1A8-7272-40AE75DCBD1C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.06.07-00.32.41:612][798]LogHttp: Warning: 000001A9EAEDEB00: request failed, libcurl error: 0 (No error)
+[2024.06.07-00.32.41:612][798]LogHttp: Warning: 000001A9EAEDEB00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1a9917bfeb0 [can pipeline])
+[2024.06.07-00.32.41:612][798]LogHttp: Warning: 000001A9EAEDEB00: libcurl info message cache 1 (Re-using existing connection! (#1) with proxy 127.0.0.1)
+[2024.06.07-00.32.41:612][798]LogHttp: Warning: 000001A9EAEDEB00: libcurl info message cache 2 (Connected to 127.0.0.1 (127.0.0.1) port 10809 (#1))
+[2024.06.07-00.32.41:612][798]LogHttp: Warning: 000001A9EAEDEB00: libcurl info message cache 3 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2024.06.07-00.32.41:612][798]LogHttp: Warning: 000001A9EAEDEB00: libcurl info message cache 4 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2024.06.07-00.32.41:612][798]LogHttp: Warning: 000001A9EAEDEB00: libcurl info message cache 5 (We are completely uploaded and fine)
+[2024.06.07-00.32.41:612][798]LogHttp: Warning: 000001A9EAEDEB00: libcurl info message cache 6 (Connection died, retrying a fresh connect)
+[2024.06.07-00.32.41:612][798]LogHttp: Warning: 000001A9EAEDEB00: libcurl info message cache 7 (necessary data rewind wasn't possible)
+[2024.06.07-00.32.41:612][798]LogHttp: Warning: 000001A9EAEDEB00: libcurl info message cache 8 (Closing connection 1)
+[2024.06.07-00.32.41:613][798]LogHttp: Warning: 000001A9EAEDEB00: libcurl info message cache 9 (TLSv1.3 (OUT), TLS Unknown, Unknown (21):)
+[2024.06.07-00.32.41:613][798]LogHttp: Warning: 000001A9EAEDEB00: libcurl info message cache 10 (TLSv1.3 (OUT), TLS alert, Client hello (1):)
+[2024.06.07-00.32.41:613][798]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE27E4D3D-461F-E1A8-7272-40AE75DCBD1C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.06.07-00.33.24:507][926]LogHttp: Warning: 000001A9EAEDDD00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE27E4D3D-461F-E1A8-7272-40AE75DCBD1C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.06.07-00.33.24:507][926]LogHttp: Warning: 000001A9EAEDDD00: request failed, libcurl error: 35 (SSL connect error)
+[2024.06.07-00.33.24:507][926]LogHttp: Warning: 000001A9EAEDDD00: libcurl info message cache 0 (  Trying 127.0.0.1...)
+[2024.06.07-00.33.24:507][926]LogHttp: Warning: 000001A9EAEDDD00: libcurl info message cache 1 (TCP_NODELAY set)
+[2024.06.07-00.33.24:507][926]LogHttp: Warning: 000001A9EAEDDD00: libcurl info message cache 2 (Connected to 127.0.0.1 (127.0.0.1) port 10809 (#2))
+[2024.06.07-00.33.24:507][926]LogHttp: Warning: 000001A9EAEDDD00: libcurl info message cache 3 (allocate connect buffer!)
+[2024.06.07-00.33.24:507][926]LogHttp: Warning: 000001A9EAEDDD00: libcurl info message cache 4 (Establish HTTP proxy tunnel to datarouter.ol.epicgames.com:443)
+[2024.06.07-00.33.24:507][926]LogHttp: Warning: 000001A9EAEDDD00: libcurl info message cache 5 (Proxy replied OK to CONNECT request)
+[2024.06.07-00.33.24:507][926]LogHttp: Warning: 000001A9EAEDDD00: libcurl info message cache 6 (CONNECT phase completed!)
+[2024.06.07-00.33.24:507][926]LogHttp: Warning: 000001A9EAEDDD00: libcurl info message cache 7 (ALPN, offering http/1.1)
+[2024.06.07-00.33.24:508][926]LogHttp: Warning: 000001A9EAEDDD00: libcurl info message cache 8 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2024.06.07-00.33.24:508][926]LogHttp: Warning: 000001A9EAEDDD00: libcurl info message cache 9 (SSL re-using session ID)
+[2024.06.07-00.33.24:508][926]LogHttp: Warning: 000001A9EAEDDD00: libcurl info message cache 10 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.06.07-00.33.24:508][926]LogHttp: Warning: 000001A9EAEDDD00: libcurl info message cache 11 (CONNECT phase completed!)
+[2024.06.07-00.33.24:508][926]LogHttp: Warning: 000001A9EAEDDD00: libcurl info message cache 12 (CONNECT phase completed!)
+[2024.06.07-00.33.24:508][926]LogHttp: Warning: 000001A9EAEDDD00: libcurl info message cache 13 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2024.06.07-00.33.24:508][926]LogHttp: Warning: 000001A9EAEDDD00: libcurl info message cache 14 (Closing connection 2)
+[2024.06.07-00.33.24:508][926]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE27E4D3D-461F-E1A8-7272-40AE75DCBD1C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.06.07-00.34.25:173][107]LogHttp: Warning: 000001A9EAEDDD00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE27E4D3D-461F-E1A8-7272-40AE75DCBD1C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.06.07-00.34.25:173][107]LogHttp: Warning: 000001A9EAEDDD00: request failed, libcurl error: 35 (SSL connect error)
+[2024.06.07-00.34.25:173][107]LogHttp: Warning: 000001A9EAEDDD00: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2024.06.07-00.34.25:173][107]LogHttp: Warning: 000001A9EAEDDD00: libcurl info message cache 1 (  Trying 127.0.0.1...)
+[2024.06.07-00.34.25:173][107]LogHttp: Warning: 000001A9EAEDDD00: libcurl info message cache 2 (TCP_NODELAY set)
+[2024.06.07-00.34.25:173][107]LogHttp: Warning: 000001A9EAEDDD00: libcurl info message cache 3 (Connected to 127.0.0.1 (127.0.0.1) port 10809 (#3))
+[2024.06.07-00.34.25:173][107]LogHttp: Warning: 000001A9EAEDDD00: libcurl info message cache 4 (allocate connect buffer!)
+[2024.06.07-00.34.25:173][107]LogHttp: Warning: 000001A9EAEDDD00: libcurl info message cache 5 (Establish HTTP proxy tunnel to datarouter.ol.epicgames.com:443)
+[2024.06.07-00.34.25:173][107]LogHttp: Warning: 000001A9EAEDDD00: libcurl info message cache 6 (Proxy replied OK to CONNECT request)
+[2024.06.07-00.34.25:173][107]LogHttp: Warning: 000001A9EAEDDD00: libcurl info message cache 7 (CONNECT phase completed!)
+[2024.06.07-00.34.25:174][107]LogHttp: Warning: 000001A9EAEDDD00: libcurl info message cache 8 (ALPN, offering http/1.1)
+[2024.06.07-00.34.25:174][107]LogHttp: Warning: 000001A9EAEDDD00: libcurl info message cache 9 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2024.06.07-00.34.25:174][107]LogHttp: Warning: 000001A9EAEDDD00: libcurl info message cache 10 (SSL re-using session ID)
+[2024.06.07-00.34.25:174][107]LogHttp: Warning: 000001A9EAEDDD00: libcurl info message cache 11 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.06.07-00.34.25:174][107]LogHttp: Warning: 000001A9EAEDDD00: libcurl info message cache 12 (CONNECT phase completed!)
+[2024.06.07-00.34.25:174][107]LogHttp: Warning: 000001A9EAEDDD00: libcurl info message cache 13 (CONNECT phase completed!)
+[2024.06.07-00.34.25:174][107]LogHttp: Warning: 000001A9EAEDDD00: libcurl info message cache 14 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2024.06.07-00.34.25:174][107]LogHttp: Warning: 000001A9EAEDDD00: libcurl info message cache 15 (Closing connection 3)
+[2024.06.07-00.34.25:507][108]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE27E4D3D-461F-E1A8-7272-40AE75DCBD1C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.06.07-00.35.24:518][284]LogHttp: Warning: 000001A9EAEDC800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE27E4D3D-461F-E1A8-7272-40AE75DCBD1C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.06.07-00.35.24:518][284]LogHttp: Warning: 000001A9EAEDC800: request failed, libcurl error: 35 (SSL connect error)
+[2024.06.07-00.35.24:518][284]LogHttp: Warning: 000001A9EAEDC800: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2024.06.07-00.35.24:518][284]LogHttp: Warning: 000001A9EAEDC800: libcurl info message cache 1 (  Trying 127.0.0.1...)
+[2024.06.07-00.35.24:518][284]LogHttp: Warning: 000001A9EAEDC800: libcurl info message cache 2 (TCP_NODELAY set)
+[2024.06.07-00.35.24:518][284]LogHttp: Warning: 000001A9EAEDC800: libcurl info message cache 3 (Connected to 127.0.0.1 (127.0.0.1) port 10809 (#4))
+[2024.06.07-00.35.24:518][284]LogHttp: Warning: 000001A9EAEDC800: libcurl info message cache 4 (allocate connect buffer!)
+[2024.06.07-00.35.24:519][284]LogHttp: Warning: 000001A9EAEDC800: libcurl info message cache 5 (Establish HTTP proxy tunnel to datarouter.ol.epicgames.com:443)
+[2024.06.07-00.35.24:519][284]LogHttp: Warning: 000001A9EAEDC800: libcurl info message cache 6 (Proxy replied OK to CONNECT request)
+[2024.06.07-00.35.24:519][284]LogHttp: Warning: 000001A9EAEDC800: libcurl info message cache 7 (CONNECT phase completed!)
+[2024.06.07-00.35.24:519][284]LogHttp: Warning: 000001A9EAEDC800: libcurl info message cache 8 (ALPN, offering http/1.1)
+[2024.06.07-00.35.24:519][284]LogHttp: Warning: 000001A9EAEDC800: libcurl info message cache 9 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2024.06.07-00.35.24:519][284]LogHttp: Warning: 000001A9EAEDC800: libcurl info message cache 10 (SSL re-using session ID)
+[2024.06.07-00.35.24:519][284]LogHttp: Warning: 000001A9EAEDC800: libcurl info message cache 11 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.06.07-00.35.24:519][284]LogHttp: Warning: 000001A9EAEDC800: libcurl info message cache 12 (CONNECT phase completed!)
+[2024.06.07-00.35.24:519][284]LogHttp: Warning: 000001A9EAEDC800: libcurl info message cache 13 (CONNECT phase completed!)
+[2024.06.07-00.35.24:519][284]LogHttp: Warning: 000001A9EAEDC800: libcurl info message cache 14 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2024.06.07-00.35.24:519][284]LogHttp: Warning: 000001A9EAEDC800: libcurl info message cache 15 (Closing connection 4)
+[2024.06.07-00.35.24:520][284]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE27E4D3D-461F-E1A8-7272-40AE75DCBD1C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.06.07-00.36.29:907][479]LogHttp: Warning: 000001A9EAEDC800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE27E4D3D-461F-E1A8-7272-40AE75DCBD1C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.06.07-00.36.29:907][479]LogHttp: Warning: 000001A9EAEDC800: request failed, libcurl error: 35 (SSL connect error)
+[2024.06.07-00.36.29:907][479]LogHttp: Warning: 000001A9EAEDC800: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2024.06.07-00.36.29:907][479]LogHttp: Warning: 000001A9EAEDC800: libcurl info message cache 1 (  Trying 127.0.0.1...)
+[2024.06.07-00.36.29:907][479]LogHttp: Warning: 000001A9EAEDC800: libcurl info message cache 2 (TCP_NODELAY set)
+[2024.06.07-00.36.29:907][479]LogHttp: Warning: 000001A9EAEDC800: libcurl info message cache 3 (Connected to 127.0.0.1 (127.0.0.1) port 10809 (#5))
+[2024.06.07-00.36.29:907][479]LogHttp: Warning: 000001A9EAEDC800: libcurl info message cache 4 (allocate connect buffer!)
+[2024.06.07-00.36.29:907][479]LogHttp: Warning: 000001A9EAEDC800: libcurl info message cache 5 (Establish HTTP proxy tunnel to datarouter.ol.epicgames.com:443)
+[2024.06.07-00.36.29:907][479]LogHttp: Warning: 000001A9EAEDC800: libcurl info message cache 6 (Proxy replied OK to CONNECT request)
+[2024.06.07-00.36.29:907][479]LogHttp: Warning: 000001A9EAEDC800: libcurl info message cache 7 (CONNECT phase completed!)
+[2024.06.07-00.36.29:907][479]LogHttp: Warning: 000001A9EAEDC800: libcurl info message cache 8 (ALPN, offering http/1.1)
+[2024.06.07-00.36.29:907][479]LogHttp: Warning: 000001A9EAEDC800: libcurl info message cache 9 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2024.06.07-00.36.29:908][479]LogHttp: Warning: 000001A9EAEDC800: libcurl info message cache 10 (SSL re-using session ID)
+[2024.06.07-00.36.29:908][479]LogHttp: Warning: 000001A9EAEDC800: libcurl info message cache 11 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.06.07-00.36.29:908][479]LogHttp: Warning: 000001A9EAEDC800: libcurl info message cache 12 (CONNECT phase completed!)
+[2024.06.07-00.36.29:908][479]LogHttp: Warning: 000001A9EAEDC800: libcurl info message cache 13 (CONNECT phase completed!)
+[2024.06.07-00.36.29:908][479]LogHttp: Warning: 000001A9EAEDC800: libcurl info message cache 14 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2024.06.07-00.36.29:908][479]LogHttp: Warning: 000001A9EAEDC800: libcurl info message cache 15 (Closing connection 5)
+[2024.06.07-00.36.30:245][480]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE27E4D3D-461F-E1A8-7272-40AE75DCBD1C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.06.07-00.45.41:413][124]LogHttp: Warning: 000001A9EAEDC800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE27E4D3D-461F-E1A8-7272-40AE75DCBD1C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.06.07-00.45.41:413][124]LogHttp: Warning: 000001A9EAEDC800: request failed, libcurl error: 0 (No error)
+[2024.06.07-00.45.41:413][124]LogHttp: Warning: 000001A9EAEDC800: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1a9917be620 [can pipeline])
+[2024.06.07-00.45.41:413][124]LogHttp: Warning: 000001A9EAEDC800: libcurl info message cache 1 (Re-using existing connection! (#6) with proxy 127.0.0.1)
+[2024.06.07-00.45.41:413][124]LogHttp: Warning: 000001A9EAEDC800: libcurl info message cache 2 (Connected to 127.0.0.1 (127.0.0.1) port 10809 (#6))
+[2024.06.07-00.45.41:413][124]LogHttp: Warning: 000001A9EAEDC800: libcurl info message cache 3 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2024.06.07-00.45.41:413][124]LogHttp: Warning: 000001A9EAEDC800: libcurl info message cache 4 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2024.06.07-00.45.41:413][124]LogHttp: Warning: 000001A9EAEDC800: libcurl info message cache 5 (We are completely uploaded and fine)
+[2024.06.07-00.45.41:413][124]LogHttp: Warning: 000001A9EAEDC800: libcurl info message cache 6 (Connection died, retrying a fresh connect)
+[2024.06.07-00.45.41:413][124]LogHttp: Warning: 000001A9EAEDC800: libcurl info message cache 7 (necessary data rewind wasn't possible)
+[2024.06.07-00.45.41:414][124]LogHttp: Warning: 000001A9EAEDC800: libcurl info message cache 8 (Closing connection 6)
+[2024.06.07-00.45.41:414][124]LogHttp: Warning: 000001A9EAEDC800: libcurl info message cache 9 (TLSv1.3 (OUT), TLS Unknown, Unknown (21):)
+[2024.06.07-00.45.41:414][124]LogHttp: Warning: 000001A9EAEDC800: libcurl info message cache 10 (TLSv1.3 (OUT), TLS alert, Client hello (1):)
+[2024.06.07-00.45.41:414][124]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE27E4D3D-461F-E1A8-7272-40AE75DCBD1C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.06.07-00.49.24:245][789]LogHttp: Warning: 000001A9EAEDEB00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE27E4D3D-461F-E1A8-7272-40AE75DCBD1C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.06.07-00.49.24:245][789]LogHttp: Warning: 000001A9EAEDEB00: request failed, libcurl error: 35 (SSL connect error)
+[2024.06.07-00.49.24:245][789]LogHttp: Warning: 000001A9EAEDEB00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1a9917bf010 [can pipeline])
+[2024.06.07-00.49.24:246][789]LogHttp: Warning: 000001A9EAEDEB00: libcurl info message cache 1 (Hostname in DNS cache was stale, zapped)
+[2024.06.07-00.49.24:246][789]LogHttp: Warning: 000001A9EAEDEB00: libcurl info message cache 2 (  Trying 127.0.0.1...)
+[2024.06.07-00.49.24:246][789]LogHttp: Warning: 000001A9EAEDEB00: libcurl info message cache 3 (TCP_NODELAY set)
+[2024.06.07-00.49.24:246][789]LogHttp: Warning: 000001A9EAEDEB00: libcurl info message cache 4 (Connected to 127.0.0.1 (127.0.0.1) port 10809 (#8))
+[2024.06.07-00.49.24:246][789]LogHttp: Warning: 000001A9EAEDEB00: libcurl info message cache 5 (allocate connect buffer!)
+[2024.06.07-00.49.24:246][789]LogHttp: Warning: 000001A9EAEDEB00: libcurl info message cache 6 (Establish HTTP proxy tunnel to datarouter.ol.epicgames.com:443)
+[2024.06.07-00.49.24:246][789]LogHttp: Warning: 000001A9EAEDEB00: libcurl info message cache 7 (Proxy replied OK to CONNECT request)
+[2024.06.07-00.49.24:246][789]LogHttp: Warning: 000001A9EAEDEB00: libcurl info message cache 8 (CONNECT phase completed!)
+[2024.06.07-00.49.24:246][789]LogHttp: Warning: 000001A9EAEDEB00: libcurl info message cache 9 (ALPN, offering http/1.1)
+[2024.06.07-00.49.24:246][789]LogHttp: Warning: 000001A9EAEDEB00: libcurl info message cache 10 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2024.06.07-00.49.24:246][789]LogHttp: Warning: 000001A9EAEDEB00: libcurl info message cache 11 (SSL re-using session ID)
+[2024.06.07-00.49.24:247][789]LogHttp: Warning: 000001A9EAEDEB00: libcurl info message cache 12 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.06.07-00.49.24:247][789]LogHttp: Warning: 000001A9EAEDEB00: libcurl info message cache 13 (CONNECT phase completed!)
+[2024.06.07-00.49.24:247][789]LogHttp: Warning: 000001A9EAEDEB00: libcurl info message cache 14 (CONNECT phase completed!)
+[2024.06.07-00.49.24:247][789]LogHttp: Warning: 000001A9EAEDEB00: libcurl info message cache 15 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2024.06.07-00.49.24:247][789]LogHttp: Warning: 000001A9EAEDEB00: libcurl info message cache 16 (Closing connection 8)
+[2024.06.07-00.49.24:576][790]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE27E4D3D-461F-E1A8-7272-40AE75DCBD1C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.06.07-00.50.24:523][969]LogHttp: Warning: 000001A9FB75C100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE27E4D3D-461F-E1A8-7272-40AE75DCBD1C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.06.07-00.50.24:524][969]LogHttp: Warning: 000001A9FB75C100: request failed, libcurl error: 35 (SSL connect error)
+[2024.06.07-00.50.24:524][969]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1a9917bf010 [can pipeline])
+[2024.06.07-00.50.24:524][969]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 1 (Hostname in DNS cache was stale, zapped)
+[2024.06.07-00.50.24:524][969]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 2 (  Trying 127.0.0.1...)
+[2024.06.07-00.50.24:524][969]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 3 (TCP_NODELAY set)
+[2024.06.07-00.50.24:524][969]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 4 (Connected to 127.0.0.1 (127.0.0.1) port 10809 (#9))
+[2024.06.07-00.50.24:524][969]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 5 (allocate connect buffer!)
+[2024.06.07-00.50.24:524][969]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 6 (Establish HTTP proxy tunnel to datarouter.ol.epicgames.com:443)
+[2024.06.07-00.50.24:524][969]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 7 (Proxy replied OK to CONNECT request)
+[2024.06.07-00.50.24:524][969]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 8 (CONNECT phase completed!)
+[2024.06.07-00.50.24:524][969]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 9 (ALPN, offering http/1.1)
+[2024.06.07-00.50.24:524][969]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 10 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2024.06.07-00.50.24:524][969]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 11 (SSL re-using session ID)
+[2024.06.07-00.50.24:524][969]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 12 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.06.07-00.50.24:524][969]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 13 (CONNECT phase completed!)
+[2024.06.07-00.50.24:524][969]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 14 (CONNECT phase completed!)
+[2024.06.07-00.50.24:524][969]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 15 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2024.06.07-00.50.24:524][969]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 16 (Closing connection 9)
+[2024.06.07-00.50.24:859][970]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE27E4D3D-461F-E1A8-7272-40AE75DCBD1C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.06.07-00.51.04:102][ 87]LogHttp: Warning: 000001A9EAEDC100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE27E4D3D-461F-E1A8-7272-40AE75DCBD1C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.06.07-00.51.04:102][ 87]LogHttp: Warning: 000001A9EAEDC100: request failed, libcurl error: 0 (No error)
+[2024.06.07-00.51.04:102][ 87]LogHttp: Warning: 000001A9EAEDC100: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1a9917bf010 [can pipeline])
+[2024.06.07-00.51.04:102][ 87]LogHttp: Warning: 000001A9EAEDC100: libcurl info message cache 1 (Re-using existing connection! (#7) with proxy 127.0.0.1)
+[2024.06.07-00.51.04:103][ 87]LogHttp: Warning: 000001A9EAEDC100: libcurl info message cache 2 (Connected to 127.0.0.1 (127.0.0.1) port 10809 (#7))
+[2024.06.07-00.51.04:103][ 87]LogHttp: Warning: 000001A9EAEDC100: libcurl info message cache 3 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2024.06.07-00.51.04:103][ 87]LogHttp: Warning: 000001A9EAEDC100: libcurl info message cache 4 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2024.06.07-00.51.04:103][ 87]LogHttp: Warning: 000001A9EAEDC100: libcurl info message cache 5 (We are completely uploaded and fine)
+[2024.06.07-00.51.04:103][ 87]LogHttp: Warning: 000001A9EAEDC100: libcurl info message cache 6 (Connection died, retrying a fresh connect)
+[2024.06.07-00.51.04:103][ 87]LogHttp: Warning: 000001A9EAEDC100: libcurl info message cache 7 (necessary data rewind wasn't possible)
+[2024.06.07-00.51.04:103][ 87]LogHttp: Warning: 000001A9EAEDC100: libcurl info message cache 8 (Closing connection 7)
+[2024.06.07-00.51.04:103][ 87]LogHttp: Warning: 000001A9EAEDC100: libcurl info message cache 9 (TLSv1.3 (OUT), TLS Unknown, Unknown (21):)
+[2024.06.07-00.51.04:103][ 87]LogHttp: Warning: 000001A9EAEDC100: libcurl info message cache 10 (TLSv1.3 (OUT), TLS alert, Client hello (1):)
+[2024.06.07-00.51.04:440][ 88]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE27E4D3D-461F-E1A8-7272-40AE75DCBD1C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.06.07-00.51.24:524][148]LogHttp: Warning: 000001A9FB75C100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE27E4D3D-461F-E1A8-7272-40AE75DCBD1C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.06.07-00.51.24:524][148]LogHttp: Warning: 000001A9FB75C100: request failed, libcurl error: 35 (SSL connect error)
+[2024.06.07-00.51.24:524][148]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2024.06.07-00.51.24:524][148]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 1 (  Trying 127.0.0.1...)
+[2024.06.07-00.51.24:524][148]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 2 (TCP_NODELAY set)
+[2024.06.07-00.51.24:524][148]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 3 (Connected to 127.0.0.1 (127.0.0.1) port 10809 (#10))
+[2024.06.07-00.51.24:524][148]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 4 (allocate connect buffer!)
+[2024.06.07-00.51.24:524][148]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 5 (Establish HTTP proxy tunnel to datarouter.ol.epicgames.com:443)
+[2024.06.07-00.51.24:524][148]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 6 (Proxy replied OK to CONNECT request)
+[2024.06.07-00.51.24:524][148]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 7 (CONNECT phase completed!)
+[2024.06.07-00.51.24:524][148]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 8 (ALPN, offering http/1.1)
+[2024.06.07-00.51.24:524][148]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 9 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2024.06.07-00.51.24:525][148]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 10 (SSL re-using session ID)
+[2024.06.07-00.51.24:525][148]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 11 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.06.07-00.51.24:525][148]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 12 (CONNECT phase completed!)
+[2024.06.07-00.51.24:525][148]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 13 (CONNECT phase completed!)
+[2024.06.07-00.51.24:525][148]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 14 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2024.06.07-00.51.24:525][148]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 15 (Closing connection 10)
+[2024.06.07-00.51.24:525][148]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE27E4D3D-461F-E1A8-7272-40AE75DCBD1C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.06.07-00.52.24:483][327]LogHttp: Warning: 000001A9FB75C100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE27E4D3D-461F-E1A8-7272-40AE75DCBD1C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.06.07-00.52.24:483][327]LogHttp: Warning: 000001A9FB75C100: request failed, libcurl error: 35 (SSL connect error)
+[2024.06.07-00.52.24:483][327]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2024.06.07-00.52.24:483][327]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 1 (  Trying 127.0.0.1...)
+[2024.06.07-00.52.24:483][327]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 2 (TCP_NODELAY set)
+[2024.06.07-00.52.24:483][327]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 3 (Connected to 127.0.0.1 (127.0.0.1) port 10809 (#11))
+[2024.06.07-00.52.24:483][327]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 4 (allocate connect buffer!)
+[2024.06.07-00.52.24:483][327]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 5 (Establish HTTP proxy tunnel to datarouter.ol.epicgames.com:443)
+[2024.06.07-00.52.24:483][327]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 6 (Proxy replied OK to CONNECT request)
+[2024.06.07-00.52.24:483][327]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 7 (CONNECT phase completed!)
+[2024.06.07-00.52.24:484][327]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 8 (ALPN, offering http/1.1)
+[2024.06.07-00.52.24:484][327]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 9 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2024.06.07-00.52.24:484][327]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 10 (SSL re-using session ID)
+[2024.06.07-00.52.24:484][327]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 11 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.06.07-00.52.24:484][327]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 12 (CONNECT phase completed!)
+[2024.06.07-00.52.24:484][327]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 13 (CONNECT phase completed!)
+[2024.06.07-00.52.24:484][327]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 14 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2024.06.07-00.52.24:484][327]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 15 (Closing connection 11)
+[2024.06.07-00.52.24:825][328]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE27E4D3D-461F-E1A8-7272-40AE75DCBD1C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.06.07-00.53.24:542][506]LogHttp: Warning: 000001A9FB75C100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE27E4D3D-461F-E1A8-7272-40AE75DCBD1C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.06.07-00.53.24:542][506]LogHttp: Warning: 000001A9FB75C100: request failed, libcurl error: 35 (SSL connect error)
+[2024.06.07-00.53.24:542][506]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2024.06.07-00.53.24:542][506]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 1 (  Trying 127.0.0.1...)
+[2024.06.07-00.53.24:542][506]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 2 (TCP_NODELAY set)
+[2024.06.07-00.53.24:542][506]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 3 (Connected to 127.0.0.1 (127.0.0.1) port 10809 (#12))
+[2024.06.07-00.53.24:542][506]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 4 (allocate connect buffer!)
+[2024.06.07-00.53.24:543][506]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 5 (Establish HTTP proxy tunnel to datarouter.ol.epicgames.com:443)
+[2024.06.07-00.53.24:543][506]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 6 (Proxy replied OK to CONNECT request)
+[2024.06.07-00.53.24:543][506]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 7 (CONNECT phase completed!)
+[2024.06.07-00.53.24:543][506]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 8 (ALPN, offering http/1.1)
+[2024.06.07-00.53.24:543][506]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 9 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2024.06.07-00.53.24:543][506]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 10 (SSL re-using session ID)
+[2024.06.07-00.53.24:543][506]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 11 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.06.07-00.53.24:543][506]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 12 (CONNECT phase completed!)
+[2024.06.07-00.53.24:543][506]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 13 (CONNECT phase completed!)
+[2024.06.07-00.53.24:543][506]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 14 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2024.06.07-00.53.24:543][506]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 15 (Closing connection 12)
+[2024.06.07-00.53.24:544][506]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE27E4D3D-461F-E1A8-7272-40AE75DCBD1C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.06.07-00.54.24:242][684]LogHttp: Warning: 000001A9FB75C100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE27E4D3D-461F-E1A8-7272-40AE75DCBD1C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.06.07-00.54.24:242][684]LogHttp: Warning: 000001A9FB75C100: request failed, libcurl error: 35 (SSL connect error)
+[2024.06.07-00.54.24:242][684]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 0 (Hostname 127.0.0.1 was found in DNS cache)
+[2024.06.07-00.54.24:242][684]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 1 (  Trying 127.0.0.1...)
+[2024.06.07-00.54.24:242][684]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 2 (TCP_NODELAY set)
+[2024.06.07-00.54.24:242][684]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 3 (Connected to 127.0.0.1 (127.0.0.1) port 10809 (#13))
+[2024.06.07-00.54.24:242][684]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 4 (allocate connect buffer!)
+[2024.06.07-00.54.24:242][684]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 5 (Establish HTTP proxy tunnel to datarouter.ol.epicgames.com:443)
+[2024.06.07-00.54.24:242][684]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 6 (Proxy replied OK to CONNECT request)
+[2024.06.07-00.54.24:242][684]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 7 (CONNECT phase completed!)
+[2024.06.07-00.54.24:242][684]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 8 (ALPN, offering http/1.1)
+[2024.06.07-00.54.24:243][684]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 9 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2024.06.07-00.54.24:243][684]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 10 (SSL re-using session ID)
+[2024.06.07-00.54.24:243][684]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 11 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.06.07-00.54.24:243][684]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 12 (CONNECT phase completed!)
+[2024.06.07-00.54.24:243][684]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 13 (CONNECT phase completed!)
+[2024.06.07-00.54.24:243][684]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 14 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2024.06.07-00.54.24:243][684]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 15 (Closing connection 13)
+[2024.06.07-00.54.24:243][684]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE27E4D3D-461F-E1A8-7272-40AE75DCBD1C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.06.07-00.55.24:529][864]LogHttp: Warning: 000001A9FB75C100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE27E4D3D-461F-E1A8-7272-40AE75DCBD1C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.06.07-00.55.24:530][864]LogHttp: Warning: 000001A9FB75C100: request failed, libcurl error: 35 (SSL connect error)
+[2024.06.07-00.55.24:530][864]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 0 (  Trying 127.0.0.1...)
+[2024.06.07-00.55.24:530][864]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 1 (TCP_NODELAY set)
+[2024.06.07-00.55.24:530][864]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 2 (Connected to 127.0.0.1 (127.0.0.1) port 10809 (#14))
+[2024.06.07-00.55.24:530][864]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 3 (allocate connect buffer!)
+[2024.06.07-00.55.24:530][864]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 4 (Establish HTTP proxy tunnel to datarouter.ol.epicgames.com:443)
+[2024.06.07-00.55.24:530][864]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 5 (Proxy replied OK to CONNECT request)
+[2024.06.07-00.55.24:530][864]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 6 (CONNECT phase completed!)
+[2024.06.07-00.55.24:530][864]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 7 (ALPN, offering http/1.1)
+[2024.06.07-00.55.24:530][864]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 8 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2024.06.07-00.55.24:530][864]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 9 (SSL re-using session ID)
+[2024.06.07-00.55.24:530][864]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 10 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.06.07-00.55.24:531][864]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 11 (CONNECT phase completed!)
+[2024.06.07-00.55.24:531][864]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 12 (CONNECT phase completed!)
+[2024.06.07-00.55.24:531][864]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 13 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2024.06.07-00.55.24:531][864]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 14 (Closing connection 14)
+[2024.06.07-00.55.24:531][864]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE27E4D3D-461F-E1A8-7272-40AE75DCBD1C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.06.07-00.56.24:531][ 43]LogHttp: Warning: 000001A9FB75C100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE27E4D3D-461F-E1A8-7272-40AE75DCBD1C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.06.07-00.56.24:531][ 43]LogHttp: Warning: 000001A9FB75C100: request failed, libcurl error: 35 (SSL connect error)
+[2024.06.07-00.56.24:531][ 43]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2024.06.07-00.56.24:531][ 43]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 1 (  Trying 127.0.0.1...)
+[2024.06.07-00.56.24:532][ 43]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 2 (TCP_NODELAY set)
+[2024.06.07-00.56.24:532][ 43]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 3 (Connected to 127.0.0.1 (127.0.0.1) port 10809 (#15))
+[2024.06.07-00.56.24:532][ 43]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 4 (allocate connect buffer!)
+[2024.06.07-00.56.24:532][ 43]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 5 (Establish HTTP proxy tunnel to datarouter.ol.epicgames.com:443)
+[2024.06.07-00.56.24:532][ 43]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 6 (Proxy replied OK to CONNECT request)
+[2024.06.07-00.56.24:532][ 43]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 7 (CONNECT phase completed!)
+[2024.06.07-00.56.24:532][ 43]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 8 (ALPN, offering http/1.1)
+[2024.06.07-00.56.24:532][ 43]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 9 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2024.06.07-00.56.24:532][ 43]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 10 (SSL re-using session ID)
+[2024.06.07-00.56.24:532][ 43]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 11 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.06.07-00.56.24:532][ 43]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 12 (CONNECT phase completed!)
+[2024.06.07-00.56.24:532][ 43]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 13 (CONNECT phase completed!)
+[2024.06.07-00.56.24:532][ 43]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 14 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2024.06.07-00.56.24:532][ 43]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 15 (Closing connection 15)
+[2024.06.07-00.56.24:867][ 44]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE27E4D3D-461F-E1A8-7272-40AE75DCBD1C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.06.07-00.57.24:484][222]LogHttp: Warning: 000001A9FB75C100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE27E4D3D-461F-E1A8-7272-40AE75DCBD1C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.06.07-00.57.24:484][222]LogHttp: Warning: 000001A9FB75C100: request failed, libcurl error: 35 (SSL connect error)
+[2024.06.07-00.57.24:484][222]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2024.06.07-00.57.24:484][222]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 1 (  Trying 127.0.0.1...)
+[2024.06.07-00.57.24:484][222]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 2 (TCP_NODELAY set)
+[2024.06.07-00.57.24:484][222]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 3 (Connected to 127.0.0.1 (127.0.0.1) port 10809 (#16))
+[2024.06.07-00.57.24:484][222]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 4 (allocate connect buffer!)
+[2024.06.07-00.57.24:484][222]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 5 (Establish HTTP proxy tunnel to datarouter.ol.epicgames.com:443)
+[2024.06.07-00.57.24:485][222]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 6 (Proxy replied OK to CONNECT request)
+[2024.06.07-00.57.24:485][222]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 7 (CONNECT phase completed!)
+[2024.06.07-00.57.24:485][222]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 8 (ALPN, offering http/1.1)
+[2024.06.07-00.57.24:485][222]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 9 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2024.06.07-00.57.24:485][222]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 10 (SSL re-using session ID)
+[2024.06.07-00.57.24:485][222]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 11 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.06.07-00.57.24:485][222]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 12 (CONNECT phase completed!)
+[2024.06.07-00.57.24:485][222]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 13 (CONNECT phase completed!)
+[2024.06.07-00.57.24:485][222]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 14 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2024.06.07-00.57.24:485][222]LogHttp: Warning: 000001A9FB75C100: libcurl info message cache 15 (Closing connection 16)
+[2024.06.07-00.57.24:485][222]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE27E4D3D-461F-E1A8-7272-40AE75DCBD1C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.06.07-01.21.40:662][566]LogHttp: Warning: 000001A9FB75F200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE27E4D3D-461F-E1A8-7272-40AE75DCBD1C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.06.07-01.21.40:662][566]LogHttp: Warning: 000001A9FB75F200: request failed, libcurl error: 0 (No error)
+[2024.06.07-01.21.40:663][566]LogHttp: Warning: 000001A9FB75F200: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1a9917bfb50 [can pipeline])
+[2024.06.07-01.21.40:663][566]LogHttp: Warning: 000001A9FB75F200: libcurl info message cache 1 (Re-using existing connection! (#17) with proxy 127.0.0.1)
+[2024.06.07-01.21.40:663][566]LogHttp: Warning: 000001A9FB75F200: libcurl info message cache 2 (Connected to 127.0.0.1 (127.0.0.1) port 10809 (#17))
+[2024.06.07-01.21.40:663][566]LogHttp: Warning: 000001A9FB75F200: libcurl info message cache 3 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2024.06.07-01.21.40:663][566]LogHttp: Warning: 000001A9FB75F200: libcurl info message cache 4 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2024.06.07-01.21.40:663][566]LogHttp: Warning: 000001A9FB75F200: libcurl info message cache 5 (We are completely uploaded and fine)
+[2024.06.07-01.21.40:663][566]LogHttp: Warning: 000001A9FB75F200: libcurl info message cache 6 (Connection died, retrying a fresh connect)
+[2024.06.07-01.21.40:663][566]LogHttp: Warning: 000001A9FB75F200: libcurl info message cache 7 (necessary data rewind wasn't possible)
+[2024.06.07-01.21.40:663][566]LogHttp: Warning: 000001A9FB75F200: libcurl info message cache 8 (Closing connection 17)
+[2024.06.07-01.21.40:664][566]LogHttp: Warning: 000001A9FB75F200: libcurl info message cache 9 (TLSv1.3 (OUT), TLS Unknown, Unknown (21):)
+[2024.06.07-01.21.40:664][566]LogHttp: Warning: 000001A9FB75F200: libcurl info message cache 10 (TLSv1.3 (OUT), TLS alert, Client hello (1):)
+[2024.06.07-01.21.40:664][566]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE27E4D3D-461F-E1A8-7272-40AE75DCBD1C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.06.07-01.49.43:950][281]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.06.07-01.49.43:983][281]LogContentBrowser: Creating deferred item: NewFolder
+[2024.06.07-01.49.54:817][772]LogContentBrowser: Attempting asset rename: NewFolder -> Materials
+[2024.06.07-01.49.54:819][772]LogContentBrowser: End creating deferred item NewFolder
+[2024.06.07-01.49.59:296][974]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.06.07-01.49.59:312][974]LogContentBrowser: Creating deferred item: NewFolder
+[2024.06.07-01.50.08:595][380]LogContentBrowser: Attempting asset rename: NewFolder -> Textures
+[2024.06.07-01.50.08:596][380]LogContentBrowser: End creating deferred item NewFolder
+[2024.06.07-01.55.31:042][803]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.06.07-01.55.31:062][803]LogContentBrowser: Creating deferred item: NewFolder
+[2024.06.07-01.55.35:381][986]LogContentBrowser: Attempting asset rename: NewFolder -> Meshes
+[2024.06.07-01.55.35:381][986]LogContentBrowser: End creating deferred item NewFolder
+[2024.06.07-01.55.47:995][240]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.06.07-01.55.48:034][240]LogContentBrowser: Creating deferred item: NewFolder
+[2024.06.07-01.55.54:549][519]LogContentBrowser: Attempting asset rename: NewFolder -> TireConfigs
+[2024.06.07-01.55.54:550][519]LogContentBrowser: End creating deferred item NewFolder
+[2024.06.07-01.57.57:826][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Front_And_Tail_Lights" FILE="G:/project/university/game/car/CarProject/Content/Materials/M_Front_And_Tail_Lights.uasset" SILENT=true
+[2024.06.07-01.57.57:837][303]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/M_Front_And_Tail_Lights75E2537B4464F2393577BCAF12BDDAE0.tmp' to 'G:/project/university/game/car/CarProject/Content/Materials/M_Front_And_Tail_Lights.uasset'
+[2024.06.07-01.57.57:866][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Speedmeter" FILE="G:/project/university/game/car/CarProject/Content/Materials/M_Speedmeter.uasset" SILENT=true
+[2024.06.07-01.57.57:876][303]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/M_SpeedmeterC1DDEB4F415DD43A816A4EBD35EF6BA1.tmp' to 'G:/project/university/game/car/CarProject/Content/Materials/M_Speedmeter.uasset'
+[2024.06.07-01.57.57:905][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Tachometer" FILE="G:/project/university/game/car/CarProject/Content/Materials/M_Tachometer.uasset" SILENT=true
+[2024.06.07-01.57.57:915][303]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/M_TachometerAFB8B57640E0468BF26C4BA3CA5B240B.tmp' to 'G:/project/university/game/car/CarProject/Content/Materials/M_Tachometer.uasset'
+[2024.06.07-01.57.57:945][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_TextureMaterial" FILE="G:/project/university/game/car/CarProject/Content/Materials/M_TextureMaterial.uasset" SILENT=true
+[2024.06.07-01.57.57:955][303]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/M_TextureMaterial964766404065A6A1C38916AB3A3CD005.tmp' to 'G:/project/university/game/car/CarProject/Content/Materials/M_TextureMaterial.uasset'
+[2024.06.07-01.57.57:985][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Turnsignalright" FILE="G:/project/university/game/car/CarProject/Content/Materials/M_Turnsignalright.uasset" SILENT=true
+[2024.06.07-01.57.57:996][303]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/M_Turnsignalright8EA3244D4A713762AD2EAAB9B27F233E.tmp' to 'G:/project/university/game/car/CarProject/Content/Materials/M_Turnsignalright.uasset'
+[2024.06.07-01.57.58:108][303]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.06.07-01.57.58:127][303]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.06.07-01.57.58:136][303]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.06.07-01.57.58:146][303]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.06.07-01.57.58:155][303]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.06.07-01.57.58:174][303]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.06.07-01.57.58:184][303]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.06.07-01.57.58:212][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SM_Vehiclemodel" FILE="G:/project/university/game/car/CarProject/Content/SM_Vehiclemodel.uasset" SILENT=true
+[2024.06.07-01.57.58:292][303]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/SM_Vehiclemodel7C284D9041240C05F1D05CB971D12010.tmp' to 'G:/project/university/game/car/CarProject/Content/SM_Vehiclemodel.uasset'
+[2024.06.07-01.57.58:357][303]AssetCheck: New page: Asset Save: multiple assets
+[2024.06.07-01.57.58:357][303]LogContentValidation: Display: Validating Material /Game/Materials/M_Tachometer.M_Tachometer
+[2024.06.07-01.57.58:358][303]LogContentValidation: Display: Validating Material /Game/Materials/M_Speedmeter.M_Speedmeter
+[2024.06.07-01.57.58:358][303]LogContentValidation: Display: Validating Material /Game/Materials/M_Turnsignalright.M_Turnsignalright
+[2024.06.07-01.57.58:358][303]LogContentValidation: Display: Validating Material /Game/Materials/M_Front_And_Tail_Lights.M_Front_And_Tail_Lights
+[2024.06.07-01.57.58:358][303]LogContentValidation: Display: Validating Material /Game/Materials/M_TextureMaterial.M_TextureMaterial
+[2024.06.07-01.57.58:358][303]LogContentValidation: Display: Validating SkeletalMesh /Game/SM_Vehiclemodel.SM_Vehiclemodel
+[2024.06.07-01.58.30:092][673]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/PHYS_Vehicle" FILE="G:/project/university/game/car/CarProject/Content/Meshes/PHYS_Vehicle.uasset" SILENT=true
+[2024.06.07-01.58.30:109][673]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/PHYS_VehicleF88679BE46C0D353A3C3C3942597CBF1.tmp' to 'G:/project/university/game/car/CarProject/Content/Meshes/PHYS_Vehicle.uasset'
+[2024.06.07-01.58.30:110][673]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/SKEL_Vehicle" FILE="G:/project/university/game/car/CarProject/Content/Meshes/SKEL_Vehicle.uasset" SILENT=true
+[2024.06.07-01.58.30:112][673]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/SKEL_Vehicle1CF7F22D4697CE12D318028FED221CD1.tmp' to 'G:/project/university/game/car/CarProject/Content/Meshes/SKEL_Vehicle.uasset'
+[2024.06.07-01.58.30:141][673]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/SM_Vehiclemodel" FILE="G:/project/university/game/car/CarProject/Content/Meshes/SM_Vehiclemodel.uasset" SILENT=true
+[2024.06.07-01.58.30:221][673]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/SM_Vehiclemodel64A431D34F4D27EB6F63EE9F8ED7FF69.tmp' to 'G:/project/university/game/car/CarProject/Content/Meshes/SM_Vehiclemodel.uasset'
+[2024.06.07-01.58.30:338][673]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.06.07-01.58.30:349][673]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.06.07-01.58.30:359][673]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.06.07-01.58.30:380][673]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.06.07-01.58.30:389][673]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.06.07-01.58.30:447][673]AssetCheck: New page: Asset Save: multiple assets
+[2024.06.07-01.58.30:447][673]LogContentValidation: Display: Validating PhysicsAsset /Game/Meshes/PHYS_Vehicle.PHYS_Vehicle
+[2024.06.07-01.58.30:447][673]LogContentValidation: Display: Validating Skeleton /Game/Meshes/SKEL_Vehicle.SKEL_Vehicle
+[2024.06.07-01.58.30:447][673]LogContentValidation: Display: Validating SkeletalMesh /Game/Meshes/SM_Vehiclemodel.SM_Vehiclemodel
+[2024.06.07-01.58.33:373][831]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_VehicleColorPalette" FILE="G:/project/university/game/car/CarProject/Content/Textures/T_VehicleColorPalette.uasset" SILENT=true
+[2024.06.07-01.58.33:378][831]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/T_VehicleColorPalette7E990F5E4C2BAE61D914C6A31C9516A8.tmp' to 'G:/project/university/game/car/CarProject/Content/Textures/T_VehicleColorPalette.uasset'
+[2024.06.07-01.58.33:470][831]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.06.07-01.58.33:489][831]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.06.07-01.58.33:499][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.06.07-01.58.33:528][831]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_TextureMaterial" FILE="G:/project/university/game/car/CarProject/Content/Materials/M_TextureMaterial.uasset" SILENT=true
+[2024.06.07-01.58.33:531][831]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/M_TextureMaterial7A1F80ED412BC75C22CF7492314C4C2A.tmp' to 'G:/project/university/game/car/CarProject/Content/Materials/M_TextureMaterial.uasset'
+[2024.06.07-01.58.33:588][831]AssetCheck: New page: Asset Save: multiple assets
+[2024.06.07-01.58.33:588][831]LogContentValidation: Display: Validating Texture2D /Game/Textures/T_VehicleColorPalette.T_VehicleColorPalette
+[2024.06.07-01.58.33:588][831]LogContentValidation: Display: Validating Material /Game/Materials/M_TextureMaterial.M_TextureMaterial
+[2024.06.07-01.58.46:993][952]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.06.07-01.58.47:011][952]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/Minimal_Default1D03714D4912BD933938749680A75F91.tmp' to 'G:/project/university/game/car/CarProject/Content/StarterContent/Maps/Minimal_Default.umap'
+[2024.06.07-01.58.47:018][952]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="G:/project/university/game/car/CarProject/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2024.06.07-01.58.47:099][952]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/Minimal_Default_BuiltDataAB1D89F042284E3855CAA085635B27C3.tmp' to 'G:/project/university/game/car/CarProject/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2024.06.07-01.58.47:117][952]AssetCheck: New page: Asset Save: multiple assets
+[2024.06.07-01.58.47:117][952]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2024.06.07-01.58.47:117][952]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
