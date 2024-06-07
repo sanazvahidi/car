@@ -2323,3 +2323,17 @@ Script Stack (0 frames):
 [2024.06.07-02.46.58:272][609]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/ABP_VehicleAnim6C79508D40B2AAA14B4A9EADACFCC49B.tmp' to 'G:/project/university/game/car/CarProject/Content/ABP_VehicleAnim.uasset'
 [2024.06.07-02.46.58:288][609]AssetCheck: New page: Asset Save: ABP_VehicleAnim
 [2024.06.07-02.46.58:288][609]LogContentValidation: Display: Validating AnimBlueprint /Game/ABP_VehicleAnim.ABP_VehicleAnim
+[2024.06.07-02.48.15:307][964]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.06.07-02.48.15:307][964]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.07-02.48.15:315][964]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.06.07-02.48.15:316][964]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.07-02.48.15:411][964]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.06.07-02.48.15:411][964]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.07-02.48.18:394][ 80]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2024.06.07-03.06.57:272][427]LogUObjectHash: Compacting FUObjectHashTables data took   6.87ms
+[2024.06.07-03.06.57:293][427]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/Minimal_Default209EB3044F355621A1B843838300B7B2.tmp' to 'G:/project/university/game/car/CarProject/Content/StarterContent/Maps/Minimal_Default.umap'
+[2024.06.07-03.06.57:303][427]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="G:/project/university/game/car/CarProject/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2024.06.07-03.06.57:377][427]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/Minimal_Default_BuiltDataA9D12D8D4235E8BD6B158FA12A170B22.tmp' to 'G:/project/university/game/car/CarProject/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2024.06.07-03.06.57:397][427]AssetCheck: New page: Asset Save: multiple assets
+[2024.06.07-03.06.57:397][427]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2024.06.07-03.06.57:397][427]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
