@@ -2337,3 +2337,31 @@ Script Stack (0 frames):
 [2024.06.07-03.06.57:397][427]AssetCheck: New page: Asset Save: multiple assets
 [2024.06.07-03.06.57:397][427]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
 [2024.06.07-03.06.57:397][427]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2024.06.07-03.08.00:469][741]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.06.07-03.08.00:475][741]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.06.07-03.08.19:924][741]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.06.07-03.08.19:935][741]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.06.07-03.08.19:958][741]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.06.07-03.08.27:982][951]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Vehicle
+[2024.06.07-03.08.27:992][951]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.06.07-03.08.39:605][ 46]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_Vehicle.BP_Vehicle
+[2024.06.07-03.10.16:683][370]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.06.07-03.10.16:720][370]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.06.07-03.24.35:361][730]BlueprintLog: New page: Compile BP_Vehicle
+[2024.06.07-03.24.35:524][730]LogUObjectHash: Compacting FUObjectHashTables data took   6.33ms
+[2024.06.07-03.24.43:569][815]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Vehicle" FILE="G:/project/university/game/car/CarProject/Content/BP_Vehicle.uasset" SILENT=true
+[2024.06.07-03.24.43:596][815]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/BP_VehicleEA56B1C64F8A2D79B34A3AA5179091C6.tmp' to 'G:/project/university/game/car/CarProject/Content/BP_Vehicle.uasset'
+[2024.06.07-03.24.43:620][815]AssetCheck: New page: Asset Save: BP_Vehicle
+[2024.06.07-03.24.43:620][815]LogContentValidation: Display: Validating Blueprint /Game/BP_Vehicle.BP_Vehicle
+[2024.06.07-03.25.21:538][405]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.06.07-03.25.21:578][405]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.06.07-03.27.03:169][165]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2024.06.07-03.27.03:174][165]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.043
+[2024.06.07-03.27.03:174][165]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_Vehicle] ([2] browsable assets)...
+[2024.06.07-03.27.03:212][165]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_Vehicle.BP_Vehicle]
+[2024.06.07-03.27.03:213][165]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Vehicle]
+[2024.06.07-03.27.03:213][165]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Vehicle" FILE="G:/project/university/game/car/CarProject/Saved/Autosaves/Game/BP_Vehicle_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2024.06.07-03.27.03:231][165]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/BP_Vehicle_Auto4E4C3C60C49D4FFECE0365693D174A3FB.tmp' to 'G:/project/university/game/car/CarProject/Saved/Autosaves/Game/BP_Vehicle_Auto4.uasset'
+[2024.06.07-03.27.03:231][165]LogFileHelpers: Auto-saving content packages took 0.057
+[2024.06.07-03.30.25:086][838]BlueprintLog: New page: Compile BP_Vehicle
+[2024.06.07-03.30.25:162][838]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
