@@ -2054,3 +2054,14 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2024.06.07-02.05.20:254][361]AssetCheck: New page: Asset Save: multiple assets
 [2024.06.07-02.05.20:254][361]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
 [2024.06.07-02.05.20:255][361]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2024.06.07-02.07.55:125][678]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/PHYS_Vehicle" FILE="G:/project/university/game/car/CarProject/Content/Meshes/PHYS_Vehicle.uasset" SILENT=true
+[2024.06.07-02.07.55:127][678]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/PHYS_VehicleC0E1DDB54DB27663A7D0158F39E77D2E.tmp' to 'G:/project/university/game/car/CarProject/Content/Meshes/PHYS_Vehicle.uasset'
+[2024.06.07-02.07.55:143][678]AssetCheck: New page: Asset Save: PHYS_Vehicle
+[2024.06.07-02.07.55:144][678]LogContentValidation: Display: Validating PhysicsAsset /Game/Meshes/PHYS_Vehicle.PHYS_Vehicle
+[2024.06.07-02.07.56:720][737]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.06.07-02.07.56:736][737]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/Minimal_Default1A6594F14EFEC5D895C8D5BF58E77480.tmp' to 'G:/project/university/game/car/CarProject/Content/StarterContent/Maps/Minimal_Default.umap'
+[2024.06.07-02.07.56:744][737]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="G:/project/university/game/car/CarProject/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2024.06.07-02.07.56:816][737]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/Minimal_Default_BuiltDataC478EFDB46FDCB090D908B9B8B362123.tmp' to 'G:/project/university/game/car/CarProject/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2024.06.07-02.07.56:834][737]AssetCheck: New page: Asset Save: multiple assets
+[2024.06.07-02.07.56:834][737]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2024.06.07-02.07.56:834][737]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
