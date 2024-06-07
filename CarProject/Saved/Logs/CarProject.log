@@ -2194,3 +2194,86 @@ Script Stack (0 frames):
 [2024.06.07-02.20.25:521][ 47]AssetCheck: New page: Asset Save: multiple assets
 [2024.06.07-02.20.25:521][ 47]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
 [2024.06.07-02.20.25:521][ 47]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2024.06.07-02.27.39:298][859]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.06.07-02.27.39:310][859]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.06.07-02.27.39:321][859]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.06.07-02.28.04:577][ 44]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2024.06.07-02.28.04:588][ 44]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.06.07-02.28.20:767][768]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_FrontWheel
+[2024.06.07-02.28.20:833][768]LogMetaData: Removing '/Game/BP_FrontWheel.SKEL_BP_FrontWheel_C' ref from Metadata '/Game/NewBlueprint.PackageMetaData'
+[2024.06.07-02.28.20:833][768]LogMetaData: Removing '/Game/BP_FrontWheel.BP_FrontWheel_C' ref from Metadata '/Game/NewBlueprint.PackageMetaData'
+[2024.06.07-02.28.20:885][768]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_FrontWheel" FILE="G:/project/university/game/car/CarProject/Content/BP_FrontWheel.uasset" SILENT=true
+[2024.06.07-02.28.20:888][768]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/BP_FrontWheelDB487D2B4186265F44439289960A91DA.tmp' to 'G:/project/university/game/car/CarProject/Content/BP_FrontWheel.uasset'
+[2024.06.07-02.28.20:992][768]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.06.07-02.28.21:015][768]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.06.07-02.28.21:024][768]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.06.07-02.28.21:063][768]AssetCheck: New page: Asset Save: BP_FrontWheel
+[2024.06.07-02.28.21:063][768]LogContentValidation: Display: Validating Blueprint /Game/BP_FrontWheel.BP_FrontWheel
+[2024.06.07-02.28.29:652][930]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_FrontWheel.BP_FrontWheel
+[2024.06.07-02.28.30:293][930]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0021 seconds. Added 126 classes and 0 folders.
+[2024.06.07-02.29.50:729][220]LogSlate: Window 'BP_FrontWheel' being destroyed
+[2024.06.07-02.29.54:652][397]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.06.07-02.29.54:658][397]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.06.07-02.30.50:603][397]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.06.07-02.35.25:620][244]BlueprintLog: New page: Compile BP_FrontWheel
+[2024.06.07-02.35.25:678][244]LogUObjectHash: Compacting FUObjectHashTables data took   5.39ms
+[2024.06.07-02.35.53:681][542]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2024.06.07-02.35.53:682][542]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.038
+[2024.06.07-02.35.53:683][542]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_FrontWheel] ([2] browsable assets)...
+[2024.06.07-02.35.53:683][542]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_FrontWheel]
+[2024.06.07-02.35.53:683][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_FrontWheel" FILE="G:/project/university/game/car/CarProject/Saved/Autosaves/Game/BP_FrontWheel_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2024.06.07-02.35.53:686][542]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/BP_FrontWheel_Auto35A005D29454934289FEEA7B05F50759F.tmp' to 'G:/project/university/game/car/CarProject/Saved/Autosaves/Game/BP_FrontWheel_Auto3.uasset'
+[2024.06.07-02.35.53:688][542]LogFileHelpers: Auto-saving content packages took 0.005
+[2024.06.07-02.36.21:437][669]BlueprintLog: New page: Compile BP_FrontWheel
+[2024.06.07-02.36.21:475][669]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2024.06.07-02.36.22:112][704]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_FrontWheel" FILE="G:/project/university/game/car/CarProject/Content/BP_FrontWheel.uasset" SILENT=true
+[2024.06.07-02.36.22:115][704]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/BP_FrontWheelCD65E737483C795F1DA44AA50123772A.tmp' to 'G:/project/university/game/car/CarProject/Content/BP_FrontWheel.uasset'
+[2024.06.07-02.36.22:132][704]AssetCheck: New page: Asset Save: BP_FrontWheel
+[2024.06.07-02.36.22:132][704]LogContentValidation: Display: Validating Blueprint /Game/BP_FrontWheel.BP_FrontWheel
+[2024.06.07-02.36.23:682][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_FrontWheel" FILE="G:/project/university/game/car/CarProject/Content/BP_FrontWheel.uasset" SILENT=true
+[2024.06.07-02.36.23:685][794]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/BP_FrontWheelCBB738B2462A69230B2680B560E4C08A.tmp' to 'G:/project/university/game/car/CarProject/Content/BP_FrontWheel.uasset'
+[2024.06.07-02.36.23:702][794]AssetCheck: New page: Asset Save: BP_FrontWheel
+[2024.06.07-02.36.23:702][794]LogContentValidation: Display: Validating Blueprint /Game/BP_FrontWheel.BP_FrontWheel
+[2024.06.07-02.36.25:366][879]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2024.06.07-02.36.25:381][879]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/Minimal_Default3EB5A8FD439B917EA0B74F963863F60B.tmp' to 'G:/project/university/game/car/CarProject/Content/StarterContent/Maps/Minimal_Default.umap'
+[2024.06.07-02.36.25:389][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="G:/project/university/game/car/CarProject/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2024.06.07-02.36.25:462][879]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/Minimal_Default_BuiltDataFFCFD8714F94DF0059E648B652D61970.tmp' to 'G:/project/university/game/car/CarProject/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2024.06.07-02.36.25:478][879]AssetCheck: New page: Asset Save: multiple assets
+[2024.06.07-02.36.25:478][879]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2024.06.07-02.36.25:478][879]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2024.06.07-02.36.37:368][ 78]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.06.07-02.36.37:368][ 78]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.07-02.36.39:237][148]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.06.07-02.36.39:242][148]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.06.07-02.36.45:638][148]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.06.07-02.36.45:648][148]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.06.07-02.36.45:666][148]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.06.07-02.38.11:025][893]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_RearWheel
+[2024.06.07-02.38.11:032][893]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.06.07-02.38.34:329][122]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_RearWheel.BP_RearWheel
+[2024.06.07-02.39.06:594][359]LogSlate: Window 'BP_RearWheel' being destroyed
+[2024.06.07-02.39.06:612][360]LogRenderer: Reallocating scene render targets to support 1556x704 Format 10 NumSamples 1 (Frame:37238).
+[2024.06.07-02.39.10:061][530]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_FrontWheel.BP_FrontWheel
+[2024.06.07-02.39.14:525][752]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.06.07-02.39.14:525][752]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.07-02.40.07:003][  6]BlueprintLog: New page: Compile BP_RearWheel
+[2024.06.07-02.40.07:046][  6]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2024.06.07-02.40.07:594][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_RearWheel" FILE="G:/project/university/game/car/CarProject/Content/BP_RearWheel.uasset" SILENT=true
+[2024.06.07-02.40.07:597][ 35]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/BP_RearWheelBD1940AD4843684C1F830EBDF5A0C3A1.tmp' to 'G:/project/university/game/car/CarProject/Content/BP_RearWheel.uasset'
+[2024.06.07-02.40.07:615][ 35]AssetCheck: New page: Asset Save: BP_RearWheel
+[2024.06.07-02.40.07:615][ 35]LogContentValidation: Display: Validating Blueprint /Game/BP_RearWheel.BP_RearWheel
+[2024.06.07-02.40.20:200][294]BlueprintLog: New page: Compile BP_RearWheel
+[2024.06.07-02.40.20:239][294]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2024.06.07-02.40.21:528][368]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_RearWheel" FILE="G:/project/university/game/car/CarProject/Content/BP_RearWheel.uasset" SILENT=true
+[2024.06.07-02.40.21:532][368]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/BP_RearWheelA9319899444E206E061DD3971E6662BA.tmp' to 'G:/project/university/game/car/CarProject/Content/BP_RearWheel.uasset'
+[2024.06.07-02.40.21:548][368]AssetCheck: New page: Asset Save: BP_RearWheel
+[2024.06.07-02.40.21:548][368]LogContentValidation: Display: Validating Blueprint /Game/BP_RearWheel.BP_RearWheel
+[2024.06.07-02.40.23:858][506]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.06.07-02.40.23:858][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.07-02.40.25:517][558]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2024.06.07-02.40.25:532][558]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/Minimal_Default93AD0A364145F7897C9F5697476B7F9E.tmp' to 'G:/project/university/game/car/CarProject/Content/StarterContent/Maps/Minimal_Default.umap'
+[2024.06.07-02.40.25:539][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="G:/project/university/game/car/CarProject/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2024.06.07-02.40.25:612][558]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/Minimal_Default_BuiltData8EA3F3BB4174AC85AA8E2B92AC08B678.tmp' to 'G:/project/university/game/car/CarProject/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2024.06.07-02.40.25:629][558]AssetCheck: New page: Asset Save: multiple assets
+[2024.06.07-02.40.25:629][558]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2024.06.07-02.40.25:629][558]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
