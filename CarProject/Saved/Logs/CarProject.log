@@ -2018,3 +2018,39 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2024.06.07-01.58.47:117][952]AssetCheck: New page: Asset Save: multiple assets
 [2024.06.07-01.58.47:117][952]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
 [2024.06.07-01.58.47:117][952]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2024.06.07-02.01.45:933][739]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/Meshes/PHYS_Vehicle.PHYS_Vehicle
+[2024.06.07-02.01.46:001][739]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0018 seconds. Added 8 classes and 3 folders.
+[2024.06.07-02.01.46:037][739]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2024.06.07-02.01.46:120][739]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2024.06.07-02.01.46:147][739]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0012 seconds. Added 1 classes and 0 folders.
+[2024.06.07-02.01.46:933][739]LogSlate: Took 0.001815 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.06.07-02.02.44:899][133]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0'
+[2024.06.07-02.02.44:902][133]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0'
+[2024.06.07-02.02.44:907][133]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0'
+[2024.06.07-02.02.47:799][192]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/PHYS_Vehicle" FILE="G:/project/university/game/car/CarProject/Content/Meshes/PHYS_Vehicle.uasset" SILENT=true
+[2024.06.07-02.02.47:802][192]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/PHYS_Vehicle1427714544B27CDBB9B07F9FB776E3BF.tmp' to 'G:/project/university/game/car/CarProject/Content/Meshes/PHYS_Vehicle.uasset'
+[2024.06.07-02.02.47:820][192]AssetCheck: New page: Asset Save: PHYS_Vehicle
+[2024.06.07-02.02.47:820][192]LogContentValidation: Display: Validating PhysicsAsset /Game/Meshes/PHYS_Vehicle.PHYS_Vehicle
+[2024.06.07-02.02.50:007][262]LogSlate: Window 'PHYS_Vehicle' being destroyed
+[2024.06.07-02.02.51:375][315]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.06.07-02.02.51:396][315]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/Minimal_Default04C9B1AE48F330CBBA9BDA9C295DE2A7.tmp' to 'G:/project/university/game/car/CarProject/Content/StarterContent/Maps/Minimal_Default.umap'
+[2024.06.07-02.02.51:404][315]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="G:/project/university/game/car/CarProject/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2024.06.07-02.02.51:476][315]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/Minimal_Default_BuiltData627D1F90472B2C54AE7EB3B264F79005.tmp' to 'G:/project/university/game/car/CarProject/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2024.06.07-02.02.51:494][315]AssetCheck: New page: Asset Save: multiple assets
+[2024.06.07-02.02.51:494][315]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2024.06.07-02.02.51:494][315]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2024.06.07-02.05.17:793][273]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/PHYS_Vehicle" FILE="G:/project/university/game/car/CarProject/Content/Meshes/PHYS_Vehicle.uasset" SILENT=true
+[2024.06.07-02.05.17:795][273]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/PHYS_Vehicle33A5FFD749208E43DFF23EBEA16C8324.tmp' to 'G:/project/university/game/car/CarProject/Content/Meshes/PHYS_Vehicle.uasset'
+[2024.06.07-02.05.17:807][273]AssetCheck: New page: Asset Save: PHYS_Vehicle
+[2024.06.07-02.05.17:808][273]LogContentValidation: Display: Validating PhysicsAsset /Game/Meshes/PHYS_Vehicle.PHYS_Vehicle
+[2024.06.07-02.05.18:529][300]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/PHYS_Vehicle" FILE="G:/project/university/game/car/CarProject/Content/Meshes/PHYS_Vehicle.uasset" SILENT=true
+[2024.06.07-02.05.18:531][300]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/PHYS_Vehicle0559D2E94BB286D45F5D459F003A3B1E.tmp' to 'G:/project/university/game/car/CarProject/Content/Meshes/PHYS_Vehicle.uasset'
+[2024.06.07-02.05.18:547][300]AssetCheck: New page: Asset Save: PHYS_Vehicle
+[2024.06.07-02.05.18:547][300]LogContentValidation: Display: Validating PhysicsAsset /Game/Meshes/PHYS_Vehicle.PHYS_Vehicle
+[2024.06.07-02.05.20:140][361]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.06.07-02.05.20:159][361]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/Minimal_Default7F6B5CB843F3EAF1550A84B565F86CF4.tmp' to 'G:/project/university/game/car/CarProject/Content/StarterContent/Maps/Minimal_Default.umap'
+[2024.06.07-02.05.20:166][361]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="G:/project/university/game/car/CarProject/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2024.06.07-02.05.20:240][361]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/Minimal_Default_BuiltData6C5B8C2F4B31761AE02B0DA1854796C6.tmp' to 'G:/project/university/game/car/CarProject/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2024.06.07-02.05.20:254][361]AssetCheck: New page: Asset Save: multiple assets
+[2024.06.07-02.05.20:254][361]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2024.06.07-02.05.20:255][361]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
