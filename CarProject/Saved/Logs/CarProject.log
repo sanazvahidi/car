@@ -2277,3 +2277,49 @@ Script Stack (0 frames):
 [2024.06.07-02.40.25:629][558]AssetCheck: New page: Asset Save: multiple assets
 [2024.06.07-02.40.25:629][558]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
 [2024.06.07-02.40.25:629][558]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2024.06.07-02.44.00:835][647]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.06.07-02.44.00:840][647]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.06.07-02.44.00:879][647]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2024.06.07-02.44.18:250][647]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2024.06.07-02.44.19:834][647]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2024.06.07-02.44.19:848][647]LogContentBrowser: Deferred new asset file creation: NewAnimBlueprint
+[2024.06.07-02.44.19:870][647]LogContentBrowser: Creating deferred item: NewAnimBlueprint
+[2024.06.07-02.44.34:830][766]LogContentBrowser: Attempting asset rename: NewAnimBlueprint -> NewAnimBlueprint
+[2024.06.07-02.44.34:842][766]LogContentBrowser: End creating deferred item NewAnimBlueprint
+[2024.06.07-02.44.49:108][269]LogContentBrowser: Attempting asset rename: NewAnimBlueprint -> ABP_VehicleAnim
+[2024.06.07-02.44.49:190][269]LogMetaData: Removing '/Game/ABP_VehicleAnim.ABP_VehicleAnim:AnimGraph.AnimGraphNode_Root_0' ref from Metadata '/Game/NewAnimBlueprint.PackageMetaData'
+[2024.06.07-02.44.49:190][269]LogMetaData: Removing '/Game/ABP_VehicleAnim.SKEL_ABP_VehicleAnim_C:AnimGraph' ref from Metadata '/Game/NewAnimBlueprint.PackageMetaData'
+[2024.06.07-02.44.49:191][269]LogMetaData: Removing '/Game/ABP_VehicleAnim.SKEL_ABP_VehicleAnim_C' ref from Metadata '/Game/NewAnimBlueprint.PackageMetaData'
+[2024.06.07-02.44.49:191][269]LogMetaData: Removing '/Game/ABP_VehicleAnim.ABP_VehicleAnim_C:AnimGraph' ref from Metadata '/Game/NewAnimBlueprint.PackageMetaData'
+[2024.06.07-02.44.49:191][269]LogMetaData: Removing '/Game/ABP_VehicleAnim.ABP_VehicleAnim_C' ref from Metadata '/Game/NewAnimBlueprint.PackageMetaData'
+[2024.06.07-02.44.49:191][269]LogMetaData: Removing '/Game/ABP_VehicleAnim.ABP_VehicleAnim:EventGraph.K2Node_Event_0' ref from Metadata '/Game/NewAnimBlueprint.PackageMetaData'
+[2024.06.07-02.44.49:191][269]LogMetaData: Removing '/Game/ABP_VehicleAnim.ABP_VehicleAnim:EventGraph.K2Node_CallFunction_0' ref from Metadata '/Game/NewAnimBlueprint.PackageMetaData'
+[2024.06.07-02.44.49:297][269]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ABP_VehicleAnim" FILE="G:/project/university/game/car/CarProject/Content/ABP_VehicleAnim.uasset" SILENT=true
+[2024.06.07-02.44.49:323][269]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/ABP_VehicleAnim2AE24EC4425C5B19657F00B721E300F1.tmp' to 'G:/project/university/game/car/CarProject/Content/ABP_VehicleAnim.uasset'
+[2024.06.07-02.44.49:454][269]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2024.06.07-02.44.49:496][269]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2024.06.07-02.44.49:523][269]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.06.07-02.44.49:571][269]AssetCheck: New page: Asset Save: ABP_VehicleAnim
+[2024.06.07-02.44.49:571][269]LogContentValidation: Display: Validating AnimBlueprint /Game/ABP_VehicleAnim.ABP_VehicleAnim
+[2024.06.07-02.44.58:972][373]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/ABP_VehicleAnim.ABP_VehicleAnim
+[2024.06.07-02.44.58:993][373]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.06.07-02.46.48:772][329]BlueprintLog: New page: Compile ABP_VehicleAnim
+[2024.06.07-02.46.48:857][329]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2024.06.07-02.46.49:773][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ABP_VehicleAnim" FILE="G:/project/university/game/car/CarProject/Content/ABP_VehicleAnim.uasset" SILENT=true
+[2024.06.07-02.46.49:795][346]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/ABP_VehicleAnimAB25E80644931D771056F1BFB9CBA0ED.tmp' to 'G:/project/university/game/car/CarProject/Content/ABP_VehicleAnim.uasset'
+[2024.06.07-02.46.49:814][346]AssetCheck: New page: Asset Save: ABP_VehicleAnim
+[2024.06.07-02.46.49:814][346]LogContentValidation: Display: Validating AnimBlueprint /Game/ABP_VehicleAnim.ABP_VehicleAnim
+[2024.06.07-02.46.55:163][483]LogSlate: Window 'ABP_VehicleAnim' being destroyed
+[2024.06.07-02.46.56:477][543]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2024.06.07-02.46.56:493][543]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/Minimal_Default6AB235E9417980CC217F7FA4F05C5EE9.tmp' to 'G:/project/university/game/car/CarProject/Content/StarterContent/Maps/Minimal_Default.umap'
+[2024.06.07-02.46.56:501][543]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="G:/project/university/game/car/CarProject/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2024.06.07-02.46.56:577][543]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/Minimal_Default_BuiltData64475CEA423B138FA959719D7BF879F9.tmp' to 'G:/project/university/game/car/CarProject/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2024.06.07-02.46.56:601][543]AssetCheck: New page: Asset Save: multiple assets
+[2024.06.07-02.46.56:601][543]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2024.06.07-02.46.56:601][543]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2024.06.07-02.46.57:780][596]BlueprintLog: New page: Compile ABP_VehicleAnim
+[2024.06.07-02.46.57:839][596]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2024.06.07-02.46.58:253][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ABP_VehicleAnim" FILE="G:/project/university/game/car/CarProject/Content/ABP_VehicleAnim.uasset" SILENT=true
+[2024.06.07-02.46.58:272][609]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/ABP_VehicleAnim6C79508D40B2AAA14B4A9EADACFCC49B.tmp' to 'G:/project/university/game/car/CarProject/Content/ABP_VehicleAnim.uasset'
+[2024.06.07-02.46.58:288][609]AssetCheck: New page: Asset Save: ABP_VehicleAnim
+[2024.06.07-02.46.58:288][609]LogContentValidation: Display: Validating AnimBlueprint /Game/ABP_VehicleAnim.ABP_VehicleAnim
