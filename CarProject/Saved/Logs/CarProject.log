@@ -2365,3 +2365,22 @@ Script Stack (0 frames):
 [2024.06.07-03.27.03:231][165]LogFileHelpers: Auto-saving content packages took 0.057
 [2024.06.07-03.30.25:086][838]BlueprintLog: New page: Compile BP_Vehicle
 [2024.06.07-03.30.25:162][838]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2024.06.07-03.35.13:195][627]LogEditorTransaction: Undo Add Node
+[2024.06.07-03.35.17:152][760]BlueprintLog: New page: Compile BP_Vehicle
+[2024.06.07-03.35.17:231][760]LogUObjectHash: Compacting FUObjectHashTables data took   5.31ms
+[2024.06.07-03.35.17:932][780]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Vehicle" FILE="G:/project/university/game/car/CarProject/Content/BP_Vehicle.uasset" SILENT=true
+[2024.06.07-03.35.17:971][780]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/BP_VehicleBAAF4E8747A73F7C8BEEF2A0A9C5F2C8.tmp' to 'G:/project/university/game/car/CarProject/Content/BP_Vehicle.uasset'
+[2024.06.07-03.35.17:992][780]AssetCheck: New page: Asset Save: BP_Vehicle
+[2024.06.07-03.35.17:992][780]LogContentValidation: Display: Validating Blueprint /Game/BP_Vehicle.BP_Vehicle
+[2024.06.07-03.35.42:321][999]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Vehicle" FILE="G:/project/university/game/car/CarProject/Content/BP_Vehicle.uasset" SILENT=true
+[2024.06.07-03.35.42:344][999]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/BP_Vehicle7B4BA1C845A8EA41A48FF68809CC0F5A.tmp' to 'G:/project/university/game/car/CarProject/Content/BP_Vehicle.uasset'
+[2024.06.07-03.35.42:364][999]AssetCheck: New page: Asset Save: BP_Vehicle
+[2024.06.07-03.35.42:364][999]LogContentValidation: Display: Validating Blueprint /Game/BP_Vehicle.BP_Vehicle
+[2024.06.07-03.35.44:311][ 90]LogSlate: Window 'BP_Vehicle' being destroyed
+[2024.06.07-03.35.45:753][161]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2024.06.07-03.35.45:769][161]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/Minimal_Default64D700A447DE43F021F6C590D3653BA2.tmp' to 'G:/project/university/game/car/CarProject/Content/StarterContent/Maps/Minimal_Default.umap'
+[2024.06.07-03.35.45:780][161]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="G:/project/university/game/car/CarProject/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2024.06.07-03.35.45:856][161]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/Minimal_Default_BuiltData3690A1A44CEC2BE4E9524D89F22BBCC3.tmp' to 'G:/project/university/game/car/CarProject/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2024.06.07-03.35.45:878][161]AssetCheck: New page: Asset Save: multiple assets
+[2024.06.07-03.35.45:878][161]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2024.06.07-03.35.45:878][161]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
