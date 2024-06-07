@@ -2384,3 +2384,9 @@ Script Stack (0 frames):
 [2024.06.07-03.35.45:878][161]AssetCheck: New page: Asset Save: multiple assets
 [2024.06.07-03.35.45:878][161]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
 [2024.06.07-03.35.45:878][161]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2024.06.07-03.40.02:354][210]BlueprintLog: New page: Compile BP_Vehicle
+[2024.06.07-03.40.02:433][210]LogUObjectHash: Compacting FUObjectHashTables data took   5.11ms
+[2024.06.07-03.40.03:513][267]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Vehicle" FILE="G:/project/university/game/car/CarProject/Content/BP_Vehicle.uasset" SILENT=true
+[2024.06.07-03.40.03:547][267]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/BP_VehicleBD90F133404A986A5200628CC7682DF3.tmp' to 'G:/project/university/game/car/CarProject/Content/BP_Vehicle.uasset'
+[2024.06.07-03.40.03:570][267]AssetCheck: New page: Asset Save: BP_Vehicle
+[2024.06.07-03.40.03:570][267]LogContentValidation: Display: Validating Blueprint /Game/BP_Vehicle.BP_Vehicle
