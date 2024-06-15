@@ -1105,3 +1105,76 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.06.15-06.15.59:294][334]AssetCheck: New page: Asset Save: multiple assets
 [2024.06.15-06.15.59:294][334]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
 [2024.06.15-06.15.59:294][334]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2024.06.15-06.26.51:661][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   6.42ms
+[2024.06.15-06.26.51:664][ 99]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.052
+[2024.06.15-06.26.51:665][ 99]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ABP_VehicleAnim] ([2] browsable assets)...
+[2024.06.15-06.26.51:707][ 99]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/ABP_VehicleAnim.ABP_VehicleAnim]
+[2024.06.15-06.26.51:707][ 99]OBJ SavePackage: Finished generating thumbnails for package [/Game/ABP_VehicleAnim]
+[2024.06.15-06.26.51:707][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ABP_VehicleAnim" FILE="G:/project/university/game/car/CarProject/Saved/Autosaves/Game/ABP_VehicleAnim_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2024.06.15-06.26.51:766][ 99]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/ABP_VehicleAnim_Auto4CB7B6E814D0904796A46A3A84AAF5A74.tmp' to 'G:/project/university/game/car/CarProject/Saved/Autosaves/Game/ABP_VehicleAnim_Auto4.uasset'
+[2024.06.15-06.26.51:766][ 99]LogFileHelpers: Auto-saving content packages took 0.103
+[2024.06.15-06.28.50:015][310]BlueprintLog: New page: Compile ABP_VehicleAnim
+[2024.06.15-06.28.50:102][310]LogUObjectHash: Compacting FUObjectHashTables data took   5.81ms
+[2024.06.15-06.28.51:918][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ABP_VehicleAnim" FILE="G:/project/university/game/car/CarProject/Content/ABP_VehicleAnim.uasset" SILENT=true
+[2024.06.15-06.28.51:982][400]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/ABP_VehicleAnimB2E056994322AAC276BF71AE5CD69D94.tmp' to 'G:/project/university/game/car/CarProject/Content/ABP_VehicleAnim.uasset'
+[2024.06.15-06.28.52:006][400]AssetCheck: New page: Asset Save: ABP_VehicleAnim
+[2024.06.15-06.28.52:006][400]LogContentValidation: Display: Validating AnimBlueprint /Game/ABP_VehicleAnim.ABP_VehicleAnim
+[2024.06.15-06.29.32:785][906]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (bp)
+[2024.06.15-06.29.36:835][ 55]LogEditorViewport: Clicking on Actor (LMB): BP_Vehicle_C (BP_Vehicle)
+[2024.06.15-06.29.37:957][ 88]LogTemp: Repeating last play command: Selected Viewport
+[2024.06.15-06.29.37:969][ 88]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.15-06.29.37:969][ 88]PIE: New page: PIE session: Minimal_Default (Jun 14, 2024, 4:29:37 PM)
+[2024.06.15-06.29.37:969][ 88]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.06.15-06.29.37:975][ 88]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005620s)
+[2024.06.15-06.29.37:976][ 88]LogAIModule: Creating AISystem for world Minimal_Default
+[2024.06.15-06.29.37:977][ 88]LogPlayLevel: PIE: World Init took: (0.002591s)
+[2024.06.15-06.29.37:977][ 88]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.008503s)
+[2024.06.15-06.29.38:026][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   5.92ms
+[2024.06.15-06.29.38:030][ 88]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.06.15-06.29.38:030][ 88]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.15-06.29.38:030][ 88]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.15-06.29.38:032][ 88]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.15-06.29.38:032][ 88]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.15-06.29.38:032][ 88]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.06.15-06.29.38:032][ 88]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.15-06.29.38:032][ 88]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.06.15-06.29.38:032][ 88]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.15-06.29.38:032][ 88]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.15-06.29.38:032][ 88]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.15-06.29.38:032][ 88]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.15-06.29.38:032][ 88]LogAudioMixer: Display: Initializing audio mixer.
+[2024.06.15-06.29.38:038][ 88]LogAudioMixer: Display: 0: FrontLeft
+[2024.06.15-06.29.38:039][ 88]LogAudioMixer: Display: 1: FrontRight
+[2024.06.15-06.29.38:067][ 88]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2024.06.15-06.29.38:067][ 88]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.15-06.29.38:067][ 88]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.15-06.29.38:067][ 88]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.15-06.29.38:069][ 88]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.06.15-06.29.38:069][ 88]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.06.15-06.29.38:069][ 88]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.06.15-06.29.38:070][ 88]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.06.15-06.29.38:071][ 88]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.06.15-06.29.38:071][ 88]LogInit: FAudioDevice initialized.
+[2024.06.15-06.29.38:071][ 88]LogAudio: Display: Audio Device (ID: 4) registered with world 'Minimal_Default'.
+[2024.06.15-06.29.38:083][ 88]LogLoad: Game class is 'GameModeBase'
+[2024.06.15-06.29.38:086][ 88]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2024.06.14-23.29.38
+[2024.06.15-06.29.38:086][ 88]LogWorld: Bringing up level for play took: 0.001879
+[2024.06.15-06.29.38:087][ 88]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2024.06.15-06.29.38:090][ 88]PIE: Server logged in
+[2024.06.15-06.29.38:091][ 88]PIE: Play in editor total start time 0.126 seconds.
+[2024.06.15-06.30.08:544][468]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.15-06.30.08:544][468]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.06.15-06.30.08:544][468]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2024.06.15-06.30.08:544][468]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.15-06.30.08:561][468]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.15-06.30.08:582][468]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.15-06.30.08:621][468]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.15-06.30.08:622][468]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.06.15-06.30.08:624][468]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.06.15-06.30.08:630][468]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.15-06.30.08:636][468]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2024.06.15-06.30.08:682][469]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2024.06.15-06.31.24:537][272]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ABP_VehicleAnim" FILE="G:/project/university/game/car/CarProject/Content/ABP_VehicleAnim.uasset" SILENT=true
+[2024.06.15-06.31.24:592][272]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/ABP_VehicleAnimF9107D734F6A27167F4042959529974F.tmp' to 'G:/project/university/game/car/CarProject/Content/ABP_VehicleAnim.uasset'
+[2024.06.15-06.31.24:613][272]AssetCheck: New page: Asset Save: ABP_VehicleAnim
+[2024.06.15-06.31.24:613][272]LogContentValidation: Display: Validating AnimBlueprint /Game/ABP_VehicleAnim.ABP_VehicleAnim
