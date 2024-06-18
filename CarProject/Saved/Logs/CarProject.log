@@ -1043,3 +1043,31 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.06.18-06.04.52:978][129]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/BP_Vehicle0AAB1CDB4124F4374B74E087C58BB535.tmp' to 'G:/project/university/game/car/CarProject/Content/BP_Vehicle.uasset'
 [2024.06.18-06.04.52:996][129]AssetCheck: New page: Asset Save: BP_Vehicle
 [2024.06.18-06.04.52:996][129]LogContentValidation: Display: Validating Blueprint /Game/BP_Vehicle.BP_Vehicle
+[2024.06.18-06.09.53:108][267]BlueprintLog: New page: Compile BP_Vehicle
+[2024.06.18-06.09.53:198][267]LogUObjectHash: Compacting FUObjectHashTables data took   5.00ms
+[2024.06.18-06.09.53:980][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Vehicle" FILE="G:/project/university/game/car/CarProject/Content/BP_Vehicle.uasset" SILENT=true
+[2024.06.18-06.09.54:024][302]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/BP_Vehicle02A7D4834F882645D04A3E99DDA9F9BB.tmp' to 'G:/project/university/game/car/CarProject/Content/BP_Vehicle.uasset'
+[2024.06.18-06.09.54:046][302]AssetCheck: New page: Asset Save: BP_Vehicle
+[2024.06.18-06.09.54:046][302]LogContentValidation: Display: Validating Blueprint /Game/BP_Vehicle.BP_Vehicle
+[2024.06.18-06.09.59:044][591]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.06.18-06.09.59:044][591]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.18-06.10.03:438][771]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/ABP_VehicleAnim.ABP_VehicleAnim
+[2024.06.18-06.10.03:493][771]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0019 seconds. Added 1 classes and 2 folders.
+[2024.06.18-06.10.03:516][771]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2024.06.18-06.10.03:748][771]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2024.06.18-06.10.03:977][771]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.06.18-06.10.03:999][771]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0010 seconds. Added 1 classes and 0 folders.
+[2024.06.18-06.15.19:776][405]BlueprintLog: New page: Compile ABP_VehicleAnim
+[2024.06.18-06.15.19:983][405]LogUObjectHash: Compacting FUObjectHashTables data took   7.83ms
+[2024.06.18-06.15.20:650][431]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ABP_VehicleAnim" FILE="G:/project/university/game/car/CarProject/Content/ABP_VehicleAnim.uasset" SILENT=true
+[2024.06.18-06.15.20:720][431]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/ABP_VehicleAnim2755742E4C5E7B671CE45B9698CDC1ED.tmp' to 'G:/project/university/game/car/CarProject/Content/ABP_VehicleAnim.uasset'
+[2024.06.18-06.15.20:741][431]AssetCheck: New page: Asset Save: ABP_VehicleAnim
+[2024.06.18-06.15.20:741][431]LogContentValidation: Display: Validating AnimBlueprint /Game/ABP_VehicleAnim.ABP_VehicleAnim
+[2024.06.18-06.16.04:579][641]LogUObjectHash: Compacting FUObjectHashTables data took   6.82ms
+[2024.06.18-06.16.04:601][641]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/Minimal_Default_Auto6F804C8D14070FC20D683E19CA6BFDD86.tmp' to 'G:/project/university/game/car/CarProject/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto6.umap'
+[2024.06.18-06.16.04:602][641]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.090
+[2024.06.18-06.16.04:602][641]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.090
+[2024.06.18-06.17.05:051][957]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ABP_VehicleAnim" FILE="G:/project/university/game/car/CarProject/Content/ABP_VehicleAnim.uasset" SILENT=true
+[2024.06.18-06.17.05:110][957]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/ABP_VehicleAnim8E18184B4A58D1FB6FE7E7BC585E4DBE.tmp' to 'G:/project/university/game/car/CarProject/Content/ABP_VehicleAnim.uasset'
+[2024.06.18-06.17.05:132][957]AssetCheck: New page: Asset Save: ABP_VehicleAnim
+[2024.06.18-06.17.05:132][957]LogContentValidation: Display: Validating AnimBlueprint /Game/ABP_VehicleAnim.ABP_VehicleAnim
