@@ -1657,3 +1657,157 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.07.03-04.54.28:989][716]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/BP_VehicleF04B71EE4247FB3F8F63E0AC23540162.tmp' to 'G:/project/university/game/car/CarProject/Content/BP_Vehicle.uasset'
 [2024.07.03-04.54.29:015][716]AssetCheck: New page: Asset Save: BP_Vehicle
 [2024.07.03-04.54.29:015][716]LogContentValidation: Display: Validating Blueprint /Game/BP_Vehicle.BP_Vehicle
+[2024.07.03-05.03.12:094][438]LogHttp: Warning: 0000029642149600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB35D7961-4207-77B7-0F66-D185F45A1193%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.07.03-05.03.12:094][438]LogHttp: Warning: 0000029642149600: request failed, libcurl error: 0 (No error)
+[2024.07.03-05.03.12:094][438]LogHttp: Warning: 0000029642149600: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x295aadf92a0 [can pipeline])
+[2024.07.03-05.03.12:094][438]LogHttp: Warning: 0000029642149600: libcurl info message cache 1 (Re-using existing connection! (#6) with host datarouter.ol.epicgames.com)
+[2024.07.03-05.03.12:094][438]LogHttp: Warning: 0000029642149600: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (10.202.10.4) port 443 (#6))
+[2024.07.03-05.03.12:094][438]LogHttp: Warning: 0000029642149600: libcurl info message cache 3 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2024.07.03-05.03.12:094][438]LogHttp: Warning: 0000029642149600: libcurl info message cache 4 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2024.07.03-05.03.12:094][438]LogHttp: Warning: 0000029642149600: libcurl info message cache 5 (We are completely uploaded and fine)
+[2024.07.03-05.03.12:094][438]LogHttp: Warning: 0000029642149600: libcurl info message cache 6 (TLSv1.3 (IN), TLS Unknown, Unknown (21):)
+[2024.07.03-05.03.12:094][438]LogHttp: Warning: 0000029642149600: libcurl info message cache 7 (TLSv1.3 (IN), TLS alert, Client hello (1):)
+[2024.07.03-05.03.12:094][438]LogHttp: Warning: 0000029642149600: libcurl info message cache 8 (Connection died, retrying a fresh connect)
+[2024.07.03-05.03.12:094][438]LogHttp: Warning: 0000029642149600: libcurl info message cache 9 (necessary data rewind wasn't possible)
+[2024.07.03-05.03.12:094][438]LogHttp: Warning: 0000029642149600: libcurl info message cache 10 (Closing connection 6)
+[2024.07.03-05.03.12:095][438]LogHttp: Warning: 0000029642149600: libcurl info message cache 11 (TLSv1.3 (OUT), TLS Unknown, Unknown (21):)
+[2024.07.03-05.03.12:095][438]LogHttp: Warning: 0000029642149600: libcurl info message cache 12 (TLSv1.3 (OUT), TLS alert, Client hello (1):)
+[2024.07.03-05.03.12:096][438]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB35D7961-4207-77B7-0F66-D185F45A1193%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.07.03-05.03.41:381][524]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2024.07.03-05.03.41:391][524]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/Minimal_Default_Auto8F5EA8D2348276C70DB48EBA25465BBD0.tmp' to 'G:/project/university/game/car/CarProject/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto8.umap'
+[2024.07.03-05.03.41:393][524]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.044
+[2024.07.03-05.03.41:393][524]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.044
+[2024.07.03-05.31.11:946][441]LogHttp: Warning: 0000029638BC9D00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB35D7961-4207-77B7-0F66-D185F45A1193%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.07.03-05.31.11:946][441]LogHttp: Warning: 0000029638BC9D00: request failed, libcurl error: 0 (No error)
+[2024.07.03-05.31.11:946][441]LogHttp: Warning: 0000029638BC9D00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x295aadf8610 [can pipeline])
+[2024.07.03-05.31.11:946][441]LogHttp: Warning: 0000029638BC9D00: libcurl info message cache 1 (Re-using existing connection! (#7) with host datarouter.ol.epicgames.com)
+[2024.07.03-05.31.11:946][441]LogHttp: Warning: 0000029638BC9D00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (10.202.10.7) port 443 (#7))
+[2024.07.03-05.31.11:947][441]LogHttp: Warning: 0000029638BC9D00: libcurl info message cache 3 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2024.07.03-05.31.11:947][441]LogHttp: Warning: 0000029638BC9D00: libcurl info message cache 4 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2024.07.03-05.31.11:947][441]LogHttp: Warning: 0000029638BC9D00: libcurl info message cache 5 (We are completely uploaded and fine)
+[2024.07.03-05.31.11:947][441]LogHttp: Warning: 0000029638BC9D00: libcurl info message cache 6 (TLSv1.3 (IN), TLS Unknown, Unknown (21):)
+[2024.07.03-05.31.11:947][441]LogHttp: Warning: 0000029638BC9D00: libcurl info message cache 7 (TLSv1.3 (IN), TLS alert, Client hello (1):)
+[2024.07.03-05.31.11:947][441]LogHttp: Warning: 0000029638BC9D00: libcurl info message cache 8 (Connection died, retrying a fresh connect)
+[2024.07.03-05.31.11:947][441]LogHttp: Warning: 0000029638BC9D00: libcurl info message cache 9 (necessary data rewind wasn't possible)
+[2024.07.03-05.31.11:947][441]LogHttp: Warning: 0000029638BC9D00: libcurl info message cache 10 (Closing connection 7)
+[2024.07.03-05.31.11:947][441]LogHttp: Warning: 0000029638BC9D00: libcurl info message cache 11 (TLSv1.3 (OUT), TLS Unknown, Unknown (21):)
+[2024.07.03-05.31.11:947][441]LogHttp: Warning: 0000029638BC9D00: libcurl info message cache 12 (TLSv1.3 (OUT), TLS alert, Client hello (1):)
+[2024.07.03-05.31.12:277][442]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB35D7961-4207-77B7-0F66-D185F45A1193%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.07.03-05.40.04:989][  1]LogSlate: Took 0.005646 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.07.03-05.41.01:435][743]LogUObjectHash: Compacting FUObjectHashTables data took   6.60ms
+[2024.07.03-05.41.01:457][743]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/Minimal_Default_Auto90B46E065400DFA32415FE38DB73784C8.tmp' to 'G:/project/university/game/car/CarProject/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto9.umap'
+[2024.07.03-05.41.01:458][743]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.080
+[2024.07.03-05.41.01:459][743]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.080
+[2024.07.03-05.41.01:459][743]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_Vehicle] ([2] browsable assets)...
+[2024.07.03-05.41.01:507][743]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_Vehicle.BP_Vehicle]
+[2024.07.03-05.41.01:507][743]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Vehicle]
+[2024.07.03-05.41.01:508][743]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Vehicle" FILE="G:/project/university/game/car/CarProject/Saved/Autosaves/Game/BP_Vehicle_Auto9.uasset" SILENT=false AUTOSAVING=true
+[2024.07.03-05.41.01:588][743]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/BP_Vehicle_Auto981302DD84BAC3DB319D8F2AA5921C21A.tmp' to 'G:/project/university/game/car/CarProject/Saved/Autosaves/Game/BP_Vehicle_Auto9.uasset'
+[2024.07.03-05.41.01:589][743]LogFileHelpers: Auto-saving content packages took 0.131
+[2024.07.03-05.48.08:697][ 90]BlueprintLog: New page: Compile BP_Vehicle
+[2024.07.03-05.48.08:814][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   7.11ms
+[2024.07.03-05.49.42:364][993]BlueprintLog: New page: Compile BP_Vehicle
+[2024.07.03-05.49.42:481][993]LogUObjectHash: Compacting FUObjectHashTables data took   6.59ms
+[2024.07.03-05.49.43:067][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Vehicle" FILE="G:/project/university/game/car/CarProject/Content/BP_Vehicle.uasset" SILENT=true
+[2024.07.03-05.49.43:178][ 17]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/BP_Vehicle7FE0ABB7430B89F649786A965BCA7094.tmp' to 'G:/project/university/game/car/CarProject/Content/BP_Vehicle.uasset'
+[2024.07.03-05.49.43:198][ 17]AssetCheck: New page: Asset Save: BP_Vehicle
+[2024.07.03-05.49.43:198][ 17]LogContentValidation: Display: Validating Blueprint /Game/BP_Vehicle.BP_Vehicle
+[2024.07.03-05.50.08:873][249]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/ABP_VehicleAnim.ABP_VehicleAnim
+[2024.07.03-05.50.08:896][249]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.07.03-05.51.18:319][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   6.65ms
+[2024.07.03-05.51.18:341][ 81]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/Minimal_Default_Auto0FAC0EAE44E8978BFDB75ED84B91674D2.tmp' to 'G:/project/university/game/car/CarProject/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto0.umap'
+[2024.07.03-05.51.18:343][ 81]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.082
+[2024.07.03-05.51.18:343][ 81]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.082
+[2024.07.03-05.51.18:343][ 81]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ABP_VehicleAnim] ([2] browsable assets)...
+[2024.07.03-05.51.18:390][ 81]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/ABP_VehicleAnim.ABP_VehicleAnim]
+[2024.07.03-05.51.18:390][ 81]OBJ SavePackage: Finished generating thumbnails for package [/Game/ABP_VehicleAnim]
+[2024.07.03-05.51.18:390][ 81]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ABP_VehicleAnim" FILE="G:/project/university/game/car/CarProject/Saved/Autosaves/Game/ABP_VehicleAnim_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2024.07.03-05.51.18:479][ 81]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/ABP_VehicleAnim_Auto045AB8BB044413195A8D78E8186881ED6.tmp' to 'G:/project/university/game/car/CarProject/Saved/Autosaves/Game/ABP_VehicleAnim_Auto0.uasset'
+[2024.07.03-05.51.18:480][ 81]LogFileHelpers: Auto-saving content packages took 0.137
+[2024.07.03-05.54.02:512][724]BlueprintLog: New page: Compile ABP_VehicleAnim
+[2024.07.03-05.54.02:625][724]LogUObjectHash: Compacting FUObjectHashTables data took   5.82ms
+[2024.07.03-05.54.03:302][750]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ABP_VehicleAnim" FILE="G:/project/university/game/car/CarProject/Content/ABP_VehicleAnim.uasset" SILENT=true
+[2024.07.03-05.54.03:407][750]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/ABP_VehicleAnim1FEE1F0446EF3F7F3F62C5B179F9514C.tmp' to 'G:/project/university/game/car/CarProject/Content/ABP_VehicleAnim.uasset'
+[2024.07.03-05.54.03:434][750]AssetCheck: New page: Asset Save: ABP_VehicleAnim
+[2024.07.03-05.54.03:434][750]LogContentValidation: Display: Validating AnimBlueprint /Game/ABP_VehicleAnim.ABP_VehicleAnim
+[2024.07.03-06.01.18:798][931]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2024.07.03-06.01.18:800][931]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.036
+[2024.07.03-06.01.18:800][931]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ABP_VehicleAnim] ([2] browsable assets)...
+[2024.07.03-06.01.18:840][931]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/ABP_VehicleAnim.ABP_VehicleAnim]
+[2024.07.03-06.01.18:840][931]OBJ SavePackage: Finished generating thumbnails for package [/Game/ABP_VehicleAnim]
+[2024.07.03-06.01.18:840][931]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ABP_VehicleAnim" FILE="G:/project/university/game/car/CarProject/Saved/Autosaves/Game/ABP_VehicleAnim_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2024.07.03-06.01.18:879][931]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/ABP_VehicleAnim_Auto15FA1F1CB45B039E529D99C9241E4F9B9.tmp' to 'G:/project/university/game/car/CarProject/Saved/Autosaves/Game/ABP_VehicleAnim_Auto1.uasset'
+[2024.07.03-06.01.18:879][931]LogFileHelpers: Auto-saving content packages took 0.079
+[2024.07.03-06.12.53:839][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   5.50ms
+[2024.07.03-06.12.53:842][ 59]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.057
+[2024.07.03-06.12.53:843][ 59]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ABP_VehicleAnim] ([2] browsable assets)...
+[2024.07.03-06.12.53:891][ 59]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/ABP_VehicleAnim.ABP_VehicleAnim]
+[2024.07.03-06.12.53:891][ 59]OBJ SavePackage: Finished generating thumbnails for package [/Game/ABP_VehicleAnim]
+[2024.07.03-06.12.53:891][ 59]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ABP_VehicleAnim" FILE="G:/project/university/game/car/CarProject/Saved/Autosaves/Game/ABP_VehicleAnim_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2024.07.03-06.12.53:971][ 59]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/ABP_VehicleAnim_Auto2680C6FFC41A8CD1EC2A1E79F947D41E1.tmp' to 'G:/project/university/game/car/CarProject/Saved/Autosaves/Game/ABP_VehicleAnim_Auto2.uasset'
+[2024.07.03-06.12.53:973][ 59]LogFileHelpers: Auto-saving content packages took 0.132
+[2024.07.03-06.13.31:417][245]BlueprintLog: New page: Compile ABP_VehicleAnim
+[2024.07.03-06.13.31:527][245]LogUObjectHash: Compacting FUObjectHashTables data took   6.52ms
+[2024.07.03-06.13.32:140][268]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ABP_VehicleAnim" FILE="G:/project/university/game/car/CarProject/Content/ABP_VehicleAnim.uasset" SILENT=true
+[2024.07.03-06.13.32:222][268]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/ABP_VehicleAnim4164F1FB4604A9DC87B5FF876EE96C41.tmp' to 'G:/project/university/game/car/CarProject/Content/ABP_VehicleAnim.uasset'
+[2024.07.03-06.13.32:247][268]AssetCheck: New page: Asset Save: ABP_VehicleAnim
+[2024.07.03-06.13.32:247][268]LogContentValidation: Display: Validating AnimBlueprint /Game/ABP_VehicleAnim.ABP_VehicleAnim
+[2024.07.03-06.14.05:567][775]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.07.03-06.14.05:568][775]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.03-06.14.05:582][775]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.07.03-06.14.05:582][775]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.03-06.14.05:705][775]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.07.03-06.14.05:706][775]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.03-06.14.08:768][907]LogTemp: Repeating last play command: Selected Viewport
+[2024.07.03-06.14.08:779][907]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.03-06.14.08:780][907]PIE: New page: PIE session: Minimal_Default (Jul 2, 2024, 4:14:08 PM)
+[2024.07.03-06.14.08:811][907]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.07.03-06.14.08:818][907]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006370s)
+[2024.07.03-06.14.08:819][907]LogAIModule: Creating AISystem for world Minimal_Default
+[2024.07.03-06.14.08:820][907]LogPlayLevel: PIE: World Init took: (0.002453s)
+[2024.07.03-06.14.08:820][907]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.009353s)
+[2024.07.03-06.14.08:881][907]LogUObjectHash: Compacting FUObjectHashTables data took   6.41ms
+[2024.07.03-06.14.08:883][907]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.07.03-06.14.08:884][907]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.03-06.14.08:884][907]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.03-06.14.08:884][907]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.03-06.14.08:884][907]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.03-06.14.08:884][907]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.07.03-06.14.08:884][907]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.03-06.14.08:884][907]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.07.03-06.14.08:884][907]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.03-06.14.08:885][907]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.03-06.14.08:885][907]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.03-06.14.08:885][907]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.03-06.14.08:885][907]LogAudioMixer: Display: Initializing audio mixer.
+[2024.07.03-06.14.08:890][907]LogAudioMixer: Display: 0: FrontLeft
+[2024.07.03-06.14.08:890][907]LogAudioMixer: Display: 1: FrontRight
+[2024.07.03-06.14.08:917][907]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2024.07.03-06.14.08:918][907]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.03-06.14.08:918][907]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.03-06.14.08:918][907]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.03-06.14.08:918][907]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.07.03-06.14.08:918][907]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.07.03-06.14.08:918][907]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.07.03-06.14.08:920][907]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.07.03-06.14.08:920][907]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.07.03-06.14.08:920][907]LogInit: FAudioDevice initialized.
+[2024.07.03-06.14.08:921][907]LogAudio: Display: Audio Device (ID: 3) registered with world 'Minimal_Default'.
+[2024.07.03-06.14.08:948][907]LogLoad: Game class is 'GameModeBase'
+[2024.07.03-06.14.08:951][907]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2024.07.02-23.14.08
+[2024.07.03-06.14.08:951][907]LogWorld: Bringing up level for play took: 0.002457
+[2024.07.03-06.14.08:952][907]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2024.07.03-06.14.08:956][907]PIE: Server logged in
+[2024.07.03-06.14.08:957][907]PIE: Play in editor total start time 0.181 seconds.
+[2024.07.03-06.14.35:293][196]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.03-06.14.35:293][196]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.07.03-06.14.35:293][196]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2024.07.03-06.14.35:294][196]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.03-06.14.35:318][196]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.03-06.14.35:352][196]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.03-06.14.35:392][196]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.03-06.14.35:393][196]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.07.03-06.14.35:394][196]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.07.03-06.14.35:398][196]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.03-06.14.35:405][196]LogUObjectHash: Compacting FUObjectHashTables data took   5.16ms
+[2024.07.03-06.14.35:462][197]LogPlayLevel: Display: Destroying online subsystem :Context_18
