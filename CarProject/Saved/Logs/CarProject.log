@@ -1539,3 +1539,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.07.03-03.29.11:699][568]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/BP_VehicleD910DD9648836F080DB9C5BC8AB7C7E1.tmp' to 'G:/project/university/game/car/CarProject/Content/BP_Vehicle.uasset'
 [2024.07.03-03.29.11:716][568]AssetCheck: New page: Asset Save: BP_Vehicle
 [2024.07.03-03.29.11:716][568]LogContentValidation: Display: Validating Blueprint /Game/BP_Vehicle.BP_Vehicle
+[2024.07.03-03.36.46:464][ 53]BlueprintLog: New page: Compile BP_Vehicle
+[2024.07.03-03.36.46:557][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   5.15ms
+[2024.07.03-03.36.47:084][ 77]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Vehicle" FILE="G:/project/university/game/car/CarProject/Content/BP_Vehicle.uasset" SILENT=true
+[2024.07.03-03.36.47:132][ 77]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/BP_Vehicle49F1ADBC415C149E87CDD0B6DCEB1A11.tmp' to 'G:/project/university/game/car/CarProject/Content/BP_Vehicle.uasset'
+[2024.07.03-03.36.47:154][ 77]AssetCheck: New page: Asset Save: BP_Vehicle
+[2024.07.03-03.36.47:154][ 77]LogContentValidation: Display: Validating Blueprint /Game/BP_Vehicle.BP_Vehicle
