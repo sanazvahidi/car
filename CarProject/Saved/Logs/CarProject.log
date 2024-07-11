@@ -2587,3 +2587,80 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.07.11-08.13.39:442][871]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2024.07.11-08.13.39:462][871]LogUObjectHash: Compacting FUObjectHashTables data took   5.12ms
 [2024.07.11-08.13.39:556][872]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2024.07.11-08.15.33:951][ 16]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2024.07.11-08.15.33:951][ 16]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.11-08.19.16:840][761]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2024.07.11-08.19.16:873][761]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/Minimal_Default_Auto2073C84F343EF8BC5B6117195A7605B03.tmp' to 'G:/project/university/game/car/CarProject/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto2.umap'
+[2024.07.11-08.19.16:875][761]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.221
+[2024.07.11-08.19.16:875][761]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.221
+[2024.07.11-10.15.05:695][626]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.07.11-10.15.05:982][626]LogContentBrowser: Creating deferred item: NewFolder
+[2024.07.11-10.15.12:533][755]LogContentBrowser: Attempting asset rename: NewFolder -> Sounds
+[2024.07.11-10.15.12:538][755]LogContentBrowser: End creating deferred item NewFolder
+[2024.07.11-10.16.31:882][162]LogTemp: Repeating last play command: Selected Viewport
+[2024.07.11-10.16.31:912][162]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.11-10.16.31:913][162]PIE: New page: PIE session: Minimal_Default (Jul 10, 2024, 8:16:31 PM)
+[2024.07.11-10.16.31:916][162]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.07.11-10.16.31:950][162]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034020s)
+[2024.07.11-10.16.31:956][162]LogAIModule: Creating AISystem for world Minimal_Default
+[2024.07.11-10.16.31:961][162]LogPlayLevel: PIE: World Init took: (0.009099s)
+[2024.07.11-10.16.31:961][162]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.044363s)
+[2024.07.11-10.16.32:613][162]LogUObjectHash: Compacting FUObjectHashTables data took  21.96ms
+[2024.07.11-10.16.32:660][162]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.07.11-10.16.32:660][162]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.11-10.16.32:661][162]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.11-10.16.32:661][162]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.11-10.16.32:661][162]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.11-10.16.32:661][162]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.07.11-10.16.32:661][162]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.11-10.16.32:661][162]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.07.11-10.16.32:661][162]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.11-10.16.32:662][162]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.11-10.16.32:662][162]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.11-10.16.32:662][162]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.11-10.16.32:662][162]LogAudioMixer: Display: Initializing audio mixer.
+[2024.07.11-10.16.32:668][162]LogAudioMixer: Display: 0: FrontLeft
+[2024.07.11-10.16.32:669][162]LogAudioMixer: Display: 1: FrontRight
+[2024.07.11-10.16.32:698][162]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2024.07.11-10.16.32:702][162]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.11-10.16.32:702][162]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.11-10.16.32:702][162]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.11-10.16.32:706][162]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.07.11-10.16.32:706][162]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.07.11-10.16.32:706][162]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.07.11-10.16.32:709][162]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.07.11-10.16.32:709][162]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.07.11-10.16.32:709][162]LogInit: FAudioDevice initialized.
+[2024.07.11-10.16.32:709][162]LogAudio: Display: Audio Device (ID: 6) registered with world 'Minimal_Default'.
+[2024.07.11-10.16.32:735][162]LogLoad: Game class is 'GameModeBase'
+[2024.07.11-10.16.32:742][162]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2024.07.11-03.16.32
+[2024.07.11-10.16.32:743][162]LogWorld: Bringing up level for play took: 0.004122
+[2024.07.11-10.16.32:744][162]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2024.07.11-10.16.32:754][162]PIE: Server logged in
+[2024.07.11-10.16.32:755][162]PIE: Play in editor total start time 0.848 seconds.
+[2024.07.11-10.16.50:486][140]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.11-10.16.50:486][140]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.07.11-10.16.50:487][140]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2024.07.11-10.16.50:487][140]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.11-10.16.50:504][140]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.11-10.16.50:553][140]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.11-10.16.50:588][140]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.11-10.16.50:588][140]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.07.11-10.16.50:591][140]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.07.11-10.16.50:596][140]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.11-10.16.50:603][140]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2024.07.11-10.16.50:704][141]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2024.07.11-10.20.18:250][804]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 G:/tick_off.wav)
+[2024.07.11-10.20.18:336][804]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 G:/tick_on.wav)
+[2024.07.11-10.20.37:642][956]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2024.07.11-10.20.37:689][956]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/Minimal_DefaultCBFE8CC34EFA98008D06669123947E0B.tmp' to 'G:/project/university/game/car/CarProject/Content/StarterContent/Maps/Minimal_Default.umap'
+[2024.07.11-10.20.39:096][956]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="G:/project/university/game/car/CarProject/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2024.07.11-10.20.39:227][956]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/Minimal_Default_BuiltDataCA58E0144FF7CB0AC2B912990258693D.tmp' to 'G:/project/university/game/car/CarProject/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2024.07.11-10.20.39:348][956]AssetCheck: New page: Asset Save: multiple assets
+[2024.07.11-10.20.39:349][956]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2024.07.11-10.20.39:350][956]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2024.07.11-10.20.40:462][986]LogRenderer: Reallocating scene render targets to support 1224x704 Format 10 NumSamples 1 (Frame:221073).
+[2024.07.11-10.20.40:593][987]LogRenderer: Reallocating scene render targets to support 1276x704 Format 10 NumSamples 1 (Frame:221075).
+[2024.07.11-10.20.40:707][987]LogRenderer: Reallocating scene render targets to support 1372x704 Format 10 NumSamples 1 (Frame:221077).
+[2024.07.11-10.20.41:021][989]LogRenderer: Reallocating scene render targets to support 1512x704 Format 10 NumSamples 1 (Frame:221078).
+[2024.07.11-10.20.41:172][990]LogRenderer: Reallocating scene render targets to support 1524x704 Format 10 NumSamples 1 (Frame:221080).
