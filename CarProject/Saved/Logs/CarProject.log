@@ -2381,3 +2381,30 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.07.11-04.57.08:725][ 86]AssetCheck: New page: Asset Save: multiple assets
 [2024.07.11-04.57.08:725][ 86]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
 [2024.07.11-04.57.08:725][ 86]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2024.07.11-04.59.11:452][689]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.07.11-04.59.11:488][689]LogContentBrowser: Creating deferred item: NewFolder
+[2024.07.11-04.59.13:895][814]LogContentBrowser: Attempting asset rename: NewFolder -> UI
+[2024.07.11-04.59.13:898][814]LogContentBrowser: End creating deferred item NewFolder
+[2024.07.11-06.04.22:959][866]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2024.07.11-06.04.22:983][866]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2024.07.11-06.04.36:114][543]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WBP_Speedometer
+[2024.07.11-06.04.36:330][543]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2024.07.11-06.04.45:014][702]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WBP_Speedometer.WBP_Speedometer
+[2024.07.11-06.05.59:994][434]LogSlate: Window 'WBP_Speedometer' being destroyed
+[2024.07.11-06.19.07:046][965]BlueprintLog: New page: Compile WBP_Speedometer
+[2024.07.11-06.19.07:541][965]LogUObjectHash: Compacting FUObjectHashTables data took  12.28ms
+[2024.07.11-06.19.26:799][292]LogSlate: Took 0.007320 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.07.11-06.25.56:615][223]BlueprintLog: New page: Compile WBP_Speedometer
+[2024.07.11-06.25.56:800][223]LogUObjectHash: Compacting FUObjectHashTables data took   7.83ms
+[2024.07.11-06.29.18:985][507]BlueprintLog: New page: Compile WBP_Speedometer
+[2024.07.11-06.29.19:040][507]LogUObjectHash: Compacting FUObjectHashTables data took   6.77ms
+[2024.07.11-06.29.19:837][545]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_Speedometer" FILE="G:/project/university/game/car/CarProject/Content/UI/WBP_Speedometer.uasset" SILENT=true
+[2024.07.11-06.29.19:976][545]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/WBP_Speedometer2E2FC71841DA7EBA65BED99F9D87931B.tmp' to 'G:/project/university/game/car/CarProject/Content/UI/WBP_Speedometer.uasset'
+[2024.07.11-06.29.20:118][545]AssetCheck: New page: Asset Save: WBP_Speedometer
+[2024.07.11-06.29.20:118][545]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/WBP_Speedometer.WBP_Speedometer
+[2024.07.11-06.30.31:216][917]BlueprintLog: New page: Compile WBP_Speedometer
+[2024.07.11-06.30.31:311][917]LogUObjectHash: Compacting FUObjectHashTables data took  10.74ms
+[2024.07.11-06.30.31:966][951]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_Speedometer" FILE="G:/project/university/game/car/CarProject/Content/UI/WBP_Speedometer.uasset" SILENT=true
+[2024.07.11-06.30.31:989][951]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/WBP_Speedometer4B26ECC54AD128BBD924F486317681F3.tmp' to 'G:/project/university/game/car/CarProject/Content/UI/WBP_Speedometer.uasset'
+[2024.07.11-06.30.32:030][951]AssetCheck: New page: Asset Save: WBP_Speedometer
+[2024.07.11-06.30.32:030][951]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/WBP_Speedometer.WBP_Speedometer
