@@ -2464,3 +2464,126 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.07.11-07.16.34:518][636]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/BP_Vehicle05A5CBA14F02D2549BF3558E99FA6601.tmp' to 'G:/project/university/game/car/CarProject/Content/BP_Vehicle.uasset'
 [2024.07.11-07.16.34:616][636]AssetCheck: New page: Asset Save: BP_Vehicle
 [2024.07.11-07.16.34:616][636]LogContentValidation: Display: Validating Blueprint /Game/BP_Vehicle.BP_Vehicle
+[2024.07.11-07.18.11:886][246]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2024.07.11-07.23.56:634][819]BlueprintLog: New page: Compile BP_Vehicle
+[2024.07.11-07.23.57:071][819]LogUObjectHash: Compacting FUObjectHashTables data took   7.87ms
+[2024.07.11-07.27.36:994][939]LogUObjectHash: Compacting FUObjectHashTables data took   8.04ms
+[2024.07.11-07.27.37:025][939]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/Minimal_Default_Auto7114650994A18F0B38A1AF7ACAB515E1C.tmp' to 'G:/project/university/game/car/CarProject/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto7.umap'
+[2024.07.11-07.27.37:026][939]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.161
+[2024.07.11-07.27.37:027][939]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.161
+[2024.07.11-07.27.37:027][939]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_Vehicle] ([2] browsable assets)...
+[2024.07.11-07.27.37:058][939]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_Vehicle.BP_Vehicle]
+[2024.07.11-07.27.37:060][939]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Vehicle]
+[2024.07.11-07.27.37:060][939]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Vehicle" FILE="G:/project/university/game/car/CarProject/Saved/Autosaves/Game/BP_Vehicle_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2024.07.11-07.27.37:181][939]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/BP_Vehicle_Auto77730E79E4238F7B29A1025B7CC46F15E.tmp' to 'G:/project/university/game/car/CarProject/Saved/Autosaves/Game/BP_Vehicle_Auto7.uasset'
+[2024.07.11-07.27.37:184][939]LogFileHelpers: Auto-saving content packages took 0.158
+[2024.07.11-07.32.28:474][430]BlueprintLog: New page: Compile BP_Vehicle
+[2024.07.11-07.32.28:611][430]LogUObjectHash: Compacting FUObjectHashTables data took   6.34ms
+[2024.07.11-07.37.37:743][577]LogUObjectHash: Compacting FUObjectHashTables data took   7.36ms
+[2024.07.11-07.37.37:768][577]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/Minimal_Default_Auto85B7E45AB4383222A9E2AEE966BADC323.tmp' to 'G:/project/university/game/car/CarProject/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto8.umap'
+[2024.07.11-07.37.37:770][577]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.083
+[2024.07.11-07.37.37:770][577]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.083
+[2024.07.11-07.37.37:771][577]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_Vehicle] ([2] browsable assets)...
+[2024.07.11-07.37.37:827][577]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_Vehicle.BP_Vehicle]
+[2024.07.11-07.37.37:827][577]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Vehicle]
+[2024.07.11-07.37.37:827][577]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Vehicle" FILE="G:/project/university/game/car/CarProject/Saved/Autosaves/Game/BP_Vehicle_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2024.07.11-07.37.37:947][577]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/BP_Vehicle_Auto858BB80D8402E9898D30E5FBE9B7A757C.tmp' to 'G:/project/university/game/car/CarProject/Saved/Autosaves/Game/BP_Vehicle_Auto8.uasset'
+[2024.07.11-07.37.37:948][577]LogFileHelpers: Auto-saving content packages took 0.178
+[2024.07.11-07.41.59:469][323]BlueprintLog: New page: Compile BP_Vehicle
+[2024.07.11-07.41.59:619][323]LogUObjectHash: Compacting FUObjectHashTables data took   7.43ms
+[2024.07.11-07.42.00:226][343]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Vehicle" FILE="G:/project/university/game/car/CarProject/Content/BP_Vehicle.uasset" SILENT=true
+[2024.07.11-07.42.00:385][343]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/BP_Vehicle85AD3E4B4825F547EF7F7A9C1BB25B40.tmp' to 'G:/project/university/game/car/CarProject/Content/BP_Vehicle.uasset'
+[2024.07.11-07.42.00:504][343]AssetCheck: New page: Asset Save: BP_Vehicle
+[2024.07.11-07.42.00:504][343]LogContentValidation: Display: Validating Blueprint /Game/BP_Vehicle.BP_Vehicle
+[2024.07.11-07.47.38:352][381]LogUObjectHash: Compacting FUObjectHashTables data took   6.93ms
+[2024.07.11-07.47.38:374][381]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/Minimal_Default_Auto9850AF3D144BE684B368EC3AE9880331D.tmp' to 'G:/project/university/game/car/CarProject/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto9.umap'
+[2024.07.11-07.47.38:376][381]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.081
+[2024.07.11-07.47.38:376][381]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.081
+[2024.07.11-07.50.29:761][779]LogEditorTransaction: Undo Move Node
+[2024.07.11-07.57.38:899][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2024.07.11-07.57.38:921][ 86]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/Minimal_Default_Auto0AC63CEB34067165BB01DC8A40D738124.tmp' to 'G:/project/university/game/car/CarProject/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto0.umap'
+[2024.07.11-07.57.38:923][ 86]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.054
+[2024.07.11-07.57.38:923][ 86]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.054
+[2024.07.11-07.57.38:923][ 86]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_Vehicle] ([2] browsable assets)...
+[2024.07.11-07.57.38:977][ 86]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_Vehicle.BP_Vehicle]
+[2024.07.11-07.57.38:977][ 86]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Vehicle]
+[2024.07.11-07.57.38:977][ 86]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Vehicle" FILE="G:/project/university/game/car/CarProject/Saved/Autosaves/Game/BP_Vehicle_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2024.07.11-07.57.39:063][ 86]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/BP_Vehicle_Auto07ECE9E34493860AC19B1FFA57985CDC5.tmp' to 'G:/project/university/game/car/CarProject/Saved/Autosaves/Game/BP_Vehicle_Auto0.uasset'
+[2024.07.11-07.57.39:063][ 86]LogFileHelpers: Auto-saving content packages took 0.141
+[2024.07.11-08.08.50:762][435]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2024.07.11-08.08.50:764][435]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.051
+[2024.07.11-08.08.50:764][435]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_Vehicle] ([2] browsable assets)...
+[2024.07.11-08.08.50:815][435]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_Vehicle.BP_Vehicle]
+[2024.07.11-08.08.50:815][435]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Vehicle]
+[2024.07.11-08.08.50:816][435]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Vehicle" FILE="G:/project/university/game/car/CarProject/Saved/Autosaves/Game/BP_Vehicle_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2024.07.11-08.08.50:953][435]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/BP_Vehicle_Auto1621C9327454FF4FEE8B2D89B26951461.tmp' to 'G:/project/university/game/car/CarProject/Saved/Autosaves/Game/BP_Vehicle_Auto1.uasset'
+[2024.07.11-08.08.50:955][435]LogFileHelpers: Auto-saving content packages took 0.191
+[2024.07.11-08.09.04:120][729]BlueprintLog: New page: Compile BP_Vehicle
+[2024.07.11-08.09.04:256][729]LogUObjectHash: Compacting FUObjectHashTables data took   5.37ms
+[2024.07.11-08.09.04:841][750]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Vehicle" FILE="G:/project/university/game/car/CarProject/Content/BP_Vehicle.uasset" SILENT=true
+[2024.07.11-08.09.04:970][750]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/BP_VehicleB3BDC36545FDB64D5E077A8FC35F3735.tmp' to 'G:/project/university/game/car/CarProject/Content/BP_Vehicle.uasset'
+[2024.07.11-08.09.05:086][750]AssetCheck: New page: Asset Save: BP_Vehicle
+[2024.07.11-08.09.05:086][750]LogContentValidation: Display: Validating Blueprint /Game/BP_Vehicle.BP_Vehicle
+[2024.07.11-08.12.07:700][620]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Vehicle" FILE="G:/project/university/game/car/CarProject/Content/BP_Vehicle.uasset" SILENT=true
+[2024.07.11-08.12.07:838][620]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/BP_Vehicle575324E5417334CF6CA8F99B96B0805D.tmp' to 'G:/project/university/game/car/CarProject/Content/BP_Vehicle.uasset'
+[2024.07.11-08.12.07:952][620]AssetCheck: New page: Asset Save: BP_Vehicle
+[2024.07.11-08.12.07:952][620]LogContentValidation: Display: Validating Blueprint /Game/BP_Vehicle.BP_Vehicle
+[2024.07.11-08.13.12:345][475]LogRenderer: Reallocating scene render targets to support 1148x704 Format 10 NumSamples 1 (Frame:219052).
+[2024.07.11-08.13.12:480][476]LogRenderer: Reallocating scene render targets to support 1160x704 Format 10 NumSamples 1 (Frame:219054).
+[2024.07.11-08.13.12:583][477]LogRenderer: Reallocating scene render targets to support 1176x704 Format 10 NumSamples 1 (Frame:219056).
+[2024.07.11-08.13.12:682][478]LogRenderer: Reallocating scene render targets to support 1188x704 Format 10 NumSamples 1 (Frame:219058).
+[2024.07.11-08.13.13:024][489]LogRenderer: Reallocating scene render targets to support 1192x704 Format 10 NumSamples 1 (Frame:219070).
+[2024.07.11-08.13.13:107][490]LogRenderer: Reallocating scene render targets to support 1208x704 Format 10 NumSamples 1 (Frame:219072).
+[2024.07.11-08.13.13:771][510]LogTemp: Repeating last play command: Selected Viewport
+[2024.07.11-08.13.13:803][510]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.11-08.13.13:834][510]PIE: New page: PIE session: Minimal_Default (Jul 10, 2024, 6:13:13 PM)
+[2024.07.11-08.13.13:852][510]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.07.11-08.13.13:924][510]LogPlayLevel: PIE: StaticDuplicateObject took: (0.070098s)
+[2024.07.11-08.13.13:948][510]LogAIModule: Creating AISystem for world Minimal_Default
+[2024.07.11-08.13.13:964][510]LogPlayLevel: PIE: World Init took: (0.039150s)
+[2024.07.11-08.13.13:965][510]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.113452s)
+[2024.07.11-08.13.14:027][510]LogUObjectHash: Compacting FUObjectHashTables data took   7.14ms
+[2024.07.11-08.13.14:063][510]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.07.11-08.13.14:076][510]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.11-08.13.14:076][510]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.11-08.13.14:077][510]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.11-08.13.14:077][510]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.11-08.13.14:077][510]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.07.11-08.13.14:077][510]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.11-08.13.14:077][510]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.07.11-08.13.14:079][510]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.11-08.13.14:088][510]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.11-08.13.14:089][510]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.11-08.13.14:089][510]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.11-08.13.14:089][510]LogAudioMixer: Display: Initializing audio mixer.
+[2024.07.11-08.13.14:128][510]LogAudioMixer: Display: 0: FrontLeft
+[2024.07.11-08.13.14:128][510]LogAudioMixer: Display: 1: FrontRight
+[2024.07.11-08.13.14:185][510]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2024.07.11-08.13.14:192][510]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.11-08.13.14:193][510]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.11-08.13.14:195][510]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.11-08.13.14:202][510]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.07.11-08.13.14:203][510]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.07.11-08.13.14:204][510]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.07.11-08.13.14:207][510]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.07.11-08.13.14:207][510]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.07.11-08.13.14:207][510]LogInit: FAudioDevice initialized.
+[2024.07.11-08.13.14:208][510]LogAudio: Display: Audio Device (ID: 5) registered with world 'Minimal_Default'.
+[2024.07.11-08.13.14:297][510]LogLoad: Game class is 'GameModeBase'
+[2024.07.11-08.13.14:325][510]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2024.07.11-01.13.14
+[2024.07.11-08.13.14:335][510]LogWorld: Bringing up level for play took: 0.032403
+[2024.07.11-08.13.14:355][510]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2024.07.11-08.13.14:431][510]PIE: Server logged in
+[2024.07.11-08.13.14:434][510]PIE: Play in editor total start time 0.641 seconds.
+[2024.07.11-08.13.39:281][871]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.11-08.13.39:282][871]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.07.11-08.13.39:286][871]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2024.07.11-08.13.39:289][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.11-08.13.39:332][871]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.11-08.13.39:369][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.11-08.13.39:428][871]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.11-08.13.39:433][871]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.07.11-08.13.39:436][871]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.07.11-08.13.39:442][871]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.11-08.13.39:462][871]LogUObjectHash: Compacting FUObjectHashTables data took   5.12ms
+[2024.07.11-08.13.39:556][872]LogPlayLevel: Display: Destroying online subsystem :Context_25
