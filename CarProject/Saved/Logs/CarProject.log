@@ -2408,3 +2408,59 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.07.11-06.30.31:989][951]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/WBP_Speedometer4B26ECC54AD128BBD924F486317681F3.tmp' to 'G:/project/university/game/car/CarProject/Content/UI/WBP_Speedometer.uasset'
 [2024.07.11-06.30.32:030][951]AssetCheck: New page: Asset Save: WBP_Speedometer
 [2024.07.11-06.30.32:030][951]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/WBP_Speedometer.WBP_Speedometer
+[2024.07.11-06.31.48:803][331]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2024.07.11-06.31.48:811][331]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.11-06.31.48:880][331]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.07.11-06.31.48:880][331]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.11-06.31.53:962][473]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_Vehicle.BP_Vehicle
+[2024.07.11-06.33.08:529][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   6.62ms
+[2024.07.11-06.33.08:541][ 56]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.176
+[2024.07.11-06.33.08:545][ 56]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_Vehicle] ([2] browsable assets)...
+[2024.07.11-06.33.08:705][ 56]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_Vehicle.BP_Vehicle]
+[2024.07.11-06.33.08:705][ 56]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Vehicle]
+[2024.07.11-06.33.08:706][ 56]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Vehicle" FILE="G:/project/university/game/car/CarProject/Saved/Autosaves/Game/BP_Vehicle_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2024.07.11-06.33.08:916][ 56]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/BP_Vehicle_Auto3960A09B8439602FDA0972F9DEF598E55.tmp' to 'G:/project/university/game/car/CarProject/Saved/Autosaves/Game/BP_Vehicle_Auto3.uasset'
+[2024.07.11-06.33.08:918][ 56]LogFileHelpers: Auto-saving content packages took 0.375
+[2024.07.11-06.39.24:215][ 17]BlueprintLog: New page: Compile BP_Vehicle
+[2024.07.11-06.39.24:672][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   6.14ms
+[2024.07.11-06.42.13:789][881]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.07.11-06.43.56:896][391]BlueprintLog: New page: Compile BP_Vehicle
+[2024.07.11-06.43.57:017][391]LogUObjectHash: Compacting FUObjectHashTables data took   5.37ms
+[2024.07.11-06.43.58:253][442]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Vehicle" FILE="G:/project/university/game/car/CarProject/Content/BP_Vehicle.uasset" SILENT=true
+[2024.07.11-06.43.58:381][442]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/BP_VehicleEF09EBCE46D32C37E194669AD2E5BD5B.tmp' to 'G:/project/university/game/car/CarProject/Content/BP_Vehicle.uasset'
+[2024.07.11-06.43.58:480][442]AssetCheck: New page: Asset Save: BP_Vehicle
+[2024.07.11-06.43.58:480][442]LogContentValidation: Display: Validating Blueprint /Game/BP_Vehicle.BP_Vehicle
+[2024.07.11-06.44.04:475][524]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2024.07.11-06.44.04:556][524]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/Minimal_Default_Auto44DB363B94AA8493A6097B3974AE0A389.tmp' to 'G:/project/university/game/car/CarProject/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto4.umap'
+[2024.07.11-06.44.04:563][524]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.128
+[2024.07.11-06.44.04:563][524]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.128
+[2024.07.11-07.02.52:284][352]BlueprintLog: New page: Compile BP_Vehicle
+[2024.07.11-07.02.52:401][352]LogUObjectHash: Compacting FUObjectHashTables data took   5.18ms
+[2024.07.11-07.02.52:913][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Vehicle" FILE="G:/project/university/game/car/CarProject/Content/BP_Vehicle.uasset" SILENT=true
+[2024.07.11-07.02.53:060][372]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/BP_Vehicle0CA458564373E1EBF97EEE93E51E8A57.tmp' to 'G:/project/university/game/car/CarProject/Content/BP_Vehicle.uasset'
+[2024.07.11-07.02.53:174][372]AssetCheck: New page: Asset Save: BP_Vehicle
+[2024.07.11-07.02.53:174][372]LogContentValidation: Display: Validating Blueprint /Game/BP_Vehicle.BP_Vehicle
+[2024.07.11-07.04.01:959][607]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2024.07.11-07.04.01:983][607]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/Minimal_Default_Auto513EAB15D44730C68D4A921A25D77F441.tmp' to 'G:/project/university/game/car/CarProject/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto5.umap'
+[2024.07.11-07.04.01:986][607]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.090
+[2024.07.11-07.04.01:986][607]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.090
+[2024.07.11-07.14.52:434][895]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2024.07.11-07.14.52:437][895]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.045
+[2024.07.11-07.14.52:438][895]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_Vehicle] ([2] browsable assets)...
+[2024.07.11-07.14.52:485][895]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_Vehicle.BP_Vehicle]
+[2024.07.11-07.14.52:485][895]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Vehicle]
+[2024.07.11-07.14.52:485][895]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Vehicle" FILE="G:/project/university/game/car/CarProject/Saved/Autosaves/Game/BP_Vehicle_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2024.07.11-07.14.52:632][895]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/BP_Vehicle_Auto6B3C7D373464F861047EC8080D2D84C28.tmp' to 'G:/project/university/game/car/CarProject/Saved/Autosaves/Game/BP_Vehicle_Auto6.uasset'
+[2024.07.11-07.14.52:633][895]LogFileHelpers: Auto-saving content packages took 0.195
+[2024.07.11-07.15.17:916][377]BlueprintLog: New page: Compile BP_Vehicle
+[2024.07.11-07.15.18:025][377]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2024.07.11-07.15.18:688][404]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Vehicle" FILE="G:/project/university/game/car/CarProject/Content/BP_Vehicle.uasset" SILENT=true
+[2024.07.11-07.15.18:805][404]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/BP_Vehicle0BBFA7804D9B4E43F071FFBCF415ABAF.tmp' to 'G:/project/university/game/car/CarProject/Content/BP_Vehicle.uasset'
+[2024.07.11-07.15.18:904][404]AssetCheck: New page: Asset Save: BP_Vehicle
+[2024.07.11-07.15.18:904][404]LogContentValidation: Display: Validating Blueprint /Game/BP_Vehicle.BP_Vehicle
+[2024.07.11-07.16.33:812][622]BlueprintLog: New page: Compile BP_Vehicle
+[2024.07.11-07.16.33:920][622]LogUObjectHash: Compacting FUObjectHashTables data took   4.92ms
+[2024.07.11-07.16.34:404][636]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Vehicle" FILE="G:/project/university/game/car/CarProject/Content/BP_Vehicle.uasset" SILENT=true
+[2024.07.11-07.16.34:518][636]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/BP_Vehicle05A5CBA14F02D2549BF3558E99FA6601.tmp' to 'G:/project/university/game/car/CarProject/Content/BP_Vehicle.uasset'
+[2024.07.11-07.16.34:616][636]AssetCheck: New page: Asset Save: BP_Vehicle
+[2024.07.11-07.16.34:616][636]LogContentValidation: Display: Validating Blueprint /Game/BP_Vehicle.BP_Vehicle
