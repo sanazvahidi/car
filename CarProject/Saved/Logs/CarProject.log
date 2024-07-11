@@ -2664,3 +2664,62 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.07.11-10.20.40:707][987]LogRenderer: Reallocating scene render targets to support 1372x704 Format 10 NumSamples 1 (Frame:221077).
 [2024.07.11-10.20.41:021][989]LogRenderer: Reallocating scene render targets to support 1512x704 Format 10 NumSamples 1 (Frame:221078).
 [2024.07.11-10.20.41:172][990]LogRenderer: Reallocating scene render targets to support 1524x704 Format 10 NumSamples 1 (Frame:221080).
+[2024.07.11-10.22.37:776][664]LogContentBrowser: Deferred new asset file creation: M_Vehicle_lights_Inst
+[2024.07.11-10.22.37:842][664]LogContentBrowser: Creating deferred item: M_Vehicle_lights_Inst
+[2024.07.11-10.22.50:258][746]LogContentBrowser: Attempting asset rename: M_Vehicle_lights_Inst -> M_Vehicle_lights_Inst
+[2024.07.11-10.22.50:261][746]LogContentBrowser: End creating deferred item M_Vehicle_lights_Inst
+[2024.07.11-10.23.07:520][218]LogContentBrowser: Attempting asset rename: M_Vehicle_lights_Inst -> MI_TurnSignalLights
+[2024.07.11-10.23.07:995][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/MI_TurnSignalLights" FILE="G:/project/university/game/car/CarProject/Content/Materials/MI_TurnSignalLights.uasset" SILENT=true
+[2024.07.11-10.23.08:007][218]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/MI_TurnSignalLightsD28FF52D422FD8B9EAC8CE98EA485F50.tmp' to 'G:/project/university/game/car/CarProject/Content/Materials/MI_TurnSignalLights.uasset'
+[2024.07.11-10.23.08:318][218]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2024.07.11-10.23.08:454][218]LogUObjectHash: Compacting FUObjectHashTables data took   6.86ms
+[2024.07.11-10.23.08:483][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.07.11-10.23.08:933][218]AssetCheck: New page: Asset Save: MI_TurnSignalLights
+[2024.07.11-10.23.08:933][218]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/MI_TurnSignalLights.MI_TurnSignalLights
+[2024.07.11-10.23.17:681][292]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Materials/MI_TurnSignalLights.MI_TurnSignalLights
+[2024.07.11-10.23.28:306][406]LogSlate: Window 'MI_TurnSignalLights' being destroyed
+[2024.07.11-10.24.24:289][682]LogSlate: Window 'Color Picker' being destroyed
+[2024.07.11-10.24.59:364][266]LogSlate: Window 'Color Picker' being destroyed
+[2024.07.11-10.25.06:930][678]LogSlate: Window 'Color Picker' being destroyed
+[2024.07.11-10.25.49:985][140]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/MI_TurnSignalLights" FILE="G:/project/university/game/car/CarProject/Content/Materials/MI_TurnSignalLights.uasset" SILENT=true
+[2024.07.11-10.25.50:020][140]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2024.07.11-10.25.50:076][140]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.07.11-10.25.50:087][140]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/MI_TurnSignalLights21CF3E3E4F2622300CED9499CBBC0285.tmp' to 'G:/project/university/game/car/CarProject/Content/Materials/MI_TurnSignalLights.uasset'
+[2024.07.11-10.25.50:168][140]AssetCheck: New page: Asset Save: MI_TurnSignalLights
+[2024.07.11-10.25.50:168][140]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/MI_TurnSignalLights.MI_TurnSignalLights
+[2024.07.11-10.26.13:082][499]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Meshes/SM_Vehiclemodel.SM_Vehiclemodel
+[2024.07.11-10.26.13:130][499]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.07.11-10.26.46:096][910]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/SM_Vehiclemodel" FILE="G:/project/university/game/car/CarProject/Content/Meshes/SM_Vehiclemodel.uasset" SILENT=true
+[2024.07.11-10.26.46:442][910]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/SM_Vehiclemodel8A7C22E84A31991178DA549556B63AFA.tmp' to 'G:/project/university/game/car/CarProject/Content/Meshes/SM_Vehiclemodel.uasset'
+[2024.07.11-10.26.46:501][910]AssetCheck: New page: Asset Save: SM_Vehiclemodel
+[2024.07.11-10.26.46:501][910]LogContentValidation: Display: Validating SkeletalMesh /Game/Meshes/SM_Vehiclemodel.SM_Vehiclemodel
+[2024.07.11-10.26.52:280][993]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2024.07.11-10.26.52:280][993]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.11-10.26.58:636][123]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2024.07.11-10.26.58:636][123]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.11-10.27.20:119][375]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2024.07.11-10.27.21:438][375]LogSlate: Window 'Delete Assets' being destroyed
+[2024.07.11-10.27.21:701][375]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2024.07.11-10.27.21:810][375]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2024.07.11-10.27.21:840][375]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.07.11-10.27.40:395][541]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2024.07.11-10.31.21:168][223]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2024.07.11-10.31.21:173][223]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.050
+[2024.07.11-10.31.21:175][223]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sounds/tick_off] ([1] browsable assets)...
+[2024.07.11-10.31.21:183][223]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Sounds/tick_off.tick_off]
+[2024.07.11-10.31.21:183][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sounds/tick_off]
+[2024.07.11-10.31.21:183][223]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/tick_off" FILE="G:/project/university/game/car/CarProject/Saved/Autosaves/Game/Sounds/tick_off_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2024.07.11-10.31.21:189][223]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/tick_off_Auto3448150AD408D29DF87A78D8C40D268ED.tmp' to 'G:/project/university/game/car/CarProject/Saved/Autosaves/Game/Sounds/tick_off_Auto3.uasset'
+[2024.07.11-10.31.21:190][223]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sounds/tick_on] ([1] browsable assets)...
+[2024.07.11-10.31.21:196][223]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Sounds/tick_on.tick_on]
+[2024.07.11-10.31.21:196][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sounds/tick_on]
+[2024.07.11-10.31.21:196][223]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/tick_on" FILE="G:/project/university/game/car/CarProject/Saved/Autosaves/Game/Sounds/tick_on_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2024.07.11-10.31.21:200][223]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/tick_on_Auto3A2F7D59C4B0382E589E693AB343D349E.tmp' to 'G:/project/university/game/car/CarProject/Saved/Autosaves/Game/Sounds/tick_on_Auto3.uasset'
+[2024.07.11-10.31.21:200][223]LogFileHelpers: Auto-saving content packages took 0.027
+[2024.07.11-10.31.46:498][383]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2024.07.11-10.31.46:522][383]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/Minimal_Default7F4BAF0F4B8D89850F0CBFA3B6629F88.tmp' to 'G:/project/university/game/car/CarProject/Content/StarterContent/Maps/Minimal_Default.umap'
+[2024.07.11-10.31.46:540][383]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="G:/project/university/game/car/CarProject/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2024.07.11-10.31.46:615][383]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/Minimal_Default_BuiltData355BEF2946B54354BFC2EFB87E2B01DC.tmp' to 'G:/project/university/game/car/CarProject/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2024.07.11-10.31.46:724][383]AssetCheck: New page: Asset Save: multiple assets
+[2024.07.11-10.31.46:724][383]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2024.07.11-10.31.46:724][383]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
