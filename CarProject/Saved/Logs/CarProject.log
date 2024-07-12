@@ -939,3 +939,747 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.07.12-20.09.33:829][595]AssetCheck: New page: Asset Save: multiple assets
 [2024.07.12-20.09.33:829][595]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
 [2024.07.12-20.09.33:829][595]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2024.07.12-20.11.17:170][946]LogAudioMixer: Resetting audio stream to device id 
+[2024.07.12-20.11.17:206][946]LogAudioMixer: Display: 0: FrontLeft
+[2024.07.12-20.11.17:206][946]LogAudioMixer: Display: 1: FrontRight
+[2024.07.12-20.11.18:492][947]LogAudioMixer: Resetting audio stream to device id 
+[2024.07.12-22.33.06:133][947]LogAudioMixer: Display: 0: FrontLeft
+[2024.07.12-22.33.06:134][947]LogAudioMixer: Display: 1: FrontRight
+[2024.07.12-22.33.06:493][948]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.07.12-22.33.06:889][948]LogAudioMixer: Resetting audio stream to device id 
+[2024.07.12-22.33.07:223][948]LogAudioMixer: Display: 0: FrontLeft
+[2024.07.12-22.33.07:223][948]LogAudioMixer: Display: 1: FrontRight
+[2024.07.12-22.33.07:304][949]LogHttp: Warning: 000001E954B5F200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8869FB87-4C51-5CC9-9676-618AAEBD2C5E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.07.12-22.33.07:459][949]LogHttp: Warning: 000001E954B5F200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.07.12-22.33.07:459][949]LogHttp: Warning: 000001E954B5F200: libcurl info message cache 0 (Connection 0 seems to be dead!)
+[2024.07.12-22.33.07:459][949]LogHttp: Warning: 000001E954B5F200: libcurl info message cache 1 (Closing connection 0)
+[2024.07.12-22.33.07:459][949]LogHttp: Warning: 000001E954B5F200: libcurl info message cache 2 (TLSv1.3 (OUT), TLS Unknown, Unknown (21):)
+[2024.07.12-22.33.07:459][949]LogHttp: Warning: 000001E954B5F200: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.07.12-22.33.07:459][949]LogHttp: Warning: 000001E954B5F200: libcurl info message cache 4 (Closing connection 1)
+[2024.07.12-22.33.07:511][950]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8869FB87-4C51-5CC9-9676-618AAEBD2C5E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.07.12-22.33.16:579][976]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.07.12-22.33.16:580][976]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.010
+[2024.07.12-22.33.16:585][976]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sounds/Drive1] ([1] browsable assets)...
+[2024.07.12-22.33.16:663][976]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Sounds/Drive1.Drive1]
+[2024.07.12-22.33.16:663][976]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sounds/Drive1]
+[2024.07.12-22.33.16:663][976]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Drive1" FILE="G:/project/university/game/car/CarProject/Saved/Autosaves/Game/Sounds/Drive1_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2024.07.12-22.33.16:667][976]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/Drive1_Auto101D1533741D4EE5DD5A2FAB9ED468BD6.tmp' to 'G:/project/university/game/car/CarProject/Saved/Autosaves/Game/Sounds/Drive1_Auto1.uasset'
+[2024.07.12-22.33.16:668][976]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sounds/Drive2] ([1] browsable assets)...
+[2024.07.12-22.33.16:675][976]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Sounds/Drive2.Drive2]
+[2024.07.12-22.33.16:676][976]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sounds/Drive2]
+[2024.07.12-22.33.16:676][976]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Drive2" FILE="G:/project/university/game/car/CarProject/Saved/Autosaves/Game/Sounds/Drive2_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2024.07.12-22.33.16:678][976]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/Drive2_Auto1B571615641141373B541BC82A4544B0F.tmp' to 'G:/project/university/game/car/CarProject/Saved/Autosaves/Game/Sounds/Drive2_Auto1.uasset'
+[2024.07.12-22.33.16:679][976]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sounds/Drive3] ([1] browsable assets)...
+[2024.07.12-22.33.16:690][976]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Sounds/Drive3.Drive3]
+[2024.07.12-22.33.16:690][976]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sounds/Drive3]
+[2024.07.12-22.33.16:690][976]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Drive3" FILE="G:/project/university/game/car/CarProject/Saved/Autosaves/Game/Sounds/Drive3_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2024.07.12-22.33.16:693][976]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/Drive3_Auto1C9E0AF42489E26E54BA9FA89CEDB4AE0.tmp' to 'G:/project/university/game/car/CarProject/Saved/Autosaves/Game/Sounds/Drive3_Auto1.uasset'
+[2024.07.12-22.33.16:694][976]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sounds/Ide] ([1] browsable assets)...
+[2024.07.12-22.33.16:701][976]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Sounds/Ide.Ide]
+[2024.07.12-22.33.16:701][976]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sounds/Ide]
+[2024.07.12-22.33.16:701][976]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Ide" FILE="G:/project/university/game/car/CarProject/Saved/Autosaves/Game/Sounds/Ide_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2024.07.12-22.33.16:705][976]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/Ide_Auto1D3E905DF4AADD463BC0A4C9803A2B49D.tmp' to 'G:/project/university/game/car/CarProject/Saved/Autosaves/Game/Sounds/Ide_Auto1.uasset'
+[2024.07.12-22.33.16:706][976]LogFileHelpers: Auto-saving content packages took 0.124
+[2024.07.12-22.33.42:375][ 54]LogHttp: Warning: 000001E935B8B900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8869FB87-4C51-5CC9-9676-618AAEBD2C5E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.07.12-22.33.42:375][ 54]LogHttp: Warning: 000001E935B8B900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.07.12-22.33.42:375][ 54]LogHttp: Warning: 000001E935B8B900: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.07.12-22.33.42:375][ 54]LogHttp: Warning: 000001E935B8B900: libcurl info message cache 1 (Closing connection 2)
+[2024.07.12-22.33.42:375][ 54]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8869FB87-4C51-5CC9-9676-618AAEBD2C5E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.07.12-22.34.48:280][250]LogHttp: Warning: 000001E935B8B900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8869FB87-4C51-5CC9-9676-618AAEBD2C5E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.07.12-22.34.48:280][250]LogHttp: Warning: 000001E935B8B900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.07.12-22.34.48:281][250]LogHttp: Warning: 000001E935B8B900: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.07.12-22.34.48:281][250]LogHttp: Warning: 000001E935B8B900: libcurl info message cache 1 (Closing connection 3)
+[2024.07.12-22.34.48:281][250]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8869FB87-4C51-5CC9-9676-618AAEBD2C5E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.07.12-22.35.48:050][428]LogHttp: Warning: 000001E9358EDD00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8869FB87-4C51-5CC9-9676-618AAEBD2C5E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.07.12-22.35.48:051][428]LogHttp: Warning: 000001E9358EDD00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.07.12-22.35.48:051][428]LogHttp: Warning: 000001E9358EDD00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.07.12-22.35.48:051][428]LogHttp: Warning: 000001E9358EDD00: libcurl info message cache 1 (Closing connection 4)
+[2024.07.12-22.35.48:051][428]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8869FB87-4C51-5CC9-9676-618AAEBD2C5E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.07.12-22.36.48:163][607]LogHttp: Warning: 000001E935577900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8869FB87-4C51-5CC9-9676-618AAEBD2C5E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.07.12-22.36.48:163][607]LogHttp: Warning: 000001E935577900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.07.12-22.36.48:163][607]LogHttp: Warning: 000001E935577900: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.07.12-22.36.48:163][607]LogHttp: Warning: 000001E935577900: libcurl info message cache 1 (Closing connection 5)
+[2024.07.12-22.36.48:515][608]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8869FB87-4C51-5CC9-9676-618AAEBD2C5E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.07.12-22.37.48:301][786]LogHttp: Warning: 000001E935B8B900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8869FB87-4C51-5CC9-9676-618AAEBD2C5E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.07.12-22.37.48:302][786]LogHttp: Warning: 000001E935B8B900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.07.12-22.37.48:302][786]LogHttp: Warning: 000001E935B8B900: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.07.12-22.37.48:302][786]LogHttp: Warning: 000001E935B8B900: libcurl info message cache 1 (Closing connection 6)
+[2024.07.12-22.37.48:302][786]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8869FB87-4C51-5CC9-9676-618AAEBD2C5E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.07.12-22.38.48:074][964]LogHttp: Warning: 000001E9358EC800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8869FB87-4C51-5CC9-9676-618AAEBD2C5E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.07.12-22.38.48:074][964]LogHttp: Warning: 000001E9358EC800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.07.12-22.38.48:074][964]LogHttp: Warning: 000001E9358EC800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.07.12-22.38.48:075][964]LogHttp: Warning: 000001E9358EC800: libcurl info message cache 1 (Closing connection 7)
+[2024.07.12-22.38.48:075][964]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8869FB87-4C51-5CC9-9676-618AAEBD2C5E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.07.12-22.39.48:139][143]LogHttp: Warning: 000001E935576B00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8869FB87-4C51-5CC9-9676-618AAEBD2C5E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.07.12-22.39.48:140][143]LogHttp: Warning: 000001E935576B00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.07.12-22.39.48:140][143]LogHttp: Warning: 000001E935576B00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.07.12-22.39.48:140][143]LogHttp: Warning: 000001E935576B00: libcurl info message cache 1 (Closing connection 8)
+[2024.07.12-22.39.48:484][144]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8869FB87-4C51-5CC9-9676-618AAEBD2C5E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.07.12-22.40.48:239][322]LogHttp: Warning: 000001E935B8B900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8869FB87-4C51-5CC9-9676-618AAEBD2C5E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.07.12-22.40.48:240][322]LogHttp: Warning: 000001E935B8B900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.07.12-22.40.48:240][322]LogHttp: Warning: 000001E935B8B900: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.07.12-22.40.48:240][322]LogHttp: Warning: 000001E935B8B900: libcurl info message cache 1 (Closing connection 9)
+[2024.07.12-22.40.48:240][322]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8869FB87-4C51-5CC9-9676-618AAEBD2C5E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.07.12-22.41.48:036][500]LogHttp: Warning: 000001E9358ECF00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8869FB87-4C51-5CC9-9676-618AAEBD2C5E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.07.12-22.41.48:036][500]LogHttp: Warning: 000001E9358ECF00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.07.12-22.41.48:036][500]LogHttp: Warning: 000001E9358ECF00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.07.12-22.41.48:036][500]LogHttp: Warning: 000001E9358ECF00: libcurl info message cache 1 (Closing connection 10)
+[2024.07.12-22.41.48:037][500]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8869FB87-4C51-5CC9-9676-618AAEBD2C5E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.07.12-22.42.48:151][679]LogHttp: Warning: 000001E935577900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8869FB87-4C51-5CC9-9676-618AAEBD2C5E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.07.12-22.42.48:152][679]LogHttp: Warning: 000001E935577900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.07.12-22.42.48:152][679]LogHttp: Warning: 000001E935577900: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.07.12-22.42.48:152][679]LogHttp: Warning: 000001E935577900: libcurl info message cache 1 (Closing connection 11)
+[2024.07.12-22.42.48:490][680]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8869FB87-4C51-5CC9-9676-618AAEBD2C5E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.07.12-22.43.48:209][858]LogHttp: Warning: 000001E935B8B900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8869FB87-4C51-5CC9-9676-618AAEBD2C5E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.07.12-22.43.48:209][858]LogHttp: Warning: 000001E935B8B900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.07.12-22.43.48:210][858]LogHttp: Warning: 000001E935B8B900: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.07.12-22.43.48:210][858]LogHttp: Warning: 000001E935B8B900: libcurl info message cache 1 (Closing connection 12)
+[2024.07.12-22.43.48:210][858]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8869FB87-4C51-5CC9-9676-618AAEBD2C5E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.07.12-22.44.48:298][ 37]LogHttp: Warning: 000001E954A75D00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8869FB87-4C51-5CC9-9676-618AAEBD2C5E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.07.12-22.44.48:299][ 37]LogHttp: Warning: 000001E954A75D00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.07.12-22.44.48:299][ 37]LogHttp: Warning: 000001E954A75D00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.07.12-22.44.48:299][ 37]LogHttp: Warning: 000001E954A75D00: libcurl info message cache 1 (Closing connection 13)
+[2024.07.12-22.44.48:634][ 38]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8869FB87-4C51-5CC9-9676-618AAEBD2C5E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.07.12-22.45.48:033][215]LogHttp: Warning: 000001E9358EC100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8869FB87-4C51-5CC9-9676-618AAEBD2C5E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.07.12-22.45.48:033][215]LogHttp: Warning: 000001E9358EC100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.07.12-22.45.48:033][215]LogHttp: Warning: 000001E9358EC100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.07.12-22.45.48:033][215]LogHttp: Warning: 000001E9358EC100: libcurl info message cache 1 (Closing connection 14)
+[2024.07.12-22.45.48:366][216]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8869FB87-4C51-5CC9-9676-618AAEBD2C5E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.07.12-22.46.48:174][394]LogHttp: Warning: 000001E954A75D00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8869FB87-4C51-5CC9-9676-618AAEBD2C5E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.07.12-22.46.48:174][394]LogHttp: Warning: 000001E954A75D00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.07.12-22.46.48:174][394]LogHttp: Warning: 000001E954A75D00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.07.12-22.46.48:174][394]LogHttp: Warning: 000001E954A75D00: libcurl info message cache 1 (Closing connection 15)
+[2024.07.12-22.46.48:174][394]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8869FB87-4C51-5CC9-9676-618AAEBD2C5E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.07.12-22.47.48:258][573]LogHttp: Warning: 000001E954A75D00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8869FB87-4C51-5CC9-9676-618AAEBD2C5E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.07.12-22.47.48:258][573]LogHttp: Warning: 000001E954A75D00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.07.12-22.47.48:258][573]LogHttp: Warning: 000001E954A75D00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.07.12-22.47.48:258][573]LogHttp: Warning: 000001E954A75D00: libcurl info message cache 1 (Closing connection 16)
+[2024.07.12-22.47.48:593][574]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8869FB87-4C51-5CC9-9676-618AAEBD2C5E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.07.12-22.51.01:225][546]LogSlate: Window 'EngineCue' being destroyed
+[2024.07.12-22.51.52:637][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.07.12-22.51.52:637][471]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.009
+[2024.07.12-22.51.52:638][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sounds/EngineCue] ([1] browsable assets)...
+[2024.07.12-22.51.52:638][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sounds/EngineCue]
+[2024.07.12-22.51.52:638][471]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/EngineCue" FILE="G:/project/university/game/car/CarProject/Saved/Autosaves/Game/Sounds/EngineCue_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2024.07.12-22.51.52:639][471]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/EngineCue_Auto2DFC69E124229534851E1F39659FA440A.tmp' to 'G:/project/university/game/car/CarProject/Saved/Autosaves/Game/Sounds/EngineCue_Auto2.uasset'
+[2024.07.12-22.51.52:640][471]LogFileHelpers: Auto-saving content packages took 0.002
+[2024.07.12-23.00.01:353][ 37]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/Sounds/EngineCue.EngineCue was zero and has changed. Consider manually Re-saving the asset
+[2024.07.12-23.00.16:318][170]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Drive1...
+[2024.07.12-23.00.16:318][170]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sounds/Drive1.Drive1 will be modified from 40 to 40.
+[2024.07.12-23.00.16:353][170]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 302080 while cooking SoundWave /Game/Sounds/Drive1.Drive1.
+[2024.07.12-23.00.16:358][170]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Drive2...
+[2024.07.12-23.00.16:358][170]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sounds/Drive2.Drive2 will be modified from 40 to 40.
+[2024.07.12-23.00.16:390][170]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 302080 while cooking SoundWave /Game/Sounds/Drive2.Drive2.
+[2024.07.12-23.00.16:392][170]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Ide...
+[2024.07.12-23.00.16:392][170]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sounds/Ide.Ide will be modified from 40 to 40.
+[2024.07.12-23.00.16:425][170]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 302080 while cooking SoundWave /Game/Sounds/Ide.Ide.
+[2024.07.12-23.02.07:849][432]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.07.12-23.02.07:850][432]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.014
+[2024.07.12-23.02.07:851][432]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sounds/EngineCue] ([1] browsable assets)...
+[2024.07.12-23.02.07:851][432]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sounds/EngineCue]
+[2024.07.12-23.02.07:851][432]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/EngineCue" FILE="G:/project/university/game/car/CarProject/Saved/Autosaves/Game/Sounds/EngineCue_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2024.07.12-23.02.07:856][432]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/EngineCue_Auto352BA5AFD44605C3E280F5F9332C5B919.tmp' to 'G:/project/university/game/car/CarProject/Saved/Autosaves/Game/Sounds/EngineCue_Auto3.uasset'
+[2024.07.12-23.02.07:856][432]LogFileHelpers: Auto-saving content packages took 0.006
+[2024.07.12-23.05.27:247][598]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/EngineCue" FILE="G:/project/university/game/car/CarProject/Content/Sounds/EngineCue.uasset" SILENT=true
+[2024.07.12-23.05.27:251][598]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/EngineCueEAEF26A64447CD67B1AE2085BED01EEC.tmp' to 'G:/project/university/game/car/CarProject/Content/Sounds/EngineCue.uasset'
+[2024.07.12-23.05.27:259][598]AssetCheck: New page: Asset Save: EngineCue
+[2024.07.12-23.05.27:259][598]LogContentValidation: Display: Validating SoundCue /Game/Sounds/EngineCue.EngineCue
+[2024.07.12-23.06.18:785][ 74]LogContentBrowser: Deferred new asset file creation: NewSoundAttenuation
+[2024.07.12-23.06.18:794][ 74]LogContentBrowser: Creating deferred item: NewSoundAttenuation
+[2024.07.12-23.06.24:811][331]LogContentBrowser: Attempting asset rename: NewSoundAttenuation -> SoundAttenuation
+[2024.07.12-23.06.24:813][331]LogContentBrowser: End creating deferred item NewSoundAttenuation
+[2024.07.12-23.06.25:956][374]LogAssetEditorSubsystem: Opening Asset editor for SoundAttenuation /Game/Sounds/SoundAttenuation.SoundAttenuation
+[2024.07.12-23.07.20:312][217]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/SoundAttenuation" FILE="G:/project/university/game/car/CarProject/Content/Sounds/SoundAttenuation.uasset" SILENT=true
+[2024.07.12-23.07.20:313][217]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/SoundAttenuationFF37D38748F9DB6F3523C0A77172BD44.tmp' to 'G:/project/university/game/car/CarProject/Content/Sounds/SoundAttenuation.uasset'
+[2024.07.12-23.07.20:318][217]AssetCheck: New page: Asset Save: SoundAttenuation
+[2024.07.12-23.07.20:318][217]LogContentValidation: Display: Validating SoundAttenuation /Game/Sounds/SoundAttenuation.SoundAttenuation
+[2024.07.12-23.07.54:669][800]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Sounds/EngineCue.EngineCue
+[2024.07.12-23.08.12:130][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/EngineCue" FILE="G:/project/university/game/car/CarProject/Content/Sounds/EngineCue.uasset" SILENT=true
+[2024.07.12-23.08.12:133][347]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/EngineCueFAADF1CC475FB3CB78E99197E8516D76.tmp' to 'G:/project/university/game/car/CarProject/Content/Sounds/EngineCue.uasset'
+[2024.07.12-23.08.12:139][347]AssetCheck: New page: Asset Save: EngineCue
+[2024.07.12-23.08.12:139][347]LogContentValidation: Display: Validating SoundCue /Game/Sounds/EngineCue.EngineCue
+[2024.07.12-23.13.45:656][681]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_Vehicle.BP_Vehicle
+[2024.07.12-23.13.46:158][681]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 126 classes and 0 folders.
+[2024.07.12-23.13.47:682][682]LogSlate: Took 0.003239 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.07.12-23.21.49:728][471]LogRenderer: Reallocating scene render targets to support 1524x536 Format 10 NumSamples 1 (Frame:1).
+[2024.07.12-23.22.31:412][244]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2024.07.12-23.22.31:425][244]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/Minimal_Default_Auto411A2C1994AC69C1B7176BF823F790A82.tmp' to 'G:/project/university/game/car/CarProject/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto4.umap'
+[2024.07.12-23.22.31:425][244]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.043
+[2024.07.12-23.22.31:425][244]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.043
+[2024.07.12-23.22.31:425][244]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP_Vehicle] ([2] browsable assets)...
+[2024.07.12-23.22.31:474][244]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/BP_Vehicle.BP_Vehicle_C]
+[2024.07.12-23.22.31:497][244]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_Vehicle.BP_Vehicle]
+[2024.07.12-23.22.31:497][244]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Vehicle]
+[2024.07.12-23.22.31:497][244]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Vehicle" FILE="G:/project/university/game/car/CarProject/Saved/Autosaves/Game/BP_Vehicle_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2024.07.12-23.22.31:615][244]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/BP_Vehicle_Auto4AA79B51D43099979AA2A2FACBFEE7D33.tmp' to 'G:/project/university/game/car/CarProject/Saved/Autosaves/Game/BP_Vehicle_Auto4.uasset'
+[2024.07.12-23.22.31:616][244]LogFileHelpers: Auto-saving content packages took 0.191
+[2024.07.12-23.23.56:691][243]BlueprintLog: New page: Compile BP_Vehicle
+[2024.07.12-23.23.56:850][243]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2024.07.12-23.23.57:088][243]LogSlate: Took 0.003189 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.07.12-23.25.31:137][845]BlueprintLog: New page: Compile BP_Vehicle
+[2024.07.12-23.25.31:266][845]LogUObjectHash: Compacting FUObjectHashTables data took   4.72ms
+[2024.07.12-23.25.40:976][988]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Vehicle" FILE="G:/project/university/game/car/CarProject/Content/BP_Vehicle.uasset" SILENT=true
+[2024.07.12-23.25.41:182][988]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/BP_Vehicle195E7CE24BE32185E0FE7AACAF6831A8.tmp' to 'G:/project/university/game/car/CarProject/Content/BP_Vehicle.uasset'
+[2024.07.12-23.25.41:292][988]AssetCheck: New page: Asset Save: BP_Vehicle
+[2024.07.12-23.25.41:292][988]LogContentValidation: Display: Validating Blueprint /Game/BP_Vehicle.BP_Vehicle
+[2024.07.12-23.26.37:798][328]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Vehicle" FILE="G:/project/university/game/car/CarProject/Content/BP_Vehicle.uasset" SILENT=true
+[2024.07.12-23.26.38:003][328]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/BP_Vehicle1B261D624B053FF0E1F49CAA6744213D.tmp' to 'G:/project/university/game/car/CarProject/Content/BP_Vehicle.uasset'
+[2024.07.12-23.26.38:127][328]AssetCheck: New page: Asset Save: BP_Vehicle
+[2024.07.12-23.26.38:127][328]LogContentValidation: Display: Validating Blueprint /Game/BP_Vehicle.BP_Vehicle
+[2024.07.12-23.26.38:869][366]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.07.12-23.26.38:869][366]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.12-23.26.42:416][515]LogTemp: Repeating last play command: Selected Viewport
+[2024.07.12-23.26.42:436][515]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.12-23.26.42:451][515]PIE: New page: PIE session: Minimal_Default (Jul 12, 2024, 9:26:42 AM)
+[2024.07.12-23.26.42:470][515]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2024.07.12-23.26.42:476][515]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2024.07.12-23.26.42:478][515]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.07.12-23.26.42:492][515]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013415s)
+[2024.07.12-23.26.42:496][515]LogAIModule: Creating AISystem for world Minimal_Default
+[2024.07.12-23.26.42:498][515]LogPlayLevel: PIE: World Init took: (0.005183s)
+[2024.07.12-23.26.42:498][515]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.020002s)
+[2024.07.12-23.26.42:538][515]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2024.07.12-23.26.42:544][515]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.07.12-23.26.42:545][515]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.12-23.26.42:545][515]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.12-23.26.42:545][515]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.12-23.26.42:545][515]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.12-23.26.42:545][515]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.07.12-23.26.42:545][515]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.12-23.26.42:545][515]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.07.12-23.26.42:545][515]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.12-23.26.42:546][515]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.12-23.26.42:546][515]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.12-23.26.42:547][515]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.12-23.26.42:547][515]LogAudioMixer: Display: Initializing audio mixer.
+[2024.07.12-23.26.42:553][515]LogAudioMixer: Display: 0: FrontLeft
+[2024.07.12-23.26.42:553][515]LogAudioMixer: Display: 1: FrontRight
+[2024.07.12-23.26.42:580][515]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2024.07.12-23.26.42:581][515]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.12-23.26.42:581][515]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.12-23.26.42:581][515]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.12-23.26.42:581][515]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.07.12-23.26.42:581][515]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.07.12-23.26.42:581][515]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.07.12-23.26.42:583][515]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.07.12-23.26.42:583][515]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.07.12-23.26.42:583][515]LogInit: FAudioDevice initialized.
+[2024.07.12-23.26.42:583][515]LogAudio: Display: Audio Device (ID: 2) registered with world 'Minimal_Default'.
+[2024.07.12-23.26.42:612][515]LogLoad: Game class is 'GameModeBase'
+[2024.07.12-23.26.42:645][515]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2024.07.12-16.26.42
+[2024.07.12-23.26.42:649][515]LogWorld: Bringing up level for play took: 0.019205
+[2024.07.12-23.26.42:652][515]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2024.07.12-23.26.42:701][515]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 20 classes and 0 folders.
+[2024.07.12-23.26.42:730][515]PIE: Server logged in
+[2024.07.12-23.26.42:733][515]PIE: Play in editor total start time 0.305 seconds.
+[2024.07.12-23.27.07:592][623]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.12-23.27.07:592][623]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.07.12-23.27.07:594][623]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2024.07.12-23.27.07:594][623]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.12-23.27.07:608][623]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.12-23.27.07:617][623]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.12-23.27.07:656][623]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.12-23.27.07:667][623]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.07.12-23.27.07:669][623]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.07.12-23.27.07:677][623]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.12-23.27.07:760][623]LogUObjectHash: Compacting FUObjectHashTables data took   5.97ms
+[2024.07.12-23.27.07:796][624]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2024.07.12-23.27.35:765][823]LogUObjectHash: Compacting FUObjectHashTables data took  20.51ms
+[2024.07.12-23.27.39:752][823]LogSlate: Window 'Save Content' being destroyed
+[2024.07.12-23.27.50:054][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.07.12-23.27.50:074][178]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/Minimal_Default40486D0A4188D0887D680AA469E8F6B5.tmp' to 'G:/project/university/game/car/CarProject/Content/StarterContent/Maps/Minimal_Default.umap'
+[2024.07.12-23.27.50:093][178]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="G:/project/university/game/car/CarProject/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2024.07.12-23.27.50:171][178]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/Minimal_Default_BuiltData0309848B45B0789257EC8ABABBD99822.tmp' to 'G:/project/university/game/car/CarProject/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2024.07.12-23.27.50:274][178]AssetCheck: New page: Asset Save: multiple assets
+[2024.07.12-23.27.50:274][178]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2024.07.12-23.27.50:274][178]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2024.07.12-23.27.50:942][201]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2024.07.12-23.27.55:660][201]LogSlate: Window 'Save Content' being destroyed
+[2024.07.12-23.27.55:732][201]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Drive1" FILE="G:/project/university/game/car/CarProject/Content/Sounds/Drive1.uasset" SILENT=true
+[2024.07.12-23.27.55:734][201]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/Drive19B0DEFD24E533E4E02B66FBBC3A578CA.tmp' to 'G:/project/university/game/car/CarProject/Content/Sounds/Drive1.uasset'
+[2024.07.12-23.27.55:735][201]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Drive2" FILE="G:/project/university/game/car/CarProject/Content/Sounds/Drive2.uasset" SILENT=true
+[2024.07.12-23.27.55:736][201]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/Drive298CB7AC647535B744066A08BF130803E.tmp' to 'G:/project/university/game/car/CarProject/Content/Sounds/Drive2.uasset'
+[2024.07.12-23.27.55:739][201]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Drive3" FILE="G:/project/university/game/car/CarProject/Content/Sounds/Drive3.uasset" SILENT=true
+[2024.07.12-23.27.55:740][201]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/Drive31E399C6746F98621C18D189AC327FDE3.tmp' to 'G:/project/university/game/car/CarProject/Content/Sounds/Drive3.uasset'
+[2024.07.12-23.27.55:741][201]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Ide" FILE="G:/project/university/game/car/CarProject/Content/Sounds/Ide.uasset" SILENT=true
+[2024.07.12-23.27.55:744][201]LogSavePackage: Moving 'G:/project/university/game/car/CarProject/Saved/IdeEA70342245243DFF092C54AA1B4CC446.tmp' to 'G:/project/university/game/car/CarProject/Content/Sounds/Ide.uasset'
+[2024.07.12-23.27.55:806][201]LogSlate: Window 'CarProject - Unreal Editor' being destroyed
+[2024.07.12-23.27.56:015][201]AssetCheck: New page: Asset Save: multiple assets
+[2024.07.12-23.27.56:015][201]LogContentValidation: Display: Validating SoundWave /Game/Sounds/Ide.Ide
+[2024.07.12-23.27.56:015][201]LogContentValidation: Display: Validating SoundWave /Game/Sounds/Drive3.Drive3
+[2024.07.12-23.27.56:015][201]LogContentValidation: Display: Validating SoundWave /Game/Sounds/Drive2.Drive2
+[2024.07.12-23.27.56:015][201]LogContentValidation: Display: Validating SoundWave /Game/Sounds/Drive1.Drive1
+[2024.07.12-23.27.56:019][202]Cmd: QUIT_EDITOR
+[2024.07.12-23.27.56:019][202]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.07.12-23.27.56:029][202]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.07.12-23.27.56:213][202]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.07.12-23.27.56:213][202]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.07.12-23.27.56:213][202]LogAudio: Display: Audio Device unregistered from world 'Minimal_Default'.
+[2024.07.12-23.27.56:213][202]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.07.12-23.27.56:215][202]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.07.12-23.27.56:247][202]LogAudio: Display: Audio Device Manager Shutdown
+[2024.07.12-23.27.56:249][202]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.07.12-23.27.56:260][202]LogExit: Preparing to exit.
+[2024.07.12-23.27.56:305][202]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2024.07.12-23.27.56:810][202]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.07.12-23.27.56:813][202]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.07.12-23.27.56:815][202]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.07.12-23.27.56:907][202]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2024.07.12-23.27.56:964][202]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.07.12-23.27.56:965][202]LogExit: Editor shut down
+[2024.07.12-23.27.56:968][202]LogExit: Transaction tracking system shut down
+[2024.07.12-23.27.57:715][202]LogExit: Object subsystem successfully closed.
+[2024.07.12-23.27.57:742][202]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.07.12-23.27.57:743][202]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2024.07.12-23.27.57:743][202]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2024.07.12-23.27.57:743][202]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.00%
+[2024.07.12-23.27.57:743][202]LogShaderCompilers: Display: ================================================
+[2024.07.12-23.27.57:788][202]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.07.12-23.27.57:987][202]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (876)
+[2024.07.12-23.27.57:988][202]LogModuleManager: Shutting down and abandoning module Voice (874)
+[2024.07.12-23.27.57:989][202]LogModuleManager: Shutting down and abandoning module BlueprintGraph (872)
+[2024.07.12-23.27.57:989][202]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (870)
+[2024.07.12-23.27.57:989][202]LogModuleManager: Shutting down and abandoning module AddContentDialog (868)
+[2024.07.12-23.27.57:994][202]LogModuleManager: Shutting down and abandoning module WidgetCarousel (867)
+[2024.07.12-23.27.57:994][202]LogModuleManager: Shutting down and abandoning module EditorWidgets (864)
+[2024.07.12-23.27.57:994][202]LogModuleManager: Shutting down and abandoning module SceneOutliner (862)
+[2024.07.12-23.27.57:994][202]LogModuleManager: Shutting down and abandoning module StatsViewer (860)
+[2024.07.12-23.27.57:996][202]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (858)
+[2024.07.12-23.27.57:998][202]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (856)
+[2024.07.12-23.27.57:998][202]LogModuleManager: Shutting down and abandoning module AutomationWorker (854)
+[2024.07.12-23.27.58:000][202]LogModuleManager: Shutting down and abandoning module SteamVREditor (852)
+[2024.07.12-23.27.58:000][202]LogModuleManager: Shutting down and abandoning module OculusMR (850)
+[2024.07.12-23.27.58:000][202]LogModuleManager: Shutting down and abandoning module OpenXRInput (848)
+[2024.07.12-23.27.58:000][202]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (846)
+[2024.07.12-23.27.58:004][202]LogModuleManager: Shutting down and abandoning module TakeRecorder (845)
+[2024.07.12-23.27.58:006][202]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (842)
+[2024.07.12-23.27.58:007][202]LogModuleManager: Shutting down and abandoning module TakesCore (840)
+[2024.07.12-23.27.58:008][202]LogModuleManager: Shutting down and abandoning module GooglePADEditor (838)
+[2024.07.12-23.27.58:008][202]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (836)
+[2024.07.12-23.27.58:008][202]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (834)
+[2024.07.12-23.27.58:009][202]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (832)
+[2024.07.12-23.27.58:010][202]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (830)
+[2024.07.12-23.27.58:013][202]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (828)
+[2024.07.12-23.27.58:014][202]LogModuleManager: Shutting down and abandoning module PlanarCut (826)
+[2024.07.12-23.27.58:015][202]LogModuleManager: Shutting down and abandoning module CharacterAI (824)
+[2024.07.12-23.27.58:015][202]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (822)
+[2024.07.12-23.27.58:015][202]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (820)
+[2024.07.12-23.27.58:015][202]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (818)
+[2024.07.12-23.27.58:015][202]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (816)
+[2024.07.12-23.27.58:015][202]LogModuleManager: Shutting down and abandoning module WebMMedia (814)
+[2024.07.12-23.27.58:016][202]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (812)
+[2024.07.12-23.27.58:018][202]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (810)
+[2024.07.12-23.27.58:020][202]LogModuleManager: Shutting down and abandoning module SequenceRecorder (809)
+[2024.07.12-23.27.58:021][202]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (806)
+[2024.07.12-23.27.58:021][202]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (804)
+[2024.07.12-23.27.58:021][202]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (802)
+[2024.07.12-23.27.58:021][202]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (800)
+[2024.07.12-23.27.58:021][202]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (798)
+[2024.07.12-23.27.58:021][202]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (796)
+[2024.07.12-23.27.58:021][202]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (794)
+[2024.07.12-23.27.58:021][202]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (792)
+[2024.07.12-23.27.58:021][202]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (790)
+[2024.07.12-23.27.58:021][202]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (788)
+[2024.07.12-23.27.58:021][202]LogModuleManager: Shutting down and abandoning module TextureAlignMode (786)
+[2024.07.12-23.27.58:021][202]LogModuleManager: Shutting down and abandoning module BspMode (784)
+[2024.07.12-23.27.58:022][202]LogModuleManager: Shutting down and abandoning module GeometryMode (782)
+[2024.07.12-23.27.58:023][202]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (780)
+[2024.07.12-23.27.58:024][202]LogModuleManager: Shutting down and abandoning module SmartSnapping (778)
+[2024.07.12-23.27.58:024][202]LogModuleManager: Shutting down and abandoning module SessionServices (776)
+[2024.07.12-23.27.58:024][202]LogModuleManager: Shutting down and abandoning module MeshPaint (774)
+[2024.07.12-23.27.58:027][202]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (772)
+[2024.07.12-23.27.58:028][202]LogModuleManager: Shutting down and abandoning module FoliageEdit (770)
+[2024.07.12-23.27.58:029][202]LogModuleManager: Shutting down and abandoning module LandscapeEditor (768)
+[2024.07.12-23.27.58:033][202]LogModuleManager: Shutting down and abandoning module MeshPaintMode (766)
+[2024.07.12-23.27.58:033][202]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (764)
+[2024.07.12-23.27.58:033][202]LogModuleManager: Shutting down and abandoning module ActorPickerMode (762)
+[2024.07.12-23.27.58:033][202]LogModuleManager: Shutting down and abandoning module PlacementMode (760)
+[2024.07.12-23.27.58:033][202]LogModuleManager: Shutting down and abandoning module ViewportSnapping (758)
+[2024.07.12-23.27.58:033][202]LogModuleManager: Shutting down and abandoning module ViewportInteraction (756)
+[2024.07.12-23.27.58:033][202]LogModuleManager: Shutting down and abandoning module ClothPainter (754)
+[2024.07.12-23.27.58:035][202]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (753)
+[2024.07.12-23.27.58:038][202]LogModuleManager: Shutting down and abandoning module LogVisualizer (750)
+[2024.07.12-23.27.58:040][202]LogModuleManager: Shutting down and abandoning module IntroTutorials (748)
+[2024.07.12-23.27.58:042][202]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (747)
+[2024.07.12-23.27.58:043][202]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (744)
+[2024.07.12-23.27.58:043][202]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (742)
+[2024.07.12-23.27.58:044][202]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (740)
+[2024.07.12-23.27.58:044][202]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (739)
+[2024.07.12-23.27.59:910][202]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (736)
+[2024.07.12-23.27.59:910][202]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (734)
+[2024.07.12-23.27.59:910][202]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (732)
+[2024.07.12-23.27.59:910][202]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (730)
+[2024.07.12-23.27.59:910][202]LogModuleManager: Shutting down and abandoning module TraceInsights (728)
+[2024.07.12-23.27.59:921][202]MemoryProfiler: Shutdown
+[2024.07.12-23.27.59:921][202]NetworkingProfiler: Shutdown
+[2024.07.12-23.27.59:921][202]LoadingProfiler: Shutdown
+[2024.07.12-23.27.59:924][202]TimingProfiler: Shutdown
+[2024.07.12-23.27.59:929][202]LogModuleManager: Shutting down and abandoning module TraceServices (727)
+[2024.07.12-23.27.59:934][202]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (724)
+[2024.07.12-23.27.59:934][202]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (722)
+[2024.07.12-23.27.59:934][202]LogModuleManager: Shutting down and abandoning module InputBindingEditor (720)
+[2024.07.12-23.27.59:936][202]LogModuleManager: Shutting down and abandoning module MergeActors (718)
+[2024.07.12-23.27.59:940][202]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (716)
+[2024.07.12-23.27.59:941][202]LogModuleManager: Shutting down and abandoning module LocalizationService (715)
+[2024.07.12-23.27.59:942][202]LogModuleManager: Shutting down and abandoning module HardwareTargeting (712)
+[2024.07.12-23.27.59:942][202]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (710)
+[2024.07.12-23.27.59:943][202]LogModuleManager: Shutting down and abandoning module UndoHistory (708)
+[2024.07.12-23.27.59:945][202]LogModuleManager: Shutting down and abandoning module XmlParser (706)
+[2024.07.12-23.27.59:946][202]LogModuleManager: Shutting down and abandoning module Blutility (704)
+[2024.07.12-23.27.59:948][202]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (702)
+[2024.07.12-23.27.59:948][202]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (701)
+[2024.07.12-23.27.59:949][202]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (698)
+[2024.07.12-23.27.59:949][202]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (697)
+[2024.07.12-23.27.59:949][202]LogModuleManager: Shutting down and abandoning module SettingsEditor (694)
+[2024.07.12-23.27.59:952][202]LogModuleManager: Shutting down and abandoning module ProjectLauncher (692)
+[2024.07.12-23.27.59:953][202]LogModuleManager: Shutting down and abandoning module SessionFrontend (690)
+[2024.07.12-23.27.59:955][202]LogModuleManager: Shutting down and abandoning module ProfilerClient (688)
+[2024.07.12-23.27.59:956][202]LogModuleManager: Shutting down and abandoning module DeviceManager (686)
+[2024.07.12-23.27.59:958][202]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (685)
+[2024.07.12-23.27.59:991][202]LogModuleManager: Shutting down and abandoning module AutomationController (682)
+[2024.07.12-23.27.59:994][202]LogModuleManager: Shutting down and abandoning module AutomationWindow (680)
+[2024.07.12-23.27.59:996][202]LogModuleManager: Shutting down and abandoning module Layers (678)
+[2024.07.12-23.28.00:002][202]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (676)
+[2024.07.12-23.28.00:002][202]LogModuleManager: Shutting down and abandoning module DetailCustomizations (674)
+[2024.07.12-23.28.00:002][202]LogModuleManager: Shutting down and abandoning module PackagesDialog (672)
+[2024.07.12-23.28.00:004][202]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (670)
+[2024.07.12-23.28.00:007][202]LogModuleManager: Shutting down and abandoning module Persona (668)
+[2024.07.12-23.28.00:011][202]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (667)
+[2024.07.12-23.28.00:012][202]LogModuleManager: Shutting down and abandoning module AnimGraph (665)
+[2024.07.12-23.28.00:012][202]LogModuleManager: Shutting down and abandoning module Kismet (662)
+[2024.07.12-23.28.00:026][202]LogModuleManager: Shutting down and abandoning module KismetWidgets (661)
+[2024.07.12-23.28.00:026][202]LogModuleManager: Shutting down and abandoning module GraphEditor (658)
+[2024.07.12-23.28.00:026][202]LogModuleManager: Shutting down and abandoning module StructViewer (656)
+[2024.07.12-23.28.00:026][202]LogModuleManager: Shutting down and abandoning module ClassViewer (654)
+[2024.07.12-23.28.00:026][202]LogModuleManager: Shutting down and abandoning module Toolbox (652)
+[2024.07.12-23.28.00:026][202]LogModuleManager: Shutting down and abandoning module ModuleUI (650)
+[2024.07.12-23.28.00:027][202]LogModuleManager: Shutting down and abandoning module OutputLog (648)
+[2024.07.12-23.28.00:030][202]LogModuleManager: Shutting down and abandoning module GammaUI (646)
+[2024.07.12-23.28.00:031][202]LogModuleManager: Shutting down and abandoning module Documentation (644)
+[2024.07.12-23.28.00:031][202]LogModuleManager: Shutting down and abandoning module LiveCoding (642)
+[2024.07.12-23.28.00:032][202]LogModuleManager: Shutting down and abandoning module LevelSequence (640)
+[2024.07.12-23.28.00:032][202]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (638)
+[2024.07.12-23.28.00:032][202]LogModuleManager: Shutting down and abandoning module MovieScene (636)
+[2024.07.12-23.28.00:036][202]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (634)
+[2024.07.12-23.28.00:037][202]LogModuleManager: Shutting down and abandoning module LauncherPlatform (632)
+[2024.07.12-23.28.00:037][202]LogModuleManager: Shutting down and abandoning module AnalyticsET (630)
+[2024.07.12-23.28.00:038][202]LogModuleManager: Shutting down and abandoning module PortalServices (628)
+[2024.07.12-23.28.00:038][202]LogModuleManager: Shutting down and abandoning module PortalRpc (626)
+[2024.07.12-23.28.00:038][202]LogModuleManager: Shutting down and abandoning module MessagingRpc (624)
+[2024.07.12-23.28.00:038][202]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (622)
+[2024.07.12-23.28.00:038][202]LogModuleManager: Shutting down and abandoning module AudioMixerCore (621)
+[2024.07.12-23.28.00:038][202]LogModuleManager: Shutting down and abandoning module AIModule (618)
+[2024.07.12-23.28.00:038][202]LogModuleManager: Shutting down and abandoning module GameplayDebugger (617)
+[2024.07.12-23.28.00:038][202]LogModuleManager: Shutting down and abandoning module AITestSuite (615)
+[2024.07.12-23.28.00:040][202]LogModuleManager: Shutting down and abandoning module NavigationSystem (613)
+[2024.07.12-23.28.00:040][202]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (610)
+[2024.07.12-23.28.00:040][202]LogModuleManager: Shutting down and abandoning module ProfilerService (608)
+[2024.07.12-23.28.00:201][202]LogModuleManager: Shutting down and abandoning module TaskGraph (606)
+[2024.07.12-23.28.00:204][202]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (604)
+[2024.07.12-23.28.00:204][202]LogModuleManager: Shutting down and abandoning module OculusEditor (602)
+[2024.07.12-23.28.00:213][202]LogModuleManager: Shutting down and abandoning module OculusInput (600)
+[2024.07.12-23.28.00:213][202]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (598)
+[2024.07.12-23.28.00:213][202]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (596)
+[2024.07.12-23.28.00:213][202]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (594)
+[2024.07.12-23.28.00:214][202]LogModuleManager: Shutting down and abandoning module CollectionManager (593)
+[2024.07.12-23.28.00:217][202]LogModuleManager: Shutting down and abandoning module SynthesisEditor (590)
+[2024.07.12-23.28.00:217][202]LogModuleManager: Shutting down and abandoning module Synthesis (588)
+[2024.07.12-23.28.00:220][202]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (586)
+[2024.07.12-23.28.00:221][202]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (584)
+[2024.07.12-23.28.00:221][202]LogModuleManager: Shutting down and abandoning module OpenXREditor (582)
+[2024.07.12-23.28.00:222][202]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (580)
+[2024.07.12-23.28.00:222][202]LogModuleManager: Shutting down and abandoning module TakeSequencer (578)
+[2024.07.12-23.28.00:222][202]LogModuleManager: Shutting down and abandoning module TakeMovieScene (576)
+[2024.07.12-23.28.00:222][202]LogModuleManager: Shutting down and abandoning module GooglePAD (574)
+[2024.07.12-23.28.00:222][202]LogModuleManager: Shutting down and abandoning module ScreenshotTools (572)
+[2024.07.12-23.28.00:222][202]LogModuleManager: Shutting down and abandoning module EditableMesh (570)
+[2024.07.12-23.28.00:223][202]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (568)
+[2024.07.12-23.28.00:223][202]LogModuleManager: Shutting down and abandoning module CableComponent (566)
+[2024.07.12-23.28.00:224][202]LogModuleManager: Shutting down and abandoning module AudioCapture (564)
+[2024.07.12-23.28.00:224][202]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (563)
+[2024.07.12-23.28.00:226][202]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (560)
+[2024.07.12-23.28.00:226][202]LogModuleManager: Shutting down and abandoning module AssetTags (558)
+[2024.07.12-23.28.00:226][202]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (556)
+[2024.07.12-23.28.00:226][202]LogModuleManager: Shutting down and abandoning module AppleImageUtils (554)
+[2024.07.12-23.28.00:226][202]LogModuleManager: Shutting down and abandoning module AndroidPermission (552)
+[2024.07.12-23.28.00:226][202]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (550)
+[2024.07.12-23.28.00:226][202]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (548)
+[2024.07.12-23.28.00:226][202]LogModuleManager: Shutting down and abandoning module TemplateSequence (546)
+[2024.07.12-23.28.00:228][202]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (544)
+[2024.07.12-23.28.00:228][202]LogOpenImageDenoise: OIDN shutting down
+[2024.07.12-23.28.00:228][202]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (542)
+[2024.07.12-23.28.00:228][202]LogModuleManager: Shutting down and abandoning module MotoSynth (540)
+[2024.07.12-23.28.00:228][202]LogModuleManager: Shutting down and abandoning module MeshConversion (538)
+[2024.07.12-23.28.00:229][202]LogModuleManager: Shutting down and abandoning module DynamicMesh (536)
+[2024.07.12-23.28.00:232][202]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (534)
+[2024.07.12-23.28.00:233][202]LogModuleManager: Shutting down and abandoning module GeometricObjects (532)
+[2024.07.12-23.28.00:237][202]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (530)
+[2024.07.12-23.28.00:237][202]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (529)
+[2024.07.12-23.28.00:237][202]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (526)
+[2024.07.12-23.28.00:237][202]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (524)
+[2024.07.12-23.28.00:237][202]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (522)
+[2024.07.12-23.28.00:239][202]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (520)
+[2024.07.12-23.28.00:239][202]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (518)
+[2024.07.12-23.28.00:239][202]LogModuleManager: Shutting down and abandoning module ChaosNiagara (516)
+[2024.07.12-23.28.00:239][202]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (514)
+[2024.07.12-23.28.00:241][202]LogModuleManager: Shutting down and abandoning module FractureEditor (512)
+[2024.07.12-23.28.00:244][202]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (511)
+[2024.07.12-23.28.00:244][202]LogModuleManager: Shutting down and abandoning module BackChannel (508)
+[2024.07.12-23.28.00:244][202]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (506)
+[2024.07.12-23.28.00:244][202]LogModuleManager: Shutting down and abandoning module AutomationUtils (504)
+[2024.07.12-23.28.00:244][202]LogModuleManager: Shutting down and abandoning module AlembicImporter (502)
+[2024.07.12-23.28.00:244][202]LogModuleManager: Shutting down and abandoning module AlembicLibrary (501)
+[2024.07.12-23.28.00:244][202]LogModuleManager: Shutting down and abandoning module GeometryCache (500)
+[2024.07.12-23.28.00:245][202]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (499)
+[2024.07.12-23.28.00:245][202]LogModuleManager: Shutting down and abandoning module MediaCompositing (494)
+[2024.07.12-23.28.00:245][202]LogModuleManager: Shutting down and abandoning module ImgMedia (492)
+[2024.07.12-23.28.00:245][202]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (490)
+[2024.07.12-23.28.00:245][202]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (488)
+[2024.07.12-23.28.00:245][202]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (486)
+[2024.07.12-23.28.00:245][202]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (484)
+[2024.07.12-23.28.00:245][202]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (482)
+[2024.07.12-23.28.00:246][202]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (480)
+[2024.07.12-23.28.00:255][202]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (478)
+[2024.07.12-23.28.00:255][202]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (476)
+[2024.07.12-23.28.00:256][202]LogModuleManager: Shutting down and abandoning module UObjectPlugin (474)
+[2024.07.12-23.28.00:256][202]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (472)
+[2024.07.12-23.28.00:260][202]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (470)
+[2024.07.12-23.28.00:260][202]LogModuleManager: Shutting down and abandoning module PluginUtils (468)
+[2024.07.12-23.28.00:261][202]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (466)
+[2024.07.12-23.28.00:265][202]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (464)
+[2024.07.12-23.28.00:272][202]LogModuleManager: Shutting down and abandoning module GitSourceControl (462)
+[2024.07.12-23.28.00:275][202]LogModuleManager: Shutting down and abandoning module SourceControl (461)
+[2024.07.12-23.28.00:276][202]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (458)
+[2024.07.12-23.28.00:276][202]LogModuleManager: Shutting down and abandoning module PluginBrowser (456)
+[2024.07.12-23.28.00:283][202]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (454)
+[2024.07.12-23.28.00:283][202]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (452)
+[2024.07.12-23.28.00:285][202]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (450)
+[2024.07.12-23.28.00:288][202]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (448)
+[2024.07.12-23.28.00:288][202]LogModuleManager: Shutting down and abandoning module CurveEditorTools (446)
+[2024.07.12-23.28.00:291][202]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (444)
+[2024.07.12-23.28.00:291][202]LogModuleManager: Shutting down and abandoning module CryptoKeys (442)
+[2024.07.12-23.28.00:291][202]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (440)
+[2024.07.12-23.28.00:292][202]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (438)
+[2024.07.12-23.28.00:295][202]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (436)
+[2024.07.12-23.28.00:295][202]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (434)
+[2024.07.12-23.28.00:295][202]LogModuleManager: Shutting down and abandoning module LiveLinkSequencer (432)
+[2024.07.12-23.28.00:295][202]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (430)
+[2024.07.12-23.28.00:295][202]LogModuleManager: Shutting down and abandoning module LiveLinkGraphNode (428)
+[2024.07.12-23.28.00:295][202]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (426)
+[2024.07.12-23.28.00:297][202]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (424)
+[2024.07.12-23.28.00:297][202]LogModuleManager: Shutting down and abandoning module LiveLink (422)
+[2024.07.12-23.28.00:570][202]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (420)
+[2024.07.12-23.28.00:570][202]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (418)
+[2024.07.12-23.28.00:571][202]LogModuleManager: Shutting down and abandoning module Paper2DEditor (416)
+[2024.07.12-23.28.00:576][202]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (414)
+[2024.07.12-23.28.00:578][202]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (412)
+[2024.07.12-23.28.00:580][202]LogModuleManager: Shutting down and abandoning module SoundFields (410)
+[2024.07.12-23.28.00:580][202]LogModuleManager: Shutting down and abandoning module SignificanceManager (408)
+[2024.07.12-23.28.00:580][202]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (406)
+[2024.07.12-23.28.00:580][202]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (404)
+[2024.07.12-23.28.00:582][202]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (402)
+[2024.07.12-23.28.00:582][202]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (398)
+[2024.07.12-23.28.00:582][202]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (396)
+[2024.07.12-23.28.00:583][202]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (394)
+[2024.07.12-23.28.00:583][202]LogModuleManager: Shutting down and abandoning module ActorSequence (392)
+[2024.07.12-23.28.00:583][202]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (390)
+[2024.07.12-23.28.00:584][202]LogModuleManager: Shutting down and abandoning module UdpMessaging (388)
+[2024.07.12-23.28.00:684][202]LogModuleManager: Shutting down and abandoning module TcpMessaging (386)
+[2024.07.12-23.28.00:786][202]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (384)
+[2024.07.12-23.28.00:786][202]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (382)
+[2024.07.12-23.28.00:786][202]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (380)
+[2024.07.12-23.28.00:786][202]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (378)
+[2024.07.12-23.28.00:786][202]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (376)
+[2024.07.12-23.28.00:787][202]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (374)
+[2024.07.12-23.28.00:790][202]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2024.07.12-23.28.00:790][202]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (372)
+[2024.07.12-23.28.00:790][202]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (370)
+[2024.07.12-23.28.00:790][202]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (368)
+[2024.07.12-23.28.00:791][202]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (366)
+[2024.07.12-23.28.00:791][202]LogModuleManager: Shutting down and abandoning module MagicLeapController (364)
+[2024.07.12-23.28.00:791][202]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (362)
+[2024.07.12-23.28.00:791][202]LogModuleManager: Shutting down and abandoning module MagicLeapAR (360)
+[2024.07.12-23.28.00:791][202]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (358)
+[2024.07.12-23.28.00:791][202]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2024.07.12-23.28.00:796][202]LogModuleManager: Shutting down and abandoning module SignalProcessing (355)
+[2024.07.12-23.28.00:796][202]LogModuleManager: Shutting down and abandoning module NiagaraEditor (353)
+[2024.07.12-23.28.00:801][202]LogModuleManager: Shutting down and abandoning module NiagaraCore (350)
+[2024.07.12-23.28.00:802][202]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (348)
+[2024.07.12-23.28.00:802][202]LogModuleManager: Shutting down and abandoning module AnimationSharing (346)
+[2024.07.12-23.28.00:802][202]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (344)
+[2024.07.12-23.28.00:802][202]LogModuleManager: Shutting down and abandoning module FacialAnimation (342)
+[2024.07.12-23.28.00:802][202]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (340)
+[2024.07.12-23.28.00:804][202]LogModuleManager: Shutting down and abandoning module DataValidation (338)
+[2024.07.12-23.28.00:804][202]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (336)
+[2024.07.12-23.28.00:806][202]LogModuleManager: Shutting down and abandoning module LevelEditor (335)
+[2024.07.12-23.28.00:815][202]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (334)
+[2024.07.12-23.28.00:817][202]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (332)
+[2024.07.12-23.28.00:818][202]LogModuleManager: Shutting down and abandoning module MainFrame (330)
+[2024.07.12-23.28.00:819][202]LogModuleManager: Shutting down and abandoning module HotReload (329)
+[2024.07.12-23.28.00:821][202]LogModuleManager: Shutting down and abandoning module ToolMenus (325)
+[2024.07.12-23.28.00:822][202]LogModuleManager: Shutting down and abandoning module ContentBrowser (323)
+[2024.07.12-23.28.00:822][202]LogModuleManager: Shutting down and abandoning module ContentBrowserData (322)
+[2024.07.12-23.28.00:822][202]LogModuleManager: Shutting down and abandoning module TreeMap (319)
+[2024.07.12-23.28.00:823][202]LogModuleManager: Shutting down and abandoning module GameplayCameras (316)
+[2024.07.12-23.28.00:823][202]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (314)
+[2024.07.12-23.28.00:823][202]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (312)
+[2024.07.12-23.28.00:826][202]LogModuleManager: Shutting down and abandoning module Paper2D (310)
+[2024.07.12-23.28.00:828][202]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (308)
+[2024.07.12-23.28.00:852][202]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (306)
+[2024.07.12-23.28.00:854][202]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (304)
+[2024.07.12-23.28.00:854][202]LogModuleManager: Shutting down and abandoning module PacketHandler (302)
+[2024.07.12-23.28.00:854][202]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (300)
+[2024.07.12-23.28.00:854][202]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (298)
+[2024.07.12-23.28.00:856][202]LogModuleManager: Shutting down and abandoning module MediaAssets (296)
+[2024.07.12-23.28.00:856][202]LogModuleManager: Shutting down and abandoning module Overlay (294)
+[2024.07.12-23.28.00:856][202]LogModuleManager: Shutting down and abandoning module OverlayEditor (293)
+[2024.07.12-23.28.00:856][202]LogModuleManager: Shutting down and abandoning module VREditor (290)
+[2024.07.12-23.28.00:857][202]LogModuleManager: Shutting down and abandoning module StringTableEditor (288)
+[2024.07.12-23.28.00:859][202]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (286)
+[2024.07.12-23.28.00:859][202]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (284)
+[2024.07.12-23.28.00:862][202]LogModuleManager: Shutting down and abandoning module FunctionalTesting (282)
+[2024.07.12-23.28.00:862][202]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (280)
+[2024.07.12-23.28.00:864][202]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (279)
+[2024.07.12-23.28.00:864][202]LogModuleManager: Shutting down and abandoning module UMG (276)
+[2024.07.12-23.28.00:865][202]LogModuleManager: Shutting down and abandoning module UMGEditor (275)
+[2024.07.12-23.28.00:865][202]LogModuleManager: Shutting down and abandoning module MessageLog (273)
+[2024.07.12-23.28.00:865][202]LogModuleManager: Shutting down and abandoning module SlateReflector (268)
+[2024.07.12-23.28.00:875][202]LogModuleManager: Shutting down and abandoning module Slate (266)
+[2024.07.12-23.28.00:875][202]LogModuleManager: Shutting down and abandoning module SlateCore (264)
+[2024.07.12-23.28.00:877][202]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (262)
+[2024.07.12-23.28.00:877][202]LogModuleManager: Shutting down and abandoning module UnrealEd (260)
+[2024.07.12-23.28.00:877][202]LogModuleManager: Shutting down and abandoning module MRMesh (258)
+[2024.07.12-23.28.00:877][202]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (256)
+[2024.07.12-23.28.00:877][202]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (254)
+[2024.07.12-23.28.00:877][202]LogModuleManager: Shutting down and abandoning module XAudio2 (252)
+[2024.07.12-23.28.00:879][202]LogModuleManager: Shutting down and abandoning module Networking (250)
+[2024.07.12-23.28.00:879][202]LogModuleManager: Shutting down and abandoning module Core (248)
+[2024.07.12-23.28.00:879][202]LogModuleManager: Shutting down and abandoning module MaterialEditor (246)
+[2024.07.12-23.28.00:882][202]LogModuleManager: Shutting down and abandoning module MovieSceneTools (244)
+[2024.07.12-23.28.00:885][202]LogModuleManager: Shutting down and abandoning module CurveEditor (243)
+[2024.07.12-23.28.00:888][202]LogModuleManager: Shutting down and abandoning module Sequencer (241)
+[2024.07.12-23.28.00:893][202]LogModuleManager: Shutting down and abandoning module EditorStyle (240)
+[2024.07.12-23.28.00:895][202]LogModuleManager: Shutting down and abandoning module KismetCompiler (236)
+[2024.07.12-23.28.00:896][202]LogModuleManager: Shutting down and abandoning module MeshBuilder (234)
+[2024.07.12-23.28.00:897][202]LogModuleManager: Shutting down and abandoning module MeshUtilities (232)
+[2024.07.12-23.28.00:898][202]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (231)
+[2024.07.12-23.28.00:899][202]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (230)
+[2024.07.12-23.28.00:899][202]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (229)
+[2024.07.12-23.28.00:900][202]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (227)
+[2024.07.12-23.28.00:901][202]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (225)
+[2024.07.12-23.28.00:904][202]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (223)
+[2024.07.12-23.28.00:905][202]LogModuleManager: Shutting down and abandoning module MaterialBaking (219)
+[2024.07.12-23.28.00:907][202]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (214)
+[2024.07.12-23.28.00:907][202]LogModuleManager: Shutting down and abandoning module DerivedDataCache (212)
+[2024.07.12-23.28.00:909][202]LogModuleManager: Shutting down and abandoning module TargetPlatform (210)
+[2024.07.12-23.28.00:910][202]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (209)
+[2024.07.12-23.28.00:915][202]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (207)
+[2024.07.12-23.28.00:916][202]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (205)
+[2024.07.12-23.28.00:918][202]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (203)
+[2024.07.12-23.28.00:920][202]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (201)
+[2024.07.12-23.28.00:921][202]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (199)
+[2024.07.12-23.28.00:922][202]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (197)
+[2024.07.12-23.28.00:922][202]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (195)
+[2024.07.12-23.28.00:922][202]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (193)
+[2024.07.12-23.28.00:922][202]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (191)
+[2024.07.12-23.28.00:923][202]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (189)
+[2024.07.12-23.28.00:924][202]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (187)
+[2024.07.12-23.28.00:924][202]LogModuleManager: Shutting down and abandoning module ImageWrapper (186)
+[2024.07.12-23.28.00:924][202]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (183)
+[2024.07.12-23.28.00:924][202]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (181)
+[2024.07.12-23.28.00:924][202]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (179)
+[2024.07.12-23.28.00:925][202]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (177)
+[2024.07.12-23.28.00:925][202]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (175)
+[2024.07.12-23.28.00:925][202]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (173)
+[2024.07.12-23.28.00:925][202]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (171)
+[2024.07.12-23.28.00:925][202]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (169)
+[2024.07.12-23.28.00:935][202]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (167)
+[2024.07.12-23.28.00:935][202]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (165)
+[2024.07.12-23.28.00:935][202]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (163)
+[2024.07.12-23.28.00:935][202]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (161)
+[2024.07.12-23.28.00:936][202]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (159)
+[2024.07.12-23.28.00:951][202]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (157)
+[2024.07.12-23.28.00:952][202]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (155)
+[2024.07.12-23.28.00:952][202]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (153)
+[2024.07.12-23.28.00:952][202]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (151)
+[2024.07.12-23.28.00:952][202]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (149)
+[2024.07.12-23.28.00:952][202]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (147)
+[2024.07.12-23.28.00:952][202]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (145)
+[2024.07.12-23.28.00:952][202]LogModuleManager: Shutting down and abandoning module Messaging (143)
+[2024.07.12-23.28.00:952][202]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (141)
+[2024.07.12-23.28.00:961][202]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (139)
+[2024.07.12-23.28.00:993][202]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (137)
+[2024.07.12-23.28.00:993][202]LogModuleManager: Shutting down and abandoning module D3D11RHI (134)
+[2024.07.12-23.28.00:993][202]LogModuleManager: Shutting down and abandoning module InputCore (132)
+[2024.07.12-23.28.00:993][202]LogModuleManager: Shutting down and abandoning module Settings (130)
+[2024.07.12-23.28.00:993][202]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (128)
+[2024.07.12-23.28.00:995][202]LogModuleManager: Shutting down and abandoning module PhysXCooking (126)
+[2024.07.12-23.28.00:996][202]LogModuleManager: Shutting down and abandoning module Chaos (124)
+[2024.07.12-23.28.00:997][202]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (122)
+[2024.07.12-23.28.00:998][202]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (121)
+[2024.07.12-23.28.01:000][202]LogModuleManager: Shutting down and abandoning module AVEncoder (120)
+[2024.07.12-23.28.01:001][202]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (116)
+[2024.07.12-23.28.01:001][202]LogModuleManager: Shutting down and abandoning module SteamVRInput (114)
+[2024.07.12-23.28.01:001][202]LogModuleManager: Shutting down and abandoning module SteamVR (112)
+[2024.07.12-23.28.01:002][202]LogHMD: Freeing OpenVRDLLHandle.
+[2024.07.12-23.28.01:002][202]LogModuleManager: Shutting down and abandoning module OculusHMD (110)
+[2024.07.12-23.28.01:003][202]LogModuleManager: Shutting down and abandoning module OpenXREyeTracker (108)
+[2024.07.12-23.28.01:003][202]LogModuleManager: Shutting down and abandoning module OpenXRHandTracking (106)
+[2024.07.12-23.28.01:004][202]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.07.12-23.28.01:004][202]LogModuleManager: Shutting down and abandoning module OpenXRAR (104)
+[2024.07.12-23.28.01:005][202]LogModuleManager: Shutting down and abandoning module AugmentedReality (103)
+[2024.07.12-23.28.01:005][202]LogModuleManager: Shutting down and abandoning module OpenXRHMD (100)
+[2024.07.12-23.28.01:008][202]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (98)
+[2024.07.12-23.28.01:008][202]LogModuleManager: Shutting down and abandoning module ChunkDownloader (96)
+[2024.07.12-23.28.01:009][202]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (94)
+[2024.07.12-23.28.01:009][202]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (92)
+[2024.07.12-23.28.01:009][202]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (88)
+[2024.07.12-23.28.01:011][202]LogModuleManager: Shutting down and abandoning module XMPP (83)
+[2024.07.12-23.28.01:016][202]LogModuleManager: Shutting down and abandoning module WebSockets (82)
+[2024.07.12-23.28.01:034][202]LogModuleManager: Shutting down and abandoning module HTTP (79)
+[2024.07.12-23.28.01:034][202]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2024.07.12-23.28.01:035][202]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8869FB87-4C51-5CC9-9676-618AAEBD2C5E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2024.07.12-23.28.01:035][202]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2024.07.12-23.28.01:064][202]LogModuleManager: Shutting down and abandoning module SSL (78)
+[2024.07.12-23.28.01:068][202]LogModuleManager: Shutting down and abandoning module ChaosCloth (74)
+[2024.07.12-23.28.01:070][202]LogModuleManager: Shutting down and abandoning module WmfMedia (72)
+[2024.07.12-23.28.01:076][202]LogModuleManager: Shutting down and abandoning module Media (71)
+[2024.07.12-23.28.01:078][202]LogModuleManager: Shutting down and abandoning module MediaInfo (70)
+[2024.07.12-23.28.01:078][202]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (66)
+[2024.07.12-23.28.01:080][202]LogModuleManager: Shutting down and abandoning module MLSDK (64)
+[2024.07.12-23.28.01:081][202]LogModuleManager: Shutting down and abandoning module MagicLeap (62)
+[2024.07.12-23.28.01:081][202]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (60)
+[2024.07.12-23.28.01:081][202]LogModuleManager: Shutting down and abandoning module NiagaraShader (58)
+[2024.07.12-23.28.01:081][202]LogModuleManager: Shutting down and abandoning module PixWinPlugin (56)
+[2024.07.12-23.28.01:082][202]LogModuleManager: Shutting down and abandoning module VariantManagerContent (54)
+[2024.07.12-23.28.01:082][202]LogModuleManager: Shutting down and abandoning module DatasmithContent (52)
+[2024.07.12-23.28.01:082][202]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2024.07.12-23.28.01:082][202]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2024.07.12-23.28.01:082][202]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (46)
+[2024.07.12-23.28.01:082][202]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2024.07.12-23.28.01:084][202]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2024.07.12-23.28.01:084][202]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2024.07.12-23.28.01:084][202]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (38)
+[2024.07.12-23.28.01:085][202]LogModuleManager: Shutting down and abandoning module XGEController (36)
+[2024.07.12-23.28.01:085][202]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2024.07.12-23.28.01:087][202]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2024.07.12-23.28.01:087][202]LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
+[2024.07.12-23.28.01:089][202]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2024.07.12-23.28.01:091][202]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2024.07.12-23.28.01:091][202]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2024.07.12-23.28.01:091][202]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2024.07.12-23.28.01:093][202]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2024.07.12-23.28.01:095][202]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2024.07.12-23.28.01:096][202]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2024.07.12-23.28.01:096][202]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2024.07.12-23.28.01:096][202]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2024.07.12-23.28.01:097][202]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2024.07.12-23.28.01:097][202]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2024.07.12-23.28.01:098][202]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2024.07.12-23.28.01:100][202]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2024.07.12-23.28.01:100][202]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2024.07.12-23.28.01:101][202]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2024.07.12-23.28.01:129][202]LogD3D11RHI: Shutdown
+[2024.07.12-23.28.01:129][202]LogD3D11RHI: CleanupD3DDevice
+[2024.07.12-23.28.01:145][202]LogExit: Exiting.
+[2024.07.12-23.28.01:167][202]Log file closed, 07/12/24 16:28:01
